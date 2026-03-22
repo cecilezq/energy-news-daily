@@ -8,206 +8,235 @@
     * { box-sizing: border-box; margin: 0; padding: 0; }
 
     body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      background: #0f1117;
-      color: #e2e8f0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+      background: #f0f4f0;
+      color: #1a2e1a;
       min-height: 100vh;
     }
 
     header {
-      background: linear-gradient(135deg, #0d1f0d 0%, #0f2a1a 100%);
-      border-bottom: 1px solid #1e3a2a;
-      padding: 20px 40px;
+      background: #ffffff;
+      border-bottom: 1px solid #e0ebe0;
+      padding: 0 40px;
+      height: 64px;
       display: flex;
       align-items: center;
       justify-content: space-between;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 1px 8px rgba(0,0,0,0.06);
     }
 
     .logo {
       display: flex;
       align-items: center;
-      gap: 12px;
+      gap: 10px;
     }
 
     .logo-icon {
-      width: 36px;
-      height: 36px;
-      background: linear-gradient(135deg, #22c55e, #16a34a);
+      width: 34px;
+      height: 34px;
+      background: linear-gradient(135deg, #16a34a, #15803d);
       border-radius: 8px;
       display: flex;
       align-items: center;
       justify-content: center;
-      font-size: 18px;
+      font-size: 16px;
+      color: white;
     }
 
     .logo-text {
-      font-size: 20px;
+      font-size: 18px;
       font-weight: 700;
-      color: #f0fdf4;
+      color: #14532d;
       letter-spacing: -0.3px;
     }
 
     .logo-sub {
-      font-size: 12px;
-      color: #4ade80;
+      font-size: 11px;
+      color: #16a34a;
       margin-top: 1px;
+      font-weight: 500;
     }
 
-    .updated {
+    .header-right {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+
+    .updated-badge {
+      background: #f0fdf4;
+      border: 1px solid #bbf7d0;
+      color: #15803d;
       font-size: 12px;
-      color: #6b7280;
-    }
-
-    .updated span {
-      color: #4ade80;
+      font-weight: 500;
+      padding: 4px 12px;
+      border-radius: 20px;
     }
 
     main {
-      max-width: 1200px;
+      max-width: 1280px;
       margin: 0 auto;
-      padding: 32px 24px;
+      padding: 32px 24px 60px;
     }
 
-    /* Major Events banner */
+    /* Major Events */
     .major-section {
-      margin-bottom: 40px;
+      margin-bottom: 48px;
     }
 
     .section-header {
       display: flex;
       align-items: center;
       gap: 10px;
-      margin-bottom: 16px;
+      margin-bottom: 18px;
     }
 
-    .section-badge {
-      font-size: 11px;
-      font-weight: 700;
-      letter-spacing: 0.8px;
-      text-transform: uppercase;
-      padding: 3px 10px;
-      border-radius: 20px;
+    .section-icon {
+      font-size: 18px;
     }
-
-    .badge-major { background: #7c2d12; color: #fb923c; }
-    .badge-global { background: #1e3a5f; color: #60a5fa; }
-    .badge-sea { background: #1a3a2a; color: #34d399; }
-    .badge-china { background: #3b1f1f; color: #f87171; }
 
     .section-title {
-      font-size: 18px;
-      font-weight: 600;
-      color: #f1f5f9;
+      font-size: 17px;
+      font-weight: 700;
+      color: #14532d;
     }
 
     .section-count {
       font-size: 12px;
       color: #6b7280;
-      margin-left: auto;
+      background: #f3f4f6;
+      padding: 2px 8px;
+      border-radius: 10px;
+      margin-left: 4px;
     }
 
-    /* Major event cards - horizontal scroll */
+    .divider {
+      flex: 1;
+      height: 1px;
+      background: linear-gradient(to right, #d1fae5, transparent);
+      margin-left: 8px;
+    }
+
+    /* Major event cards */
     .major-cards {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
       gap: 16px;
     }
 
     .major-card {
-      background: linear-gradient(135deg, #1c1a0e, #231f0a);
-      border: 1px solid #3d3510;
+      background: #ffffff;
+      border: 1px solid #d1fae5;
+      border-left: 4px solid #16a34a;
       border-radius: 12px;
       padding: 20px;
-      cursor: pointer;
-      transition: border-color 0.2s, transform 0.2s;
       text-decoration: none;
       display: block;
+      transition: box-shadow 0.2s, transform 0.2s;
     }
 
     .major-card:hover {
-      border-color: #f59e0b;
+      box-shadow: 0 4px 20px rgba(22, 163, 74, 0.15);
       transform: translateY(-2px);
     }
 
-    .major-card .event-tag {
+    .major-card .event-label {
       font-size: 10px;
       font-weight: 700;
-      color: #f59e0b;
+      color: #16a34a;
       text-transform: uppercase;
       letter-spacing: 0.8px;
       margin-bottom: 8px;
+      display: flex;
+      align-items: center;
+      gap: 4px;
     }
 
     .major-card .card-title {
-      font-size: 15px;
+      font-size: 14px;
       font-weight: 600;
-      color: #fef3c7;
-      line-height: 1.4;
-      margin-bottom: 10px;
+      color: #111827;
+      line-height: 1.5;
+      margin-bottom: 8px;
     }
 
     .major-card .card-summary {
-      font-size: 13px;
-      color: #9ca3af;
-      line-height: 1.5;
-      margin-bottom: 12px;
+      font-size: 12px;
+      color: #6b7280;
+      line-height: 1.6;
+      margin-bottom: 14px;
     }
 
     .major-card .card-meta {
       display: flex;
       justify-content: space-between;
+      align-items: center;
       font-size: 11px;
-      color: #6b7280;
+      color: #9ca3af;
     }
 
-    /* Regular news grid */
+    .card-source-tag {
+      background: #f0fdf4;
+      color: #15803d;
+      padding: 2px 8px;
+      border-radius: 10px;
+      font-weight: 500;
+      font-size: 11px;
+    }
+
+    /* Regions grid */
     .regions {
       display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 32px;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 28px;
     }
 
-    @media (max-width: 768px) {
+    @media (max-width: 960px) {
+      .regions { grid-template-columns: 1fr 1fr; }
+    }
+
+    @media (max-width: 640px) {
       .regions { grid-template-columns: 1fr; }
-      header { padding: 16px 20px; }
-      main { padding: 20px 16px; }
+      header { padding: 0 16px; }
+      main { padding: 20px 16px 40px; }
+      .major-cards { grid-template-columns: 1fr; }
     }
-
-    .region-section {}
 
     .news-list {
       display: flex;
       flex-direction: column;
-      gap: 12px;
+      gap: 10px;
     }
 
     .news-card {
-      background: #161b22;
-      border: 1px solid #21262d;
+      background: #ffffff;
+      border: 1px solid #e5e7eb;
       border-radius: 10px;
       padding: 16px;
-      cursor: pointer;
-      transition: border-color 0.2s, background 0.2s;
       text-decoration: none;
       display: block;
+      transition: box-shadow 0.15s, border-color 0.15s;
     }
 
     .news-card:hover {
-      border-color: #30363d;
-      background: #1c2128;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+      border-color: #d1d5db;
     }
 
     .news-card .card-title {
-      font-size: 14px;
+      font-size: 13px;
       font-weight: 600;
-      color: #e6edf3;
-      line-height: 1.4;
-      margin-bottom: 8px;
+      color: #111827;
+      line-height: 1.5;
+      margin-bottom: 6px;
     }
 
     .news-card .card-summary {
       font-size: 12px;
-      color: #7d8590;
+      color: #6b7280;
       line-height: 1.5;
       margin-bottom: 10px;
       display: -webkit-box;
@@ -219,31 +248,57 @@
     .news-card .card-meta {
       display: flex;
       justify-content: space-between;
+      align-items: center;
       font-size: 11px;
-      color: #6b7280;
     }
 
-    .card-source {
+    .news-card .card-source {
+      color: #6b7280;
       font-weight: 500;
-      color: #8b949e;
       max-width: 60%;
       overflow: hidden;
       text-overflow: ellipsis;
       white-space: nowrap;
     }
 
-    .loading {
-      text-align: center;
-      padding: 80px 20px;
-      color: #6b7280;
-      font-size: 14px;
+    .news-card .card-date {
+      color: #9ca3af;
     }
 
-    .loading .spinner {
-      width: 32px;
-      height: 32px;
-      border: 3px solid #21262d;
-      border-top-color: #22c55e;
+    /* Region badge colors */
+    .badge-global { color: #2563eb; }
+    .badge-sea { color: #059669; }
+    .badge-china { color: #dc2626; }
+
+    .region-header-line {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 16px;
+      padding-bottom: 12px;
+      border-bottom: 2px solid #f3f4f6;
+    }
+
+    .region-flag {
+      font-size: 20px;
+    }
+
+    .region-title {
+      font-size: 15px;
+      font-weight: 700;
+    }
+
+    .loading {
+      text-align: center;
+      padding: 100px 20px;
+      color: #6b7280;
+    }
+
+    .spinner {
+      width: 36px;
+      height: 36px;
+      border: 3px solid #e5e7eb;
+      border-top-color: #16a34a;
       border-radius: 50%;
       animation: spin 0.8s linear infinite;
       margin: 0 auto 16px;
@@ -254,21 +309,27 @@
     .error {
       text-align: center;
       padding: 40px;
-      color: #f87171;
-      font-size: 13px;
-      background: #1c1010;
-      border: 1px solid #3b1f1f;
+      color: #dc2626;
+      background: #fef2f2;
+      border: 1px solid #fecaca;
       border-radius: 10px;
+      font-size: 13px;
     }
 
     .empty {
-      color: #6b7280;
+      color: #9ca3af;
       font-size: 13px;
-      padding: 20px;
+      padding: 24px;
       text-align: center;
-      background: #161b22;
-      border: 1px dashed #21262d;
+      background: #f9fafb;
+      border: 1px dashed #e5e7eb;
       border-radius: 10px;
+    }
+
+    .read-more {
+      color: #16a34a;
+      font-size: 11px;
+      font-weight: 600;
     }
   </style>
 </head>
@@ -281,7 +342,9 @@
         <div class="logo-sub">Global · Southeast Asia · China</div>
       </div>
     </div>
-    <div class="updated">Last updated: <span id="updated-time">loading...</span></div>
+    <div class="header-right">
+      <div class="updated-badge">Updated: <span id="updated-time">—</span></div>
+    </div>
   </header>
 
   <main>
@@ -294,42 +357,15 @@
   </main>
 
   <script>
-    const SECTION_META = {
-      major_events: {
-        label: "Major Events",
-        badgeClass: "badge-major",
-        title: "Global Highlights Worth Watching",
-        isMajor: true,
-      },
-      global: {
-        label: "Global",
-        badgeClass: "badge-global",
-        title: "Global Renewable Energy",
-        isMajor: false,
-      },
-      southeast_asia: {
-        label: "Southeast Asia",
-        badgeClass: "badge-sea",
-        title: "Southeast Asia",
-        isMajor: false,
-      },
-      china: {
-        label: "China",
-        badgeClass: "badge-china",
-        title: "China New Energy",
-        isMajor: false,
-      },
-    };
-
     function renderMajorCard(item) {
       return `
         <a class="major-card" href="${item.link}" target="_blank" rel="noopener">
-          <div class="event-tag">⚡ Major Event · ${item.source}</div>
+          <div class="event-label">⚡ Major Event</div>
           <div class="card-title">${item.title}</div>
           ${item.summary ? `<div class="card-summary">${item.summary}</div>` : ""}
           <div class="card-meta">
+            <span class="card-source-tag">${item.source || "News"}</span>
             <span>${item.published || ""}</span>
-            <span>Read →</span>
           </div>
         </a>
       `;
@@ -341,53 +377,53 @@
           <div class="card-title">${item.title}</div>
           ${item.summary ? `<div class="card-summary">${item.summary}</div>` : ""}
           <div class="card-meta">
-            <span class="card-source">${item.source}</span>
-            <span>${item.published || ""}</span>
+            <span class="card-source">${item.source || ""}</span>
+            <span class="card-date">${item.published || ""}</span>
           </div>
         </a>
       `;
     }
 
+    const REGIONS = [
+      { key: "global",       flag: "🌍", title: "Global",        cls: "badge-global" },
+      { key: "southeast_asia", flag: "🌏", title: "Southeast Asia", cls: "badge-sea" },
+      { key: "china",        flag: "🇨🇳", title: "China",         cls: "badge-china" },
+    ];
+
     function renderApp(data) {
       document.getElementById("updated-time").textContent = data.updated || "—";
-
       const sections = data.sections || {};
       let html = "";
 
-      // Major Events section
-      const majorItems = sections.major_events || [];
+      // Major Events
+      const major = sections.major_events || [];
       html += `
         <div class="major-section">
           <div class="section-header">
-            <span class="section-badge badge-major">Major Events</span>
+            <span class="section-icon">🔥</span>
             <span class="section-title">Global Highlights Worth Watching</span>
-            <span class="section-count">${majorItems.length} stories</span>
+            <span class="section-count">${major.length}</span>
+            <div class="divider"></div>
           </div>
           <div class="major-cards">
-            ${majorItems.length
-              ? majorItems.map(renderMajorCard).join("")
-              : '<div class="empty">No major events today</div>'}
+            ${major.length ? major.map(renderMajorCard).join("") : '<div class="empty">No major events this week</div>'}
           </div>
         </div>
       `;
 
-      // Regional sections
-      const regionOrder = ["global", "southeast_asia", "china"];
+      // Regional news
       html += '<div class="regions">';
-      for (const key of regionOrder) {
-        const meta = SECTION_META[key];
-        const items = sections[key] || [];
+      for (const r of REGIONS) {
+        const items = sections[r.key] || [];
         html += `
-          <div class="region-section">
-            <div class="section-header">
-              <span class="section-badge ${meta.badgeClass}">${meta.label}</span>
-              <span class="section-title">${meta.title}</span>
-              <span class="section-count">${items.length} stories</span>
+          <div>
+            <div class="region-header-line">
+              <span class="region-flag">${r.flag}</span>
+              <span class="region-title ${r.cls}">${r.title}</span>
+              <span class="section-count">${items.length}</span>
             </div>
             <div class="news-list">
-              ${items.length
-                ? items.map(renderNewsCard).join("")
-                : '<div class="empty">No news today</div>'}
+              ${items.length ? items.map(renderNewsCard).join("") : '<div class="empty">No news this week</div>'}
             </div>
           </div>
         `;
@@ -400,15 +436,12 @@
     async function loadNews() {
       try {
         const res = await fetch("data/news.json?t=" + Date.now());
-        if (!res.ok) throw new Error("Failed to load news data");
+        if (!res.ok) throw new Error("Failed to load");
         const data = await res.json();
         renderApp(data);
       } catch (err) {
         document.getElementById("app").innerHTML = `
-          <div class="error">
-            Could not load news data.<br/>
-            The daily job may not have run yet — try again later or trigger it manually in GitHub Actions.
-          </div>
+          <div class="error">Could not load news. Please try again later.</div>
         `;
       }
     }
