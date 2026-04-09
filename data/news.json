@@ -1,114 +1,121 @@
 {
-  "updated": "2026-04-08 03:50 UTC",
+  "updated": "2026-04-09 03:46 UTC",
   "sections": {
     "global": [
       {
-        "title": "AI-enabled hacks expose remote shutdown risk in microinverters",
-        "link": "https://www.pv-magazine.com/2026/04/07/microinverters-hacked-with-ai-coordinated-remote-shutdown-possible/",
-        "summary": "IT security firm Jakkaru has identified a vulnerability in microinverters from AP Systems that could enable a “kill switch” scenario, potentially shutting down tens of thousands of inverters simultaneously and disrupting grid operations.",
-        "published": "2026-04-07",
+        "title": "Sigenergy launches Hong Kong IPO",
+        "link": "https://www.pv-magazine.com/2026/04/08/sigenergy-launches-hong-kong-ipo/",
+        "summary": "China’s Sigenergy has announced a Hong Kong initial public offering (IPO), with shares open to retail investors until April 13 and backing from major international asset managers.",
+        "published": "2026-04-08",
         "source": "pv magazine International"
       },
       {
-        "title": "Greek utility completes 2.13 GW solar cluster at former coal mine",
-        "link": "https://www.pv-magazine.com/2026/04/07/greek-utility-completes-2-13-gw-solar-cluster-at-former-coal-mine/",
-        "summary": "Greece’s PPC Group has finished construction of its 2.13 GW solar portfolio in northern Greece. The company is now working on its third large-scale battery storage facility in the area, with plans for two pumped-hydro storage projects also progressing.",
-        "published": "2026-04-07",
+        "title": "Brazil adds 2.3 GW of solar in first two months of 2026",
+        "link": "https://www.pv-magazine.com/2026/04/08/brazil-adds-2-3-gw-of-solar-in-first-two-months-of-2026/",
+        "summary": "Brazil installed 2.3 GW of solar capacity in January and February, as centralized generation more than doubled while distributed growth declined.",
+        "published": "2026-04-08",
         "source": "pv magazine International"
       },
       {
-        "title": "Greece installs 1.9 GW of PV capacity in 2025",
-        "link": "https://www.pv-magazine.com/2026/04/07/greece-installs-1-9-gw-of-pv-capacity-in-2025/",
-        "summary": "Greece installed around 1.9 GW of new solar capacity in 2025, bringing total installed solar capacity to roughly 11.5 GW, according to industry estimates.",
-        "published": "2026-04-07",
+        "title": "New German rule allows larger plug-in PV without electrician",
+        "link": "https://www.pv-magazine.com/2026/04/08/new-german-rule-allows-larger-plug-in-pv-without-electrician/",
+        "summary": "Germany’s revised VDE standard enables simplified registration of larger plug-in photovoltaic systems and storage, removing previous capacity limits for self-installation.",
+        "published": "2026-04-08",
         "source": "pv magazine International"
       },
       {
-        "title": "Aroma Solar launches 1.2 GW module factory in India",
-        "link": "https://www.pv-magazine.com/2026/04/07/aroma-solar-launches-1-2-gw-module-factory-in-india/",
-        "summary": "Aroma Solar has opened a 1.2 GW tunnel oxide passivated contact (TOPCon) module facility in in the northern Indian state of Haryana, using automated production and AI-based quality control.",
-        "published": "2026-04-07",
+        "title": "Large-scale solar surpasses 1 TWac worldwide",
+        "link": "https://www.pv-magazine.com/2026/04/08/large-scale-solar-surpasses-1-twac-worldwide/",
+        "summary": "Analysis from Wiki-Solar finds the world's 33 largest utility-scale solar markets had a cumulative capacity of 1,008 GWac by the end of last year.",
+        "published": "2026-04-08",
         "source": "pv magazine International"
       },
       {
-        "title": "Cornex unveils new 165 Ah sodium-ion prismatic cell for stationary energy storage",
-        "link": "https://www.pv-magazine.com/2026/04/07/cornex-unveils-new-165-ah-sodium-ion-prismatic-cell-for-stationary-energy-storage/",
-        "summary": "A new sodium-ion cell for ESS may further improve competitiveness in large-scale systems against the weight of the lithium-ion battery sector.",
-        "published": "2026-04-07",
+        "title": "Brazil approves first co-located solar and battery project",
+        "link": "https://www.pv-magazine.com/2026/04/08/brazil-approves-first-co-located-solar-and-battery-project/",
+        "summary": "Brazil’s National Electric Energy Agency (Aneel) has authorized a 5 MWh battery system co-located with a solar plant, setting a regulatory precedent for integrated storage.",
+        "published": "2026-04-08",
         "source": "pv magazine International"
       },
       {
-        "title": "The Hydrogen Stream: Dutch electrolyzer merger forms Alquion",
-        "link": "https://www.pv-magazine.com/2026/04/07/the-hydrogen-stream-dutch-electrolyzer-merger-forms-alquion/",
-        "summary": "Battolyser Systems and VDL Hydrogen Systems have merged to form Alquion, while Ming Yang Smart Energy Group plans to invest more than $10 billion in hydrogen and renewable energy projects in Ethiopia.",
-        "published": "2026-04-07",
+        "title": "Blackstone and Sunotec enter €250 million partnership",
+        "link": "https://www.pv-magazine.com/2026/04/08/blackstone-and-sunotec-enter-e250-million-partnership/",
+        "summary": "Investment firm Blackstone has announced plans for a partnership with solar and storage project developer Sunotec, via a €250 million ($292.4 million) structured equity investment. The investment will support Sunotec’s project plans in Europe, as well as the company’s expansion into new areas includ",
+        "published": "2026-04-08",
         "source": "pv magazine International"
       },
       {
-        "title": "Austrian manufacturer offers modular air-to-water propane heat pumps",
-        "link": "https://www.pv-magazine.com/2026/04/07/austrian-manufacturer-debuts-air-to-water-propane-heat-pump-series/",
-        "summary": "Lambda Wärmepumpen GmbH said its Eureka heat pump series uses a patented fluid mechanics system that reportedly improves heat transfer by four to six times while maintaining a temperature difference of just 3 K between the air and the refrigerant. Its seasonal coefficient of performance ranges from ",
-        "published": "2026-04-07",
+        "title": "Utility-scale sodium-ion arrives in Romania",
+        "link": "https://www.pv-magazine.com/2026/04/08/renalfa-targets-3-6-gwh-hybrid-bess-cluster-in-romania/",
+        "summary": "Renalfa Power Clusters plans to combine newly acquired solar and battery assets in Romania into a hybrid project using lithium-ion and sodium-ion storage.",
+        "published": "2026-04-08",
         "source": "pv magazine International"
       },
       {
-        "title": "Croatia tenders 56 MW solar-storage project",
-        "link": "https://www.pv-magazine.com/2026/04/07/croatia-tenders-56-mw-solar-storage-project/",
-        "summary": "Croatian power company Hrvatska Elektroprivreda is seeking a developer to build a 56 MW solar power plant tied to up to 200 MWh of battery energy storage. The deadline to submit expressions of interest is May 12.",
-        "published": "2026-04-07",
+        "title": "Voltalia secures €100 million financing amid restructuring",
+        "link": "https://www.pv-magazine.com/2026/04/08/voltalia-secures-e100-million-financing-amid-restructuring/",
+        "summary": "Voltalia has secured €100 million ($116.8 million) in shareholder financing to support its restructuring plan and asset divestment program as it advances its “Spring” transformation strategy.",
+        "published": "2026-04-08",
         "source": "pv magazine International"
       },
       {
-        "title": "GCL Optoelectronic targets 2026 IPO, US plant, space solar rollout",
-        "link": "https://www.pv-magazine.com/2026/04/07/gcl-optoelectronic-targets-2026-ipo-us-plant-space-solar-rollout/",
-        "summary": "GCL Technology says its GCL Optoelectronic subsidiary plans a Hong Kong initial public offering (IPO) in 2026, alongside a potential 500 MW factory in the United States and a roadmap for space-based solar.",
-        "published": "2026-04-07",
+        "title": "Vertical rooftop PV debuts in the U.S.",
+        "link": "https://www.pv-magazine.com/2026/04/08/vertical-rooftop-pv-debuts-in-the-u-s/",
+        "summary": "Norwegian vertical solar specialist Over Easy Solar has installed its first rooftop vertical solar installation in the U.S. market. The 100 kW system, combined with a green roof in New York, is expected to deliver around 120,000 kWh annually depending on factors including albedo, azimuth and local s",
+        "published": "2026-04-08",
         "source": "pv magazine International"
       },
       {
-        "title": "PV-driven hydraulic hydro storage may hit $0.022/kWh LCOE in the U.S.",
-        "link": "https://www.pv-magazine.com/2026/04/07/pv-driven-hydraulic-hydro-storage-may-hit-0-022-kwh-lcoe-in-the-u-s/",
-        "summary": "An international study has demonstrated that utility-scale solar PV paired with hydraulic hydro storage (HHS) could reach an LCOE as low as $0.022/kWh in select U.S. regions. The system could provide GWh-scale, cost-competitive, and highly reliable long-duration storage, capable of powering large co",
-        "published": "2026-04-07",
+        "title": "Which power markets are most impacted by the Middle East conflict?",
+        "link": "https://www.pv-magazine.com/2026/04/08/which-power-markets-are-most-impacted-by-the-middle-east-conflict/",
+        "summary": "Wood Mackenzie’s latest analysis explores how 13 of the world’s leading power markets are impacted by the current fuel crisis, with those most reliant on fuel imports facing the greatest risk exposure. The consultancy says the average cost of generation is set to increase by $2.30/MWh across these 1",
+        "published": "2026-04-08",
         "source": "pv magazine International"
       },
       {
-        "title": "Connecticut Organizations Urge Federal Leaders to Protect Climate Accountability Efforts",
-        "link": "https://cleantechnica.com/2026/04/07/connecticut-organizations-urge-federal-leaders-to-protect-climate-accountability-efforts/",
-        "summary": "Advocates warn that fossil fuel industry efforts to secure federal legal immunity could undermine Connecticut’s climate accountability and polluter pays efforts. CONNECTICUT — As Big Oil lobbies Congress and the Trump administration for legal immunity from laws and lawsuits aiming to hold them accou",
+        "title": "South Carolinians Fret Over Price Tag of Proposed Gas Plant at PSC Hearing",
+        "link": "https://cleantechnica.com/2026/04/08/south-carolinians-fret-over-price-tag-of-proposed-gas-plant-at-psc-hearing/",
+        "summary": "As volatile fracked gas prices and energy demand rises, customers worry about paying more for less. COLUMBIA, S.C. — Last night, dozens of South Carolinians testified before the state Public Service Commission at two back-to-back hearings, expressing concerns that the proposed Canadys gas power plan",
+        "published": "2026-04-09",
+        "source": "CleanTechnica"
+      },
+      {
+        "title": "Good News: A Bunch Of AI Data Centers In Limbo",
+        "link": "https://cleantechnica.com/2026/04/08/good-news-a-bunch-of-ai-data-centers-in-limbo/",
+        "summary": "AI data centers have become a major problem for cutting greenhouse gas emissions. They need soooooo much power. Some people like to claim that they can all be powered with cheap, clean renewable energy from the sun and the wind, but the fact is, that&#8217;s not how it&#8217;s always happening ... [",
+        "published": "2026-04-09",
+        "source": "CleanTechnica"
+      },
+      {
+        "title": "Tesla’s Price-to-Earnings Ratio Is Nuts",
+        "link": "https://cleantechnica.com/2026/04/08/teslas-price-to-earnings-ratio-is-nuts/",
+        "summary": "A couple of weeks ago, when I wrote about Tesla&#8217;s stock price dropping 20% in 6 months, a reader commented: &#8220;Tesla down 20% in the past 6 months and the P/E is still over 300. That is not sustainable.&#8221; Another commenter showed in more detail why this was crazy: Price ... [continued",
         "published": "2026-04-08",
         "source": "CleanTechnica"
       },
       {
-        "title": "Trump Administration Finalizes Methane Rule That Will Loosen Restrictions on Gas Flaring, Increase Pollution",
-        "link": "https://cleantechnica.com/2026/04/07/trump-administration-finalizes-methane-rule-that-will-loosen-restrictions-on-gas-flaring-increase-pollution/",
-        "summary": "WASHINGTON, D.C. — Yesterday, the EPA finalized its first reconsideration of the 2024 methane rule, an action that will increase gas flaring at oil wells and increase climate and air pollution. Finalized by the EPA in December 2023 following a robust comment period, the methane pollution standards r",
+        "title": "The Clean Energy Future Hawaiʻi Can Actually Build: New TFIE Strategy White Paper",
+        "link": "https://cleantechnica.com/2026/04/08/the-clean-energy-future-hawai%ca%bbi-can-actually-build-new-tfie-strategy-white-paper/",
+        "summary": "The newly published white paper began with a question that persisted because of how clearly island systems expose the realities of energy. Can Hawaiʻi, an isolated archipelago with no continental grid behind it and a long dependence on imported fuels, build an energy system that is cleaner, more res",
         "published": "2026-04-08",
         "source": "CleanTechnica"
       },
       {
-        "title": "Tesla’s Cumulative Vehicle Sales Surpass 9 Million — And It Becomes #1 BEV Seller Again",
-        "link": "https://cleantechnica.com/2026/04/07/teslas-cumulative-vehicle-sales-surpass-9-million-and-it-becomes-1-bev-seller-again/",
-        "summary": "Tesla&#8217;s vehicle sales have declined in recent years, and are basically stagnant in a good quarter these days. However, it is still one of the top EV sellers in the world. Actually, news is that it took back the title of #1 from BYD in the first quarter of 2026 ... [continued] The post Tesla&#8",
-        "published": "2026-04-07",
-        "source": "CleanTechnica"
-      },
-      {
-        "title": "Cadillac EV Sales Up In 2026!",
-        "link": "https://cleantechnica.com/2026/04/07/cadillac-ev-sales-up-in-2026/",
-        "summary": "At a time when the US EV market is suffering, thanks to the end of the US EV tax credit and some legacy automakers deciding they just can&#8217;t sell EVs here and writing off billions in investments as a result (or so they say), Cadillac is actually doing quite alright. ... [continued] The post Cad",
-        "published": "2026-04-07",
-        "source": "CleanTechnica"
-      },
-      {
-        "title": "Trump Is Losing The War On EVs As New Incentives Kick In",
-        "link": "https://cleantechnica.com/2026/04/07/trump-is-losing-the-war-on-evs-as-new-incentives-kick-in/",
-        "summary": "Uber has expanded its $4,000 \"Go Electric\" EV incentive plan across the US under a supplies-limited offer, helping to offset the loss of the federal tax credit. The post Trump Is Losing The War On EVs As New Incentives Kick In appeared first on CleanTechnica.",
-        "published": "2026-04-07",
+        "title": "More On Batteries, Or How To Grow Lemons In Vermont",
+        "link": "https://cleantechnica.com/2026/04/08/more-on-batteries-or-how-to-grow-lemons-in-vermont/",
+        "summary": "CleanTechnica has carried reviews on a number of backup battery systems in the last few years, including Anker Solix, Bluetti, and Jackery. Reading the reviews, I got ever more intrigued by what I found. These are not just batteries, but power stations with charge controller and inverter built in. T",
+        "published": "2026-04-08",
         "source": "CleanTechnica"
       }
     ],
     "southeast_asia": [
+      {
+        "title": "Nuclear Energy Challenges in Southeast Asia’s Clean Energy Transition - Stimson Center",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcVhoNnhFSmwyMlBRcG95MmN6cUJVbE1QMlVmSFl5UWtfSWU3UXVWbVRJMWRzZHhCSHM5NHNVODFsMUhYWFNGeXY5MG43d3VuVkJ0THJTVWFCLTA4eUVENDhWeV94UU1mRURnNW1XaVk0ckh6eW5rNUI3Zk9ib1ZqUi1ucno1Q3cyaTZBRFp0NkZ0cUhSdHBHb0t0WjQtX3M?oc=5",
+        "summary": "Nuclear Energy Challenges in Southeast Asia’s Clean Energy Transition&nbsp;&nbsp;Stimson Center",
+        "published": "2025-11-06",
+        "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
+      },
       {
         "title": "Vietnam’s BESS breakthrough: A turning point for energy storage across ASEAN - Energy-Storage.News",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT1RfellvWHNIazEzbDNIWU9GSTFJY1drSGRuLVN0N3NUZjFqOGZPSHhpNWg5WjZFd1YxMHdTeGs1amxhbzBaVVIxazR0NnNDdWVPclo3emdrOVExMy1IOHdvWG9ZUE1razg2MWE1V2JLV3VjcDVmUV9hSFJqVWZOVC1rNWV2dVZ2cUxPQTZ4SHljQXpmcmlyR2NDMmdfbnNxX2RVazRQR3h0Sk0?oc=5",
@@ -124,13 +131,6 @@
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       },
       {
-        "title": "Nuclear Energy Challenges in Southeast Asia’s Clean Energy Transition - Stimson Center",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcVhoNnhFSmwyMlBRcG95MmN6cUJVbE1QMlVmSFl5UWtfSWU3UXVWbVRJMWRzZHhCSHM5NHNVODFsMUhYWFNGeXY5MG43d3VuVkJ0THJTVWFCLTA4eUVENDhWeV94UU1mRURnNW1XaVk0ckh6eW5rNUI3Zk9ib1ZqUi1ucno1Q3cyaTZBRFp0NkZ0cUhSdHBHb0t0WjQtX3M?oc=5",
-        "summary": "Nuclear Energy Challenges in Southeast Asia’s Clean Energy Transition&nbsp;&nbsp;Stimson Center",
-        "published": "2025-11-06",
-        "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
-      },
-      {
         "title": "Diving Deep: Southeast Asia's Rocky Road to Renewable Energy Transition - Saur Energy",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZFRRNlMwUDI5WnJRc29LZlhUTG44NGRCc2Q0NFBRT0NvQ0NLZ3BGQUNRV21SZXA0VmN2TlJKcFdERy0zWHFSaU9hZUtZdnNSTTdRdExoMkZXMlpOR2dmYXNHa0tGdlBxaTZ5Y0Fjc2ZIblVERVVhYnhYYVZSVWFoRkREb0JLTklKeWFQMFFZQ3p4RkZOeTR3YklGRndfQ1ZMUHlrcmJDaWFidGg4bTRBcw?oc=5",
         "summary": "Diving Deep: Southeast Asia's Rocky Road to Renewable Energy Transition&nbsp;&nbsp;Saur Energy",
@@ -138,9 +138,9 @@
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       },
       {
-        "title": "Energy system optimization model developed for pathways to net-zero greenhouse gas emissions for Southeast Asia - techxplore.com",
+        "title": "Energy system optimization model developed for pathways to net-zero greenhouse gas emissions for Southeast Asia - Tech Xplore",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMENvdm1fMjFHajhVT3oyU0VRbzNrYmFXQnU1Y0VFLUZrdHBVVjl1ekxPSVdMbG5mWk55SFFybHpyeG5rWWt4Vl8zcXVrVlVlSnZDaDE2ZDZsNFVQdXpIU0sybUtOaUJhaUtUekdtY0NlV0FuTVpESFpQUlkyQ1FZYTFaQ0RoODAxNThEaQ?oc=5",
-        "summary": "Energy system optimization model developed for pathways to net-zero greenhouse gas emissions for Southeast Asia&nbsp;&nbsp;techxplore.com",
+        "summary": "Energy system optimization model developed for pathways to net-zero greenhouse gas emissions for Southeast Asia&nbsp;&nbsp;Tech Xplore",
         "published": "2026-01-06",
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       },
@@ -166,33 +166,26 @@
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       },
       {
+        "title": "Southeast Asia Power Markets Remain Stable Amid Middle East Crisis, but Energy Security Takes Centre Stage - SolarQuarter",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOY2tqQzFBZEFobFgza3BPdlpscWgwTHhySjNLUVZfTGhGN09TdWZWTjdUQTdac0hBbmg2WXh2VERaQjhLOUtHV2Q2bTNJNlc1QjIwVEE5ZjFUUXVwdnNYb1gwY2FkNTNlSjBaRmNRbHFVZy1lTkpKRmt0eHhITXlqOU9SOUtOMG5FNl82RTRYcTllell6YktIWkZiTzZfUE5GcWg3RTBUX0YwVWpGWEF6X2V2VVM3cHkxYVNmZVlfRmRhMzI3WUhxcEdMam9obC03LVFCbWN5ZWg2Zw?oc=5",
+        "summary": "Southeast Asia Power Markets Remain Stable Amid Middle East Crisis, but Energy Security Takes Centre Stage&nbsp;&nbsp;SolarQuarter",
+        "published": "2026-03-26",
+        "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
+      },
+      {
         "title": "New Energy World magazine - Energy Institute",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9adzlUYVk2SDMzdHdNNEVmYVBxTUVaZlZFWi1oTjlRcy1ReUxhWnJkLXJBOUhYN2ctYWlUU2VLS3FqLTRwTkE1OUROeGFUcE1GaXlKV1JnYUc5UXBKRU9sTkVIaUhHcHNZSVJzV0dNcUFYaUNkNVE?oc=5",
         "summary": "New Energy World magazine&nbsp;&nbsp;Energy Institute",
         "published": "2025-12-03",
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
-      },
-      {
-        "title": "Vietnam’s Battery Energy Storage Market Set For Growth Amid Rising Demand And Policy Support - SolarQuarter",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdkRfaWZXeVRtRWFJTXFKZ2V6eVpIOTVlOFk3NC1uQVNBZndNa203YXlFNE9PWXpZSFJMSTAzSjVjZVlxUHpNeUszMDh1WDBaamRGSlUyZjZMOUU0S3Nhc0VOTV9DSUE4TFdUay1XNTdmS0QzS0lleWNmMEJtekFoeC1pNFpoSU1JcnI5bk1ZbmxXc2NMOFJrYWpCeDRDT2FWT01JaEdKVENaOVpfbE1WMjB2Q0Fia0IyRnN6eElNOVp4SkJPbHVB?oc=5",
-        "summary": "Vietnam’s Battery Energy Storage Market Set For Growth Amid Rising Demand And Policy Support&nbsp;&nbsp;SolarQuarter",
-        "published": "2025-12-22",
-        "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       }
     ],
     "china": [
       {
-        "title": "China Started Preparing for an Energy Crisis Long Before the Iran War - The New York Times",
+        "title": "This Is Not China’s War, but Beijing Started Preparing for It Years Ago - The New York Times",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxcmVkTW54QmlERVNUVk5pMmZJNVBUa1U3bzBnNDhicW0yemhfU3llWjdiZTJ1Z0FwRWpFWjVkdzRXckFvSXVvTXVSMXRJMFBVRGYzTlI5TVNkUTlSbXJUYUxXb0NLMkVsOFpYaVhobW5TSXYzd3V6Y3FzVk1uUQ?oc=5",
-        "summary": "China Started Preparing for an Energy Crisis Long Before the Iran War&nbsp;&nbsp;The New York Times",
+        "summary": "This Is Not China’s War, but Beijing Started Preparing for It Years Ago&nbsp;&nbsp;The New York Times",
         "published": "2026-04-06",
-        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
-      },
-      {
-        "title": "China Installed 1.2 TW of Solar, 650 GW of Wind Capacity as of February 2026 - Mercomindia.com",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPekctRTFOMDhnX2FVQ1ZCWUF1UURtOXRTdndQTWc5YmNJckVTa2tKTzJYNTZJSUpYd1B5dm02dGJYTlhwaUVaMTNDRzBsX3Y5NkVhdXpFUWoxM0FFV3UwOXlrU1BzeFAxSDRQcXRrc2lGYmlHYmlJM25mS2pCQjBLbnZNbGdrTG9NZzJ6d3YxZEJiajh6NWdQc0dleWZGN2VEME9vS1Nn?oc=5",
-        "summary": "China Installed 1.2 TW of Solar, 650 GW of Wind Capacity as of February 2026&nbsp;&nbsp;Mercomindia.com",
-        "published": "2026-04-07",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
@@ -200,6 +193,13 @@
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOV8zeHlyZVR0STltOU9EeDlnNTBZbWhzTlZQUi1tVHRKV1lXdVpZemZ0UEF3bXNJZDhSVy1CdFhTQno5SUp5ejBSTmhmOWFqMFpJOFpvcjBPV0R4c0VxSmR0QS01NkZGMW5sV1dfZjFFSUR4eVkyaW1nMzN6Y0VtV3BnWTFJTjdPQXdnRTAyT1JuRVlLenlSV19INFhoQkVId3hwSmZmVWNkeEhOUUFETlFlUHVMdkFaSEh6VEI2TVZYTVlfNmFMaXlLV0h2d0REZDVv?oc=5",
         "summary": "China planning renewable energy expansion beyond power sector&nbsp;&nbsp;Reuters",
         "published": "2025-11-12",
+        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
+      },
+      {
+        "title": "China Installed 1.2 TW of Solar, 650 GW of Wind Capacity as of February 2026 - Mercomindia.com",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPekctRTFOMDhnX2FVQ1ZCWUF1UURtOXRTdndQTWc5YmNJckVTa2tKTzJYNTZJSUpYd1B5dm02dGJYTlhwaUVaMTNDRzBsX3Y5NkVhdXpFUWoxM0FFV3UwOXlrU1BzeFAxSDRQcXRrc2lGYmlHYmlJM25mS2pCQjBLbnZNbGdrTG9NZzJ6d3YxZEJiajh6NWdQc0dleWZGN2VEME9vS1Nn?oc=5",
+        "summary": "China Installed 1.2 TW of Solar, 650 GW of Wind Capacity as of February 2026&nbsp;&nbsp;Mercomindia.com",
+        "published": "2026-04-07",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
@@ -231,6 +231,13 @@
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
+        "title": "China’s green energy leader Inner Mongolia is working on ‘flexible’ power plants - South China Morning Post",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVzVlM0podlJQd3JMOUcxSXR1LUo4YUNxNHk2U2xyZkF6a25MalBNR016bmxFWXd1OEN5Ujk1MlNQdmQxY09tdnUtRTNudEFaZExWd3JVRnNkdGJCaXRCZFNrWXpnT3FwN2RXdW9zbWF6OWdHUTJJRThZYlpXWGRGOHlpdGxVMWFjNzdHbUswNl9BWW5fUGVOeFN2N2N0aHJqRFJBUG4tNTNGd2Myc0xvem1pM0hRMm41QlJfZFh0N1lPd3FRYjdWcWRScTNjeEFu0gHQAUFVX3lxTFAtUk1nOGkwWUs2cE5rTGduOUFGbXNiOEE2OVVKMGNkb3c0akZCQmlsQkZIQXEzQ3poU3pGXzFzbHZ5TzA2ckJVTGU0Y0VBX2JUX1VaOEhkejE0dnR4ajFQNllEYzM1RWtHTFJWWUNFVzBBLWVlYmFEQXpLSW1KeXNBaHZRZlpGQy1DcTdUUXNRNDhmZ0NDQVd5LXhUQWpzeFdJeEZlZWdYNi1MeUZqVTBjc2R5aE0tNUJZc2Ruekl5Y2hxS0ZCd1ozYmNDZDhmZGQ?oc=5",
+        "summary": "China’s green energy leader Inner Mongolia is working on ‘flexible’ power plants&nbsp;&nbsp;South China Morning Post",
+        "published": "2026-02-16",
+        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
+      },
+      {
         "title": "Progress Despite Fragmentation: The Energy Transition to 2030 - BloombergNEF",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaHkzMHZ0c2pibDA4WFI2b1kydzNHWTRlQ1EyQmRaaXdqbHFpb0sxa09YaUxUVGlHT1RrbE9adTRoVm00aGFaR2dNZ05qMlQtTFliN05FOUNXUEdSd2dDbktRT0c2clc0V2tRSk1LMGZzS1dPRDhhUlEyRWh6aG5LeFU4Q2k4dXVzWGRFQTNWWHVvS3MwbnVVajFuYUxqeXo0VTRYTlY0UGZKQQ?oc=5",
         "summary": "Progress Despite Fragmentation: The Energy Transition to 2030&nbsp;&nbsp;BloombergNEF",
@@ -242,13 +249,6 @@
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbnJDaG1RV2VFUDlvYUpQaWRYMEJGc2ZVek04YU1hNktaRzZkd2kxSFczekVGbmQ3S21WLVZoN3N4dTQzQ0RwdzEzakROczJSMldiclpQRXZNMmZkb3FUaUkyaU1wNHlnVl81ZU03b0Mxc2lWQkxWWWt2MU9lQXhhV1daenRxTXVqWjJCM2tmQ2wwQUdxNk1uZnlRYXpEdw?oc=5",
         "summary": "The China-Gulf Green Rush: Fueling Renewable Energy Cooperation&nbsp;&nbsp;Middle East Council on Global Affairs",
         "published": "2026-01-26",
-        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
-      },
-      {
-        "title": "11 countries leading the charge on renewable energy - Climate Council",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONXZqVk9fdlRBOEFwOE14SExEQXBjUXpoVy0tem15aUlTdjNhdVhhV0FzR0NWdEVqdFlKZDlPWTdweXhZV3RhdGhHTDdHa0FlcjJWMXFpRDcwOFVfcWZWLVdRQ2p2T3NacGxIYUhhcVVIcV9uamJ4N3JzcU43WnN3TkdBVUJTbHNlcExQcFNTVQ?oc=5",
-        "summary": "11 countries leading the charge on renewable energy&nbsp;&nbsp;Climate Council",
-        "published": "2025-12-12",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       }
     ],
@@ -282,6 +282,13 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
+        "title": "AMD signs AI chip-supply deal with OpenAI, shares surge over 34% - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcXJZMDVNUWFpeU9seHBhZWJhR1N0cUlsR19SSXB5ZEUyZ0VUT3F0d0M3RWJvTkw3eFhwOVhTNVRicklaS0pIS1doMURQUkw5LUpBRVlkYVpTTU51NFBTejYtVnA5TlNrMEZkZkMwOUNOSlo2ZXBGbm5OWGpDcjloa0J4dkZ5T1FoM3RLcEFoZmlVSERsWlpSTV8wS2lNZjRqdDc3ZzVNeHdJNHpTd2ExX01vOHNWU3c?oc=5",
+        "summary": "AMD signs AI chip-supply deal with OpenAI, shares surge over 34%&nbsp;&nbsp;Reuters",
+        "published": "2025-10-06",
+        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
+      },
+      {
         "title": "Record breaking auction for offshore wind secured to take back control of Britain's energy - GOV.UK",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON3JLQXhvRmhxVkJKWXZOY1g5cmxSdWt4T0pWc3h4UlJjWklVb2w4aGtBdXNObUJ0RGlmcVVKVlBRcnZ1cEF0eXlNeGt3U0pYQjItWmxpdm95bzM0Uk56dXhhZmdQZFNWckdUaEw2NDJjamw2dExLb0xMUFZwNEk0WVdvRzNTa3AxQWMwZjZ4UFZsTlNqM2dHNTVyM011dld1ZjBZWG5EOS1QV0x2YVpmalZYSUpvZ1JjOGw4Q0JzMktsdw?oc=5",
         "summary": "Record breaking auction for offshore wind secured to take back control of Britain's energy&nbsp;&nbsp;GOV.UK",
@@ -310,17 +317,10 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "Highlights of the global energy transition in 2025 - ember-energy.org",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZzlEdGt0WXBSemFPdXNhVWpLZkpGU0pXclZMQ2xjbTFBV191blVrc1lXXzNjaXVENnE2ZDhsSWotSWxnZHF6NHBnOWtOMExfWmlSVXp1d3hPOE54RWJFWHRkQjFrYTUxOEc0RU1SYmUzc2VueGc3T1NKUWJzUy0yUkNHb1FZd2hJWkxQYktyOWp2Q0pTR0x3?oc=5",
-        "summary": "Highlights of the global energy transition in 2025&nbsp;&nbsp;ember-energy.org",
-        "published": "2025-12-17",
-        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
-      },
-      {
-        "title": "India's renewable energy sector attracted $11.8 bn investment in H1 2025 - Business Standard",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORnlQRGxNcGx4SnhTdl9GaUpTVk9fVTJFT0QzVGVWZkdIRlZSV290NTZnZzlTSUFFVm5yZmQySHA3UThUMVVUeU9YY3h6VDNxSlFua0JsZHQxaVhwT21LaGZOai1WNzgxZDgtM0RpOVFMVlJWdV92cnJhZ2d4dC1qQmM0UWNqaDNGRzFDVE1aTHJvdjJxdUpqNnZQM0VLU3VpVGxYTGtFdXdEZDRKXzFDT2YzWHBHU3FTM1Y2VkVLbmxMYkRk0gHKAUFVX3lxTE1VcnVaaXJjZ09qRDdXWUNjX3BLVF84dXFOYXZOeEI5SmlVOEdIM1JOMlpueFFqam9feUl6cW8waFVrcXZkblpUT1BlcE5Rb25JMF90SE5SM1VQOU8xdFJYdVR3TWNuTEgwOXBKMUZSOGJxU3dDN2VSZlAwX3JwN0h2c05qQ1VhTzZNYTZzckxlMkplbnRVOUJ4LXkxY0twdmpENmgyd2RPT1dTOVpPSVVRYkxPWmQ0MkxNR3RVNUQ1WnVyT0I5UThWWnc?oc=5",
-        "summary": "India's renewable energy sector attracted $11.8 bn investment in H1 2025&nbsp;&nbsp;Business Standard",
-        "published": "2025-08-22",
+        "title": "India's Renewable Energy Surge: 500 GW Target Within Reach by 2030 - Whalesbook",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ2trbFpjeDJQck8yTzl4eDlEV1BKbUF1ZG9pem1RYWtKZlBrNnBLMW5KRjY3T0pTQWYxNW00NlhyajA5SVV5V0Y2MWV4bHpPS01Id3hISE41aWtNQWtwRVBpczhta0J4eFhMMHpwajhHZFlGQWhRQlgxU0ZIZTBOZVdDM1NvaWYwUHFlY3hlTS1kZGM5ZkxSaWYxSm9UQ09QbnRoTzhURTFKVU1GWGVPNHR0ejM3VjE2SGk1NDBPS3dwU09hT3dMNnpCSUd3MWU3ZXV3YzZKWQ?oc=5",
+        "summary": "India's Renewable Energy Surge: 500 GW Target Within Reach by 2030&nbsp;&nbsp;Whalesbook",
+        "published": "2026-01-19",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       }
     ]
