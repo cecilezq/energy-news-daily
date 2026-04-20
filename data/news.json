@@ -1,7 +1,21 @@
 {
-  "updated": "2026-04-19 04:13 UTC",
+  "updated": "2026-04-20 04:19 UTC",
   "sections": {
     "global": [
+      {
+        "title": "Survey Sunday: how much pain at the pump will it take to switch to EV?",
+        "link": "https://electrek.co/2026/04/19/survey-sunday-how-much-pain-at-the-pump-will-it-take-to-switch-to-ev/",
+        "summary": "For the last few weeks, we’ve been running a sidebar survey about how much Electrek readers think gas would need to cost to convince the most dedicated anti-EV hysterics to switch to a plug-in car. After receiving over 2,800 responses, here’s what you told us. more…",
+        "published": "2026-04-19",
+        "source": "Electrek"
+      },
+      {
+        "title": "Tesla’s ‘Robotaxi’ expansion looks like another stock pump before earnings",
+        "link": "https://electrek.co/2026/04/19/tesla-robotaxi-expansion-dallas-houston-stock-pump-earnings/",
+        "summary": "Tesla launched its “Robotaxi” service in Dallas and Houston yesterday — expanding to two new cities for the first time since Austin. There’s just one problem: there are virtually no cars available. Data from Robotaxi Tracker shows that Tesla’s new Houston and Dallas deployments have had 0% to 2% ava",
+        "published": "2026-04-19",
+        "source": "Electrek"
+      },
       {
         "title": "Tesla owner uses emergency solar to trickle charge after running out of battery in desert",
         "link": "https://electrek.co/2026/04/18/tesla-model-x-solar-charging-atacama-desert-chile-pan-american-highway/",
@@ -57,20 +71,6 @@
         "summary": "Almost everyone positions home solar panel systems with home batteries as backup grid power insurance – and while that can be vitally important in a whole host of “what if” scenarios, keeping the lights on is the LEAST interesting thing your home battery can do. 18APR2026: I forgot the best one! mor",
         "published": "2026-04-18",
         "source": "Electrek"
-      },
-      {
-        "title": "North America just got its first new kind of lithium refinery",
-        "link": "https://electrek.co/2026/04/17/north-america-just-got-its-first-new-kind-of-lithium-refinery/",
-        "summary": "Mangrove Lithium has opened what it says is North America’s first commercial electrochemical lithium refinery, a 1,000-tonne-per-year plant in Delta, British Columbia, aimed at strengthening the continent’s EV battery supply chain. more…",
-        "published": "2026-04-17",
-        "source": "Electrek"
-      },
-      {
-        "title": "These EV deals are hard to pass up with up to $10,000 in discounts",
-        "link": "https://electrek.co/2026/04/17/ev-deals-up-to-10000-discounts/",
-        "summary": "With gas prices surging, driving an EV sounds even more attractive right about now. This month, several automakers are offering discounts of up to $10,000 or more on popular EVs, including the Hyundai IONIQ 9 and Chevy Equinox EV. more…",
-        "published": "2026-04-17",
-        "source": "Electrek"
       }
     ],
     "southeast_asia": [
@@ -103,13 +103,6 @@
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       },
       {
-        "title": "Energy system optimization model developed for pathways to net-zero greenhouse gas emissions for Southeast Asia - Tech Xplore",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMENvdm1fMjFHajhVT3oyU0VRbzNrYmFXQnU1Y0VFLUZrdHBVVjl1ekxPSVdMbG5mWk55SFFybHpyeG5rWWt4Vl8zcXVrVlVlSnZDaDE2ZDZsNFVQdXpIU0sybUtOaUJhaUtUekdtY0NlV0FuTVpESFpQUlkyQ1FZYTFaQ0RoODAxNThEaQ?oc=5",
-        "summary": "Energy system optimization model developed for pathways to net-zero greenhouse gas emissions for Southeast Asia&nbsp;&nbsp;Tech Xplore",
-        "published": "2026-01-06",
-        "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
-      },
-      {
         "title": "Vietnam’s Battery Energy Storage Market Set For Growth Amid Rising Demand And Policy Support - SolarQuarter",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdkRfaWZXeVRtRWFJTXFKZ2V6eVpIOTVlOFk3NC1uQVNBZndNa203YXlFNE9PWXpZSFJMSTAzSjVjZVlxUHpNeUszMDh1WDBaamRGSlUyZjZMOUU0S3Nhc0VOTV9DSUE4TFdUay1XNTdmS0QzS0lleWNmMEJtekFoeC1pNFpoSU1JcnI5bk1ZbmxXc2NMOFJrYWpCeDRDT2FWT01JaEdKVENaOVpfbE1WMjB2Q0Fia0IyRnN6eElNOVp4SkJPbHVB?oc=5",
         "summary": "Vietnam’s Battery Energy Storage Market Set For Growth Amid Rising Demand And Policy Support&nbsp;&nbsp;SolarQuarter",
@@ -124,13 +117,6 @@
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       },
       {
-        "title": "The rooftop solar revolution is accelerating — and all eyes are on Asia - Corporate Knights",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMHp6MHl5azhIYk4taXZsallWOUpET180OEluU1pCMExaNDZCUVl5OWQtNGd1Qko5aHU4enJ2aldwTDh1WEV6WUlFTWpZWHhrV3NLX3llbzNpOXlWX1psbUtyN21meG9zZ0FyS1RVQ2paelQyTThET1BPYUQyTDBDSU02S1g1TkdEd3c?oc=5",
-        "summary": "The rooftop solar revolution is accelerating — and all eyes are on Asia&nbsp;&nbsp;Corporate Knights",
-        "published": "2025-05-20",
-        "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
-      },
-      {
         "title": "A third of Southeast Asia’s data centres could be powered by renewable energy by 2030: study - Eco-Business",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVXJaa00tVmtTejBqWEQ0Mldnc2pDWGJyYXFXc3BDandnaFRmSHBjdUJRdGZnZG90Z3NTQXRYVG9tWDFRX25FZGgxaHpDMmRCWkE3aWh4SllkdXoyS19wWnd1Mk9FbDRDM3h4SDdMNE41ZHhYLWV1SndQUC1BQ2lnRjVJMG9vN0plVHc1dkI3NDRzZnBPdVdLTmVXT3pCZ2phRjJ0RHpHNVE1ZmdUckdkbm5DM3dVV2Q3OE5UOXljUEVpS1U?oc=5",
         "summary": "A third of Southeast Asia’s data centres could be powered by renewable energy by 2030: study&nbsp;&nbsp;Eco-Business",
@@ -142,6 +128,20 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYWNscDJoamRMdDVENDJvZzF3UlVRQnFKYmRMeFNJdkJKZ0ttazRvYWxTSFE3cEJRZjdWNUNRYXJFNjZpanRacllyRm9BZl9CdHEzaEYtY3JkbzRfcVMzeklWYlZOM3QtQ0owQzk4MGpkT0YwVk9FZTN5ZWc5VzhUVC02Ti1GbkpnQmNhVWVHekl5eldnR1Bz?oc=5",
         "summary": "Solar and wind seen to energise 30% of ASEAN’s data centres in 2030&nbsp;&nbsp;Asian Power",
         "published": "2025-05-29",
+        "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
+      },
+      {
+        "title": "The true price of AI: Water and energy demands behind Asia’s data centre boom - ThinkChina",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLXI2UGZUdmNjNnprQzBnWVl1WEptQ0tYZWg2aUF3bWtZYWt2WEpUMXlVYXdkTml4NjJFTW1ZUFpWdXRaT3hUakNocGotNVI2UndwbWE4ODJCdDJCczNMRFAzb0tPaVU4Yy02YUtoOTVna1BaYkYzc01rdGtXNjB2cmdmbk1kNXI0c1R1ZDhPVlVfbnVmbUU4NDFWdWhNUk1PRFV4RA?oc=5",
+        "summary": "The true price of AI: Water and energy demands behind Asia’s data centre boom&nbsp;&nbsp;ThinkChina",
+        "published": "2025-07-18",
+        "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
+      },
+      {
+        "title": "Market attractiveness analysis of battery energy storage systems in Indonesia, Malaysia, the Philippines, Thailand, and Vietnam | Newswise - Newswise",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcG1YTzc2Y1ZrQ3cyWllqODRBemkyMGtsaWZvanVyaHFBSHFscjFpTDRFY0tJdzFJVTczWUpwUDJMUXM5R1dZekRVNnVLMjlKRGJNWUUyVTJMMURrX1pBUGxzTVUwQTh6ZmY0blZkMmRLR1lSLTZqR290b3lmN3hldlA1N05lTW10aWZxMS1penFZbnFNeUJvak8wMjZTeUpFN1hPUHp5QTY3cmtPbThYSWU1VjdWRlNWQWt0cXFRRU5mNnlaeFZ1NUtjMmxLYjRwQm1MNHkwTVBwTk1mR2M0MlRFemFHR2VqNEQ2RW5R0gHuAUFVX3lxTE1wbVhPNzZjVmtDdzJaWWo4NEF6aTIwa2xpZm9qdXJocUFIcWxyMWlMNEVjS0l3MUlVNzNZSnBQMkxRczlHV1l6RFU2dUsyOUpEYk1ZRTJVMkwxRGtfWkFQbHNNVTBBOHpmZjRuVmQyZEtHWVItNmpHb3RveWY3eGV2UDU3TmVNbXRpZnExLWl6cVlucU15Qm9qTzAyNlN5SkU3WE9QenlBNjdya09tOFhJZTVWN1ZGU1ZBa3RxcVFFTmY2eVp4VnU1S2MybEtiNHBCbUw0eTBNUHBOTWZHYzQyVEV6YUdHZWo0RDZFblE?oc=5",
+        "summary": "Market attractiveness analysis of battery energy storage systems in Indonesia, Malaysia, the Philippines, Thailand, and Vietnam | Newswise&nbsp;&nbsp;Newswise",
+        "published": "2024-06-19",
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       }
     ],
@@ -161,10 +161,10 @@
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
-        "title": "This Is Not China’s War, but Beijing Started Preparing for It Years Ago - The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxcmVkTW54QmlERVNUVk5pMmZJNVBUa1U3bzBnNDhicW0yemhfU3llWjdiZTJ1Z0FwRWpFWjVkdzRXckFvSXVvTXVSMXRJMFBVRGYzTlI5TVNkUTlSbXJUYUxXb0NLMkVsOFpYaVhobW5TSXYzd3V6Y3FzVk1uUQ?oc=5",
-        "summary": "This Is Not China’s War, but Beijing Started Preparing for It Years Ago&nbsp;&nbsp;The New York Times",
-        "published": "2026-04-06",
+        "title": "Analysis: Only half of Chinese provinces finalise key ‘Document 136’ renewable rules - Carbon Brief",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeEt1ZkRhUlJLQXcyenZPZVdLeDRheWNjbkxhdkpPUUFmTGVVLTByOUQtdW40eE9PYXkwaFhxcUc0aEh4LTludVJlM1dQMFJpeE9PMzhyU3lmemY1MjJLSjdhdUtfdXZPUkhpeVl1NEdtTUtkV01RekJCNWdnMVpQSXE3anU1aFZvZUE2NEhnMjB2bC10clV4YVR0dVlrUUhpZ3VqWE1Rc0hEWTFORmM0?oc=5",
+        "summary": "Analysis: Only half of Chinese provinces finalise key ‘Document 136’ renewable rules&nbsp;&nbsp;Carbon Brief",
+        "published": "2025-10-15",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
@@ -175,13 +175,6 @@
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
-        "title": "2026 Renewable Energy Industry Outlook - Deloitte",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeXdaZ3d2MWtvRzBmTngyclE3cGtvWDdCaUxXa1Myc1N1aUtfNTBnMnl6b3lrSHNPbEhsajcyUVRsY3VkV3N5Wjl6algxRDZzZUhRUFZobWJDRFF4bC1jalpPYklPVmp6QUFfQXpodFVzTkpFOER4MnNWaVBOLWplN3o3cTRYWHdYOHBTQVZFR2JKSnltczFMMG1CbGRvZktQYldxRVhkTQ?oc=5",
-        "summary": "2026 Renewable Energy Industry Outlook&nbsp;&nbsp;Deloitte",
-        "published": "2025-10-29",
-        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
-      },
-      {
         "title": "China’s green energy leader Inner Mongolia is working on ‘flexible’ power plants - South China Morning Post",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVzVlM0podlJQd3JMOUcxSXR1LUo4YUNxNHk2U2xyZkF6a25MalBNR016bmxFWXd1OEN5Ujk1MlNQdmQxY09tdnUtRTNudEFaZExWd3JVRnNkdGJCaXRCZFNrWXpnT3FwN2RXdW9zbWF6OWdHUTJJRThZYlpXWGRGOHlpdGxVMWFjNzdHbUswNl9BWW5fUGVOeFN2N2N0aHJqRFJBUG4tNTNGd2Myc0xvem1pM0hRMm41QlJfZFh0N1lPd3FRYjdWcWRScTNjeEFu0gHQAUFVX3lxTFAtUk1nOGkwWUs2cE5rTGduOUFGbXNiOEE2OVVKMGNkb3c0akZCQmlsQkZIQXEzQ3poU3pGXzFzbHZ5TzA2ckJVTGU0Y0VBX2JUX1VaOEhkejE0dnR4ajFQNllEYzM1RWtHTFJWWUNFVzBBLWVlYmFEQXpLSW1KeXNBaHZRZlpGQy1DcTdUUXNRNDhmZ0NDQVd5LXhUQWpzeFdJeEZlZWdYNi1MeUZqVTBjc2R5aE0tNUJZc2Ruekl5Y2hxS0ZCd1ozYmNDZDhmZGQ?oc=5",
         "summary": "China’s green energy leader Inner Mongolia is working on ‘flexible’ power plants&nbsp;&nbsp;South China Morning Post",
@@ -189,17 +182,17 @@
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
+        "title": "2026 Renewable Energy Industry Outlook - Deloitte",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeXdaZ3d2MWtvRzBmTngyclE3cGtvWDdCaUxXa1Myc1N1aUtfNTBnMnl6b3lrSHNPbEhsajcyUVRsY3VkV3N5Wjl6algxRDZzZUhRUFZobWJDRFF4bC1jalpPYklPVmp6QUFfQXpodFVzTkpFOER4MnNWaVBOLWplN3o3cTRYWHdYOHBTQVZFR2JKSnltczFMMG1CbGRvZktQYldxRVhkTQ?oc=5",
+        "summary": "2026 Renewable Energy Industry Outlook&nbsp;&nbsp;Deloitte",
+        "published": "2025-10-29",
+        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
+      },
+      {
         "title": "The China-Gulf Green Rush: Fueling Renewable Energy Cooperation - Middle East Council on Global Affairs",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbnJDaG1RV2VFUDlvYUpQaWRYMEJGc2ZVek04YU1hNktaRzZkd2kxSFczekVGbmQ3S21WLVZoN3N4dTQzQ0RwdzEzakROczJSMldiclpQRXZNMmZkb3FUaUkyaU1wNHlnVl81ZU03b0Mxc2lWQkxWWWt2MU9lQXhhV1daenRxTXVqWjJCM2tmQ2wwQUdxNk1uZnlRYXpEdw?oc=5",
         "summary": "The China-Gulf Green Rush: Fueling Renewable Energy Cooperation&nbsp;&nbsp;Middle East Council on Global Affairs",
         "published": "2026-01-26",
-        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
-      },
-      {
-        "title": "Analysis: Only half of Chinese provinces finalise key ‘Document 136’ renewable rules - Carbon Brief",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeEt1ZkRhUlJLQXcyenZPZVdLeDRheWNjbkxhdkpPUUFmTGVVLTByOUQtdW40eE9PYXkwaFhxcUc0aEh4LTludVJlM1dQMFJpeE9PMzhyU3lmemY1MjJLSjdhdUtfdXZPUkhpeVl1NEdtTUtkV01RekJCNWdnMVpQSXE3anU1aFZvZUE2NEhnMjB2bC10clV4YVR0dVlrUUhpZ3VqWE1Rc0hEWTFORmM0?oc=5",
-        "summary": "Analysis: Only half of Chinese provinces finalise key ‘Document 136’ renewable rules&nbsp;&nbsp;Carbon Brief",
-        "published": "2025-10-15",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
@@ -213,6 +206,13 @@
         "title": "Progress Despite Fragmentation: The Energy Transition to 2030 - BloombergNEF",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaHkzMHZ0c2pibDA4WFI2b1kydzNHWTRlQ1EyQmRaaXdqbHFpb0sxa09YaUxUVGlHT1RrbE9adTRoVm00aGFaR2dNZ05qMlQtTFliN05FOUNXUEdSd2dDbktRT0c2clc0V2tRSk1LMGZzS1dPRDhhUlEyRWh6aG5LeFU4Q2k4dXVzWGRFQTNWWHVvS3MwbnVVajFuYUxqeXo0VTRYTlY0UGZKQQ?oc=5",
         "summary": "Progress Despite Fragmentation: The Energy Transition to 2030&nbsp;&nbsp;BloombergNEF",
+        "published": "2026-01-06",
+        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
+      },
+      {
+        "title": "India’s Dependence on China in the Renewable Energy Industry and the Future Outlook - 笹川平和財団",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4QlFwcHpPRGNuc2dkZEVJbXhxbWdqVGplS2g0Yk9ocmJYLXRUbGRIVm5rSzV0RkhyN0VHRUhQYUZEM2pqTkZMTXd4dVY5dzJGWTV3RFUzWmlMQUxxNm0xcUNET3A?oc=5",
+        "summary": "India’s Dependence on China in the Renewable Energy Industry and the Future Outlook&nbsp;&nbsp;笹川平和財団",
         "published": "2026-01-06",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       }
@@ -233,6 +233,20 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
+        "title": "Someone Is Losing The War On Renewable Energy, Bigly - CleanTechnica",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV3IzMGlWTlQ2R3l4VG04d1JnWjBXYXBBbjVkN0pFUUNQd3BjQkF2aWJSRnlOR1RaU0cwSkhOd19Sdnl3b0FqQTM5eWFmY0hnMFBBT0ZJWEQyaGhDYWNkeUJpSUJRbW1HaHhMVXhWckMyYVBodktxVy1WVGJ0dGt6dWs2Zm9Ga0xUZEJRb1pFUUNzSzDSAZgBQVVfeXFMTnJLSkFLRWpBZTZVV01ZWkVqNm5GcU9WZGhVTU9yaFV4UzZSaFdPRWc5dUlNcGpLUU9BSVR3OGVacWROWHJUZXBrbDV1U085OHlUSDZJVlVBeFM2Mk5jUU1FMUNxeHdoN29WZFp3MGZOVWQxUC05djR5MjZ4MXJlTm1HNVVrekNCZHF1aG5WSG1scFh6aTRoMmw?oc=5",
+        "summary": "Someone Is Losing The War On Renewable Energy, Bigly&nbsp;&nbsp;CleanTechnica",
+        "published": "2025-11-19",
+        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
+      },
+      {
+        "title": "Offshore Wind Industry Posts Record Growth Amid U.S. Policy Setbacks - POWER Magazine",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMFJScmNiQ1hmeEFVaFU5Z1BuZnFKVXhZeHYxMDg2dmJhRVpEWDVMYjNPdnpBZDQ5ZmNyMVZJckZZUWVFbTFNanRKNzJ5TDZ2YVdDTzBlWnZrbDBjQ0w1VGRFZ0RZcnhWSElxd2tqZXQyTjJFdS1CZGhxdGlhOTIwQnpYTHJwbko5VUlWZUNiMGt0Y2hBbW5JRA?oc=5",
+        "summary": "Offshore Wind Industry Posts Record Growth Amid U.S. Policy Setbacks&nbsp;&nbsp;POWER Magazine",
+        "published": "2026-02-09",
+        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
+      },
+      {
         "title": "Arevon Surpasses $10 Billion in Operating Assets, Expanding Its American Energy Portfolio - StreetInsider",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRW9UMGtKeGljNVBydDdudXZMQXhLdm0xLTItdWthelJQVnNXa3JTS1dVbkFXQXBPcThlNTFVcXB2WUduNVY1SzFXQXIwMk1Hb3l1MnpVdXpYaFduWm5fSEZYUlVoUTJOM285Y3UyWHNQQlpkT2tkU2lfQnloWWVVUjdJaFpScWctQkVsUWZuMUNaTUxjd1NXa24yQ290TWloTUw0Q3pnNnVMNHFEU2Q4ZGlQZkN1UDZCTkVlc08wZGhPVUV3bEpLc2xSU0dGbG5DN1NqOWJNalJvTDAyQmZzcGhR?oc=5",
         "summary": "Arevon Surpasses $10 Billion in Operating Assets, Expanding Its American Energy Portfolio&nbsp;&nbsp;StreetInsider",
@@ -247,20 +261,6 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "Record breaking auction for offshore wind secured to take back control of Britain's energy - GOV.UK",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON3JLQXhvRmhxVkJKWXZOY1g5cmxSdWt4T0pWc3h4UlJjWklVb2w4aGtBdXNObUJ0RGlmcVVKVlBRcnZ1cEF0eXlNeGt3U0pYQjItWmxpdm95bzM0Uk56dXhhZmdQZFNWckdUaEw2NDJjamw2dExLb0xMUFZwNEk0WVdvRzNTa3AxQWMwZjZ4UFZsTlNqM2dHNTVyM011dld1ZjBZWG5EOS1QV0x2YVpmalZYSUpvZ1JjOGw4Q0JzMktsdw?oc=5",
-        "summary": "Record breaking auction for offshore wind secured to take back control of Britain's energy&nbsp;&nbsp;GOV.UK",
-        "published": "2026-01-14",
-        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
-      },
-      {
-        "title": "India achieved Historic milestone in power sector: Surpasses 500 GW and Renewable Generation Exceeds 50% of demand - PIB",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UX2JLT2xlUlp5N243eFFmMjBLR1IxV3dJWkg1S2J4cjAwSk1BS2ZhWU02aDlsX3FJdXY0MlRTZkY1dm1pSE8zUWljU0wwZGxsM1YxY2RWMHhIMEJHcEp4SmFvc0wzZ3pq?oc=5",
-        "summary": "India achieved Historic milestone in power sector: Surpasses 500 GW and Renewable Generation Exceeds 50% of demand&nbsp;&nbsp;PIB",
-        "published": "2025-10-29",
-        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
-      },
-      {
         "title": "Renewables 2025: How China, the US, Europe, and India Are Leading the World’s Clean Energy Growth - CarbonCredits.com",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX0xvZEdvSkNIUmhjcHEtWTk2NEZjNXQ5NjB1ZW1LRmdJbVF1dm44cXNta1pTU0hQODBKM052R3NVTUJsM2hjSXh5NHp5R3NBdkljUWk5NkhiWWphY1NzY2pRUEF1T3lPd1B2Mm1MS2daTU9NY1BuTHlwclhCT0FmNmRMTWZ4eEZYLXkzanRZX0kyUkFwWlZqMDZtS3hSQ3d0aTZnc1hGY0RTb1p4aml1TF9XWnVZd0lpcXZ3?oc=5",
         "summary": "Renewables 2025: How China, the US, Europe, and India Are Leading the World’s Clean Energy Growth&nbsp;&nbsp;CarbonCredits.com",
@@ -268,24 +268,24 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "Biden-Harris Administration Marks Major Milestones for Offshore Wind, Approves Tenth Project - U.S. Department of the Interior (.gov)",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZlBqc0R2cmMxU2M4RThNVWpTTjhOTkJub2s5OVFNcGpHUWs5Smg5V1U5UWNmZTJGVksxUTFFWEZMWEdQRkFTRVhYdzNCdEdtYi02WFJ2RDAyUGFiVS1IeXpSOVpvd19OMTZuSFNKSDI0d0VGVnV5YUtrVzdkSmtSWk1jNXIwclZVT3BORnU1eVBuQnJBV3d3Y0NCR1haNnB5bS1lRVZPVU9fTFVNYVJ4bUhISQ?oc=5",
-        "summary": "Biden-Harris Administration Marks Major Milestones for Offshore Wind, Approves Tenth Project&nbsp;&nbsp;U.S. Department of the Interior (.gov)",
-        "published": "2024-09-05",
+        "title": "Opinion - Paradigm Shift Of India’s Renewable Energy Additions Surge 123% To 20.1 GW In FY26 And Its Impact - SolarQuarter",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVXpoOGg0S2ZwTjQ2NUtzbk9rWUs4aVBhaXRmU3FWaWI0TGJIWTlEX3JicFM1cjRXSkZIVXJjMVJXUUVhbkNSdnRobDVSZHJaVmE2c0pCRjdVV0JJN1N2UjMtd3RBdEpXa2tRX1ZyTWlxdUJjRFR0QXAxdTJrOEdkclRJWFVHdW0xa0hDX0ZNalowMUdMWnF2ZFA2Q3UyclduZUhXOUpRUl9USFpOQ3dfY1g3TnJKdC1tYTJwdExfNTFmdDZXSVlIc25BNjhXZ3NLMjNlQm5Paw?oc=5",
+        "summary": "Opinion - Paradigm Shift Of India’s Renewable Energy Additions Surge 123% To 20.1 GW In FY26 And Its Impact&nbsp;&nbsp;SolarQuarter",
+        "published": "2025-11-12",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "American Solar Panel Manufacturing Capacity Increases 71% in Q1 2024 as Industry Reaches 200-Gigawatt Milestone - seia.org",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMnVMTjZuSU5GN2hOaVdsM2s5dVVzWGYxMWdzTDdGMXBuY1FPUl9Qckxrd252bjdBb3k2MnFYaVlnaGpSNzZfOGx1elFMaXE2TkMxLVFtWmhsR2c0akZQWS13QkcwWEUyMTlfQ0lLNDEzRFhCelljXzV5ZUxMR3M0Smpib1FXN1V4YWtxTnhkY2tqcGhBZWdIM0F0Q3o4RDlkb0FtcC0ybWJDLXZqTWxvRG82ZVNGdzBv?oc=5",
-        "summary": "American Solar Panel Manufacturing Capacity Increases 71% in Q1 2024 as Industry Reaches 200-Gigawatt Milestone&nbsp;&nbsp;seia.org",
-        "published": "2024-09-05",
+        "title": "Tripling renewable power and doubling energy efficiency by 2030: Crucial steps towards 1.5°C - IRENA – International Renewable Energy Agency",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOTZuMXdJWTNSQUdpbXZKY0dneVZqa1pUaDRaYVlHMzhPZHNzQ042d0VZMVBYeDBPc1RzVW9lSkxEc1Zaa1pxUTJobWJwZE1HX3diWVBabGhDWS1vRDk1VUlUYUsyS0hXR1pkUnExNDdqRnRzOGJkYVp6Q1dxOC13cGJ3aUVFb21qdGFnZHZZcXhJUUFKMmNvZmJqV2stOFJHd3c?oc=5",
+        "summary": "Tripling renewable power and doubling energy efficiency by 2030: Crucial steps towards 1.5°C&nbsp;&nbsp;IRENA – International Renewable Energy Agency",
+        "published": "2023-12-03",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "REPowerEU - European Commission",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tZkVmTXRzMVFiMVIyemJTNzdqT3BEcTFuYWVpY28zSTAtbnpjbEdiOHFCQ3hIN3JoVmNrUl9jeHg3emxkRGdabExzMlhjTkM0XzBUc3daSDJxZVV0dURtUzB4RGhyZw?oc=5",
-        "summary": "REPowerEU&nbsp;&nbsp;European Commission",
-        "published": "2025-05-16",
+        "title": "Highlights of the global energy transition in 2025 - ember-energy.org",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZzlEdGt0WXBSemFPdXNhVWpLZkpGU0pXclZMQ2xjbTFBV191blVrc1lXXzNjaXVENnE2ZDhsSWotSWxnZHF6NHBnOWtOMExfWmlSVXp1d3hPOE54RWJFWHRkQjFrYTUxOEc0RU1SYmUzc2VueGc3T1NKUWJzUy0yUkNHb1FZd2hJWkxQYktyOWp2Q0pTR0x3?oc=5",
+        "summary": "Highlights of the global energy transition in 2025&nbsp;&nbsp;ember-energy.org",
+        "published": "2025-12-17",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       }
     ]
