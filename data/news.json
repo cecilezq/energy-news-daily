@@ -1,7 +1,28 @@
 {
-  "updated": "2026-05-03 04:39 UTC",
+  "updated": "2026-05-04 04:39 UTC",
   "sections": {
     "global": [
+      {
+        "title": "Tesla reaches 10 billion FSD miles — is there’s a magical milestone for autonomy",
+        "link": "https://electrek.co/2026/05/03/tesla-fsd-10-billion-miles-no-magical-milestone-autonomy/",
+        "summary": "Tesla’s Full Self-Driving (Supervised) fleet has crossed the 10 billion mile mark, according to the automaker’s updated safety page. It’s the threshold that CEO Elon Musk himself set earlier this year as the data milestone needed for “safe unsupervised” driving. The achievement represents a massive ",
+        "published": "2026-05-03",
+        "source": "Electrek"
+      },
+      {
+        "title": "Here are the best electric bikes you can buy at every price level in May 2026",
+        "link": "https://electrek.co/2026/05/03/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/",
+        "summary": "I’ve spent countless hours here at Electrek doing detailed hands-on testing of hundreds of electric bikes. Through thousands of miles of riding, I’ve been fortunate to learn these e-bikes inside and out, top to bottom and front to back. That long-term experience with real-world e-bike testing has he",
+        "published": "2026-05-03",
+        "source": "Electrek"
+      },
+      {
+        "title": "Segway launches 60 MPH electric dirt bike – and it’s basically a full e-motorcycle",
+        "link": "https://electrek.co/2026/05/02/segway-launches-60-mph-electric-dirt-bike-and-its-basically-a-full-e-motorcycle/",
+        "summary": "Segway may still be best known for its scooters, but the company has been quietly (and sometimes not so quietly) expanding deeper into the electric two-wheeler space. Between its growing e-bike lineup and earlier Sur Ron-style off-road models, the trajectory has been clear. Now with the launch of th",
+        "published": "2026-05-03",
+        "source": "Electrek"
+      },
       {
         "title": "1966 Ford Mustang converted into a Tesla with working ‘Full Self-Driving’",
         "link": "https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/",
@@ -50,27 +71,6 @@
         "summary": "Massachusetts has activated long-term contracts for Vineyard Wind, the state’s first utility-scale offshore wind project. Officials say the move will stabilize prices for 20 years and cut a projected $1.4 billion from customer electricity bills over that period. more…",
         "published": "2026-05-01",
         "source": "Electrek"
-      },
-      {
-        "title": "ENGWE anniversary sale $1,048 savings, Lectric e-bikes get up to $793 savings, Segway Max G30P e-scooter $500 low, more",
-        "link": "https://electrek.co/2026/05/01/engwe-anniversary-sale-lectric-e-bikes-segway-max-g30p-electric-scooter-more/",
-        "summary": "We’re closing out this week’s Green Deals with an EV-packed edition, starting with ENGWE’s 12th Anniversary Sale that is offering up to $1,048 savings and bundled gear on three e-bikes, one of which is the new M20 3.0 Moped-Style e-bike with $248 in FREE gear starting from $1,399. Likewise, Lectric ",
-        "published": "2026-05-01",
-        "source": "Electrek"
-      },
-      {
-        "title": "BYD just sold its most expensive EV ever for nearly $3 million",
-        "link": "https://electrek.co/2026/05/01/byd-sells-most-expensive-ev-ever-for-3-million/",
-        "summary": "BYD’s 3,000 hp electric supercar, the Yangwang U9 Xtreme, sold for nearly $3 million at the Beijing Auto Show, making it the event’s highest-priced vehicle. more…",
-        "published": "2026-05-01",
-        "source": "Electrek"
-      },
-      {
-        "title": "Tesla launches Basecharger for Semi, reveals $188,000 Megacharger",
-        "link": "https://electrek.co/2026/05/01/tesla-semi-charging-business-megacharger-basecharger-pricing/",
-        "summary": "Tesla has launched a new “Semi Charging for Business” program that allows fleet operators and businesses to purchase and install their own Megacharger and a brand-new product called the Basecharger — a lower-power 125 kW charger designed for depot and overnight use. The online configurator reveals a",
-        "published": "2026-05-01",
-        "source": "Electrek"
       }
     ],
     "southeast_asia": [
@@ -89,17 +89,17 @@
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       },
       {
-        "title": "Chinese Energy Investments in Southeast Asia - CSIS | Center for Strategic and International Studies",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MOERWMVo2eGlwUWNkWFZCYmdSckdlVHlKRVk4OE5yNzhsdC1qSlJUZzZyMkNPcndiRFljd0ZmYkdRa2swX0NjT1VUYnlwMmRxdzBfSUlmQnVUQTBLQjBzM2NWOWhLdXdJRVVKUXZJWjZWV3o0LVgwTkpEVQ?oc=5",
-        "summary": "Chinese Energy Investments in Southeast Asia&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
-        "published": "2025-12-17",
-        "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
-      },
-      {
         "title": "Nuclear Energy Challenges in Southeast Asia’s Clean Energy Transition - Stimson Center",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcVhoNnhFSmwyMlBRcG95MmN6cUJVbE1QMlVmSFl5UWtfSWU3UXVWbVRJMWRzZHhCSHM5NHNVODFsMUhYWFNGeXY5MG43d3VuVkJ0THJTVWFCLTA4eUVENDhWeV94UU1mRURnNW1XaVk0ckh6eW5rNUI3Zk9ib1ZqUi1ucno1Q3cyaTZBRFp0NkZ0cUhSdHBHb0t0WjQtX3M?oc=5",
         "summary": "Nuclear Energy Challenges in Southeast Asia’s Clean Energy Transition&nbsp;&nbsp;Stimson Center",
         "published": "2025-11-06",
+        "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
+      },
+      {
+        "title": "Chinese Energy Investments in Southeast Asia - CSIS | Center for Strategic and International Studies",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MOERWMVo2eGlwUWNkWFZCYmdSckdlVHlKRVk4OE5yNzhsdC1qSlJUZzZyMkNPcndiRFljd0ZmYkdRa2swX0NjT1VUYnlwMmRxdzBfSUlmQnVUQTBLQjBzM2NWOWhLdXdJRVVKUXZJWjZWV3o0LVgwTkpEVQ?oc=5",
+        "summary": "Chinese Energy Investments in Southeast Asia&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
+        "published": "2025-12-17",
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       },
       {
@@ -114,6 +114,13 @@
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMENvdm1fMjFHajhVT3oyU0VRbzNrYmFXQnU1Y0VFLUZrdHBVVjl1ekxPSVdMbG5mWk55SFFybHpyeG5rWWt4Vl8zcXVrVlVlSnZDaDE2ZDZsNFVQdXpIU0sybUtOaUJhaUtUekdtY0NlV0FuTVpESFpQUlkyQ1FZYTFaQ0RoODAxNThEaQ?oc=5",
         "summary": "Energy system optimization model developed for pathways to net-zero greenhouse gas emissions for Southeast Asia&nbsp;&nbsp;Tech Xplore",
         "published": "2026-01-06",
+        "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
+      },
+      {
+        "title": "Southeast Asia Green Hydrogen Market Report & Segments 2033 - UnivDatos",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03Mm40Y284VkRlbk5QZjd1NnJnLXYtUi1yWTdPbEZya204NzRpWGFDMFVJV29Tb3BIMjdpckZLdW5kMS1oSkpxcWtjRUFVaGt6dFVJN2g3NzNNVC14eF9nYVVwU3dTczdRZk1oTjQ4b01MSzdv?oc=5",
+        "summary": "Southeast Asia Green Hydrogen Market Report & Segments 2033&nbsp;&nbsp;UnivDatos",
+        "published": "2025-11-07",
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       },
       {
@@ -136,13 +143,6 @@
         "summary": "Brookfield expands portfolio with RE investments in Southeast Asia&nbsp;&nbsp;Asian Power",
         "published": "2025-11-26",
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
-      },
-      {
-        "title": "The rooftop solar revolution is accelerating — and all eyes are on Asia - Corporate Knights",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMHp6MHl5azhIYk4taXZsallWOUpET180OEluU1pCMExaNDZCUVl5OWQtNGd1Qko5aHU4enJ2aldwTDh1WEV6WUlFTWpZWHhrV3NLX3llbzNpOXlWX1psbUtyN21meG9zZ0FyS1RVQ2paelQyTThET1BPYUQyTDBDSU02S1g1TkdEd3c?oc=5",
-        "summary": "The rooftop solar revolution is accelerating — and all eyes are on Asia&nbsp;&nbsp;Corporate Knights",
-        "published": "2025-05-20",
-        "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       }
     ],
     "china": [
@@ -151,13 +151,6 @@
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQREd0UUpGV3VTeTA4Y19aUHdwbmlodWVGRGtvRlRRRHUzaDNoUHJ0NmVCcEx1emk2M3BybUFnTkhqTXNNdG4xWUR6OElWcktUYjBKOUt3WjBQeDc5bGZUNExfTHNIc3I0Xy1sdmpFYUp0Mzl3MW1jUzhSYkw1N0J3d3pmSW9lSTQwd0JhdkYxQW9mNHlhTlMzYg?oc=5",
         "summary": "Should the US restrict Chinese investment in clean energy?&nbsp;&nbsp;Brookings",
         "published": "2026-04-16",
-        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
-      },
-      {
-        "title": "China’s solar giant Sungrow revives Hong Kong IPO plan amid clean energy boom - South China Morning Post",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcG16bHJ1UkhTM2xSYm54cjlTUDRLZktQXzVqdDhaTFM4VXdqbEd2TFM5LV9yU0tvVWR5VURpYUo4MTVwYWI2Tk5PQW82X3RfTkI2TXdEVm1qRmpIeGZYbTA4UlFodGY4NGhfTkh1VTVuWk9YejVmMjJVOVdMSlE1SmMwbHBHTko3MzRkZnZJR1d1R052NkJCVUw4bVNSbVRWUXNDWHMyQTd3eVI4cWMwb2U0NngwQWUzcHRYU3Q1X0hhQzhsN3VvaWc0UUxNTHV5QTVNOTgtUUJ1TW0wc2lr0gHfAUFVX3lxTE02aGJkd1dfYTlrY3pqeEZYWWNHdzR6UkdINGdFbEM0X09DOXFKZUNQQnFFRlRfMFJETXNhMGhtVjlGUUYxQzQxNG9ENXV0d0dLRFNfM1M2WTJRb0xwQnJleU5KcFRjU1pHMjhNY0FGSjBvdDBXTTkwLXl0aVFaTjBqRlp0OGZIMHVaaUVRTEpqVjFuNkFLVF9tQXNhcVUwSUhWTUJHS3BvYmpnNjF2bm9VWkFaTU5QVWZicFlEcjAxMmV2RHN5dlpyZXBZMkw5NU9tLWxIeUZ6TTJTYU1rYlE?oc=5",
-        "summary": "China’s solar giant Sungrow revives Hong Kong IPO plan amid clean energy boom&nbsp;&nbsp;South China Morning Post",
-        "published": "2026-04-27",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
@@ -175,17 +168,10 @@
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
-        "title": "China's Renewables Power Ahead as Green Insurance Lags, Experts Say at Shanghai Climate Week - Yicai Global",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTHlnc1JveHRjMFFQOHA5S2kyVGpVQTRnV2YyYkhxMXRkYlhkWllXeE5tTGpxWVNtUDk5UW10dVJnT3VIajBvaGQ4NWVBMlpmOXhUMmJHTUp3M1hFTEFIVDY4Z1d0TGJ4QXdFaHZaSVp1eExTbUMwRW0wSlBQTzMwU1VtNzE2VmtZV3hxYzhmTHBMLTBLZGVQdE05Q3VJN3Y3MTByOEszaktZdnBFWjltM3NBd1JtTDVndGJZMENlMA?oc=5",
-        "summary": "China's Renewables Power Ahead as Green Insurance Lags, Experts Say at Shanghai Climate Week&nbsp;&nbsp;Yicai Global",
-        "published": "2026-04-24",
-        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
-      },
-      {
-        "title": "Progress Despite Fragmentation: The Energy Transition to 2030 - BloombergNEF",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaHkzMHZ0c2pibDA4WFI2b1kydzNHWTRlQ1EyQmRaaXdqbHFpb0sxa09YaUxUVGlHT1RrbE9adTRoVm00aGFaR2dNZ05qMlQtTFliN05FOUNXUEdSd2dDbktRT0c2clc0V2tRSk1LMGZzS1dPRDhhUlEyRWh6aG5LeFU4Q2k4dXVzWGRFQTNWWHVvS3MwbnVVajFuYUxqeXo0VTRYTlY0UGZKQQ?oc=5",
-        "summary": "Progress Despite Fragmentation: The Energy Transition to 2030&nbsp;&nbsp;BloombergNEF",
-        "published": "2026-01-06",
+        "title": "11 countries leading the charge on renewable energy - Climate Council",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONXZqVk9fdlRBOEFwOE14SExEQXBjUXpoVy0tem15aUlTdjNhdVhhV0FzR0NWdEVqdFlKZDlPWTdweXhZV3RhdGhHTDdHa0FlcjJWMXFpRDcwOFVfcWZWLVdRQ2p2T3NacGxIYUhhcVVIcV9uamJ4N3JzcU43WnN3TkdBVUJTbHNlcExQcFNTVQ?oc=5",
+        "summary": "11 countries leading the charge on renewable energy&nbsp;&nbsp;Climate Council",
+        "published": "2025-12-12",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
@@ -193,6 +179,13 @@
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeXdaZ3d2MWtvRzBmTngyclE3cGtvWDdCaUxXa1Myc1N1aUtfNTBnMnl6b3lrSHNPbEhsajcyUVRsY3VkV3N5Wjl6algxRDZzZUhRUFZobWJDRFF4bC1jalpPYklPVmp6QUFfQXpodFVzTkpFOER4MnNWaVBOLWplN3o3cTRYWHdYOHBTQVZFR2JKSnltczFMMG1CbGRvZktQYldxRVhkTQ?oc=5",
         "summary": "2026 Renewable Energy Industry Outlook&nbsp;&nbsp;Deloitte",
         "published": "2025-10-29",
+        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
+      },
+      {
+        "title": "Progress Despite Fragmentation: The Energy Transition to 2030 - BloombergNEF",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaHkzMHZ0c2pibDA4WFI2b1kydzNHWTRlQ1EyQmRaaXdqbHFpb0sxa09YaUxUVGlHT1RrbE9adTRoVm00aGFaR2dNZ05qMlQtTFliN05FOUNXUEdSd2dDbktRT0c2clc0V2tRSk1LMGZzS1dPRDhhUlEyRWh6aG5LeFU4Q2k4dXVzWGRFQTNWWHVvS3MwbnVVajFuYUxqeXo0VTRYTlY0UGZKQQ?oc=5",
+        "summary": "Progress Despite Fragmentation: The Energy Transition to 2030&nbsp;&nbsp;BloombergNEF",
+        "published": "2026-01-06",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
@@ -210,10 +203,17 @@
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
-        "title": "11 countries leading the charge on renewable energy - Climate Council",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONXZqVk9fdlRBOEFwOE14SExEQXBjUXpoVy0tem15aUlTdjNhdVhhV0FzR0NWdEVqdFlKZDlPWTdweXhZV3RhdGhHTDdHa0FlcjJWMXFpRDcwOFVfcWZWLVdRQ2p2T3NacGxIYUhhcVVIcV9uamJ4N3JzcU43WnN3TkdBVUJTbHNlcExQcFNTVQ?oc=5",
-        "summary": "11 countries leading the charge on renewable energy&nbsp;&nbsp;Climate Council",
-        "published": "2025-12-12",
+        "title": "Analysis: Only half of Chinese provinces finalise key ‘Document 136’ renewable rules - Carbon Brief",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeEt1ZkRhUlJLQXcyenZPZVdLeDRheWNjbkxhdkpPUUFmTGVVLTByOUQtdW40eE9PYXkwaFhxcUc0aEh4LTludVJlM1dQMFJpeE9PMzhyU3lmemY1MjJLSjdhdUtfdXZPUkhpeVl1NEdtTUtkV01RekJCNWdnMVpQSXE3anU1aFZvZUE2NEhnMjB2bC10clV4YVR0dVlrUUhpZ3VqWE1Rc0hEWTFORmM0?oc=5",
+        "summary": "Analysis: Only half of Chinese provinces finalise key ‘Document 136’ renewable rules&nbsp;&nbsp;Carbon Brief",
+        "published": "2025-10-15",
+        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
+      },
+      {
+        "title": "China’s 15th Five-Year Plan — Implications for climate and energy transition - Centre for Research on Energy and Clean Air",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObWxucVBhV0hOc0R3VWVzb3ZRMmNNWlVON2RFOUpCaUtsNlNoWTdTVjVrVE4ta0IwclZCQVhTN3pyNm9XNmUwVmZCbk5MSEVGVDhzWGFSLUhidWxlMkZjWEg0ZUdxT0I0T1NOclhjMmNnZ1FNWTY0c09mY2pZbWFCQ0tiVXlhMFJpdGZtaUFCd0I1VXpmQUU3UERoYWJjNkhZeWI1Wjcycw?oc=5",
+        "summary": "China’s 15th Five-Year Plan — Implications for climate and energy transition&nbsp;&nbsp;Centre for Research on Energy and Clean Air",
+        "published": "2026-03-06",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       }
     ],
@@ -226,17 +226,17 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "World Breaks Renewable Records but Must Move Faster to Hit 2030 Tripling Goal - IRENA – International Renewable Energy Agency",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbFJGVDhZT0ttLVNSdm45ZGpEM0d6OWxpTExIcEFhOGhHb1h5LUN3TkFSVW5sQm91d2dMNWlCUndNZEdUZXNFTV9zTW5Ramc0bW93SV9Pc2RyZ0EtQXRwUGx1MWFlMEdMV2IwY1U3MlZkdm5OZjZwSWFUMUlwcXlxY29hUmNRMUlMajZRT3h2azFmbVUxWFpmQTRTQUtGbUNIb01Xb2hJcDRUb2UtNWNyOWVTd0p6eGR6WWJFd0cwTnRUeHA5dkE?oc=5",
-        "summary": "World Breaks Renewable Records but Must Move Faster to Hit 2030 Tripling Goal&nbsp;&nbsp;IRENA – International Renewable Energy Agency",
-        "published": "2025-10-14",
-        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
-      },
-      {
         "title": "A milestone achievement in our journey to carbon negative - The Official Microsoft Blog",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNelB2MmlDVzJkbTV5WEF5RS05S3lQSWFrM091bzF0a01EcUU1c3ZPMTc3N1Q2WDlGN01TaVBwUVlpZF91T2NqSG5hbE91SlE1R0VFVTJ3OXZuUXpON0s5WkhOWDU2d19BSDREd0xjN2RqOXZNamR0cVJXU3VWay1yUTRLZWVWVDN5UTFDSTZrTkJpTnhRU0EzQ3FKVFcxa2pwTWR4cw?oc=5",
         "summary": "A milestone achievement in our journey to carbon negative&nbsp;&nbsp;The Official Microsoft Blog",
         "published": "2026-02-18",
+        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
+      },
+      {
+        "title": "World Breaks Renewable Records but Must Move Faster to Hit 2030 Tripling Goal - IRENA – International Renewable Energy Agency",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbFJGVDhZT0ttLVNSdm45ZGpEM0d6OWxpTExIcEFhOGhHb1h5LUN3TkFSVW5sQm91d2dMNWlCUndNZEdUZXNFTV9zTW5Ramc0bW93SV9Pc2RyZ0EtQXRwUGx1MWFlMEdMV2IwY1U3MlZkdm5OZjZwSWFUMUlwcXlxY29hUmNRMUlMajZRT3h2azFmbVUxWFpmQTRTQUtGbUNIb01Xb2hJcDRUb2UtNWNyOWVTd0p6eGR6WWJFd0cwTnRUeHA5dkE?oc=5",
+        "summary": "World Breaks Renewable Records but Must Move Faster to Hit 2030 Tripling Goal&nbsp;&nbsp;IRENA – International Renewable Energy Agency",
+        "published": "2025-10-14",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
@@ -247,17 +247,17 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "Africa’s Clean Energy Investment Reaches Record $15 Billion But Growth Needed To Meet Renewable Targets - SolarQuarter",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOS3FDNUR2dnRrbWdqZUNISWpFRUpTd19lRDVxcUx1OGF4UmZySVByeVlIRnpHZUVMYjRTVFM1NnoxZ3dmRUNVR0UxRU5NTXp5NTkxTnBVOU5mRkJuc3hyRXhmRXBLUTFDVmlORjZiYWZlUFVXSUpHSzF2OHhxWDRKSWFrbjFuTWdMNXJjOHhTS3FFN2NDY2NQYUlLRTdwTHl1VGtWeTV0X3pVdE81ZWMtV2VBMDA3R0RQUk1uWE45T0RRelhWNTNneGlfdHM5UWFtR1JTMw?oc=5",
-        "summary": "Africa’s Clean Energy Investment Reaches Record $15 Billion But Growth Needed To Meet Renewable Targets&nbsp;&nbsp;SolarQuarter",
-        "published": "2026-03-05",
-        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
-      },
-      {
         "title": "Microsoft Hits 100% Renewable Electricity Milestone With 40GW Clean Energy Portfolio - CarbonCredits.com",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU3hjdXRfNjhPVWdZU1ZZZlRDVE10TmNNd2RiYkZBaWM2LU5jOU1wMlBGTDdmeklKdGRDeV9ZMjV1TXoyZ2c4OHZWMDcyTGlfX3Y5V1YwaVRJbXJfMEVMblJEWWR5ZjdmZC1lenZQNnZrWE93ZFlSbjdXUjlVMF8zUXl2N1FEYnNBOFdBRkMwV1BpVGVDZGVWNTZpd2FTUVB1NUR5UmxjVmZsczdwNFpB?oc=5",
         "summary": "Microsoft Hits 100% Renewable Electricity Milestone With 40GW Clean Energy Portfolio&nbsp;&nbsp;CarbonCredits.com",
         "published": "2026-02-24",
+        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
+      },
+      {
+        "title": "Africa’s Clean Energy Investment Reaches Record $15 Billion But Growth Needed To Meet Renewable Targets - SolarQuarter",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOS3FDNUR2dnRrbWdqZUNISWpFRUpTd19lRDVxcUx1OGF4UmZySVByeVlIRnpHZUVMYjRTVFM1NnoxZ3dmRUNVR0UxRU5NTXp5NTkxTnBVOU5mRkJuc3hyRXhmRXBLUTFDVmlORjZiYWZlUFVXSUpHSzF2OHhxWDRKSWFrbjFuTWdMNXJjOHhTS3FFN2NDY2NQYUlLRTdwTHl1VGtWeTV0X3pVdE81ZWMtV2VBMDA3R0RQUk1uWE45T0RRelhWNTNneGlfdHM5UWFtR1JTMw?oc=5",
+        "summary": "Africa’s Clean Energy Investment Reaches Record $15 Billion But Growth Needed To Meet Renewable Targets&nbsp;&nbsp;SolarQuarter",
+        "published": "2026-03-05",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
@@ -275,17 +275,17 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "Wind players reaching global heights - China Daily",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGLVVoVGlIUVFGSUpfMllPcVF5X3E5blJVbG9wcW1aRzJzRm84bUhKcFpEUTladE9BT3RLN0RHWmo3UFFsVFpvMXFZNjFRTmVwZEhyVko4U3R0Y1VTQ0JROUUtRUhfR3FXVVBCVmk2aXNQSTJRRklCbEwxb0stUQ?oc=5",
-        "summary": "Wind players reaching global heights&nbsp;&nbsp;China Daily",
+        "title": "Nigeria’s Climate Transition in 2025: Moving from Ambition to Delivery - APRI – Africa Policy Research Institute",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObndxN0p6T1dmZHA5YWF1aU1qNFFlaDdZR0dGaW5tU1lRYWJ5WElVWm5ZWHcyZTJyMXJBaUZ5X3UxWFlaTHF4MVFaclgwNVRQajNzODFOTUpld0NmaUYyalJ6aWh0YUFLVHZjT2ZVQWJyUnlCdUhXaVE1T0l1UlRHc2FCLVBXaHF5WUpmM24zYzhIMjA?oc=5",
+        "summary": "Nigeria’s Climate Transition in 2025: Moving from Ambition to Delivery&nbsp;&nbsp;APRI – Africa Policy Research Institute",
         "published": "2026-03-17",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "Energy minister announces record electricity production in 2025 - Hürriyet Daily News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS1hzTVJsblNQVHpmbkNrRW1JZW9LTXhvZm9iZTNQTUF6Qk1KQ2pzVFFlLTM4aUFFSG5rZlk5RWNIZWVaeV9FVmx1dVlfTnFLMmtpcXdDc3ctR0lmRFhvTGVfdTZBcWt2ZTBKX3Q2aEt1OUxnY2dMMGt4QmctaFBhTzlWRi1FQnVoX3VHeXRHOW5PZk1GUFFzSEhWRElIRk5Hb1VuLWpabw?oc=5",
-        "summary": "Energy minister announces record electricity production in 2025&nbsp;&nbsp;Hürriyet Daily News",
-        "published": "2026-01-21",
+        "title": "Wind players reaching global heights - China Daily",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGLVVoVGlIUVFGSUpfMllPcVF5X3E5blJVbG9wcW1aRzJzRm84bUhKcFpEUTladE9BT3RLN0RHWmo3UFFsVFpvMXFZNjFRTmVwZEhyVko4U3R0Y1VTQ0JROUUtRUhfR3FXVVBCVmk2aXNQSTJRRklCbEwxb0stUQ?oc=5",
+        "summary": "Wind players reaching global heights&nbsp;&nbsp;China Daily",
+        "published": "2026-03-17",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       }
     ]
