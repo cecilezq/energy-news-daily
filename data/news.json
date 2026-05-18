@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-17 04:52 UTC",
+  "updated": "2026-05-18 05:05 UTC",
   "sections": {
     "global": [
+      {
+        "title": "Tesla increases Actually Smart Summon speed by 33% in new FSD update",
+        "link": "https://electrek.co/2026/05/17/tesla-actually-smart-summon-speed-increase-8-mph-fsd-v14-3-3/",
+        "summary": "Tesla is rolling out FSD V14.3.3 today, and among the changes is a 33% speed increase to Actually Smart Summon — the feature now tops out at 8 mph, up from the 6 mph cap (less impressive when you put it like that). The speed bump is part of a broader update (software version 2026.14.6.6) that also m",
+        "published": "2026-05-17",
+        "source": "Electrek"
+      },
+      {
+        "title": "Amazon is deploying these massive cargo e-bikes for deliveries",
+        "link": "https://electrek.co/2026/05/17/amazon-is-deploying-these-massive-cargo-e-bikes-for-deliveries/",
+        "summary": "Amazon is officially rolling out e-cargo bike deliveries in Washington, DC, as part of a new pilot program launched in partnership with the District Department of Transportation (DDOT). The ten-month initiative, called “MicroFreight DC,” will see Amazon Delivery Service Partners making neighborhood ",
+        "published": "2026-05-17",
+        "source": "Electrek"
+      },
       {
         "title": "Sennebogen shows off electric, autonomous material handler",
         "link": "https://electrek.co/2026/05/16/sennebogen-shows-off-electric-autonomous-material-handler/",
@@ -55,20 +69,6 @@
         "title": "Heybike Ranger 3.0 Pro e-bike + $257 FREE bundle hits $1,399 low, Tesla Universal Wall Connector $550, Anker solar security cam, more",
         "link": "https://electrek.co/2026/05/15/heybike-ranger-3-0-pro-e-bike-tesla-universal-wall-connector-anker-solar-security-cam-more/",
         "summary": "We are ending this week’s Green Deals with a jam-packed bang, led by the weekend flash sale on Heybike’s flagship Ranger 3.0 Pro Comfort Folding Fat Tire e-bike and a FREE $257 bundle of gear at the $1,399 low for the first time since Black Friday. Right behind that, we spotted Amazon dropping the p",
-        "published": "2026-05-15",
-        "source": "Electrek"
-      },
-      {
-        "title": "BMW is offering a 20% discount on EV charging at IONNA through September",
-        "link": "https://electrek.co/2026/05/15/bmw-offers-20-discount-ev-charging-ionna-through-sept/",
-        "summary": "Through its new “preferred pricing program,” BMW and MINI drivers can receive a 20% discount on all EV charging sessions now through the end of September. more…",
-        "published": "2026-05-15",
-        "source": "Electrek"
-      },
-      {
-        "title": "Rivian opens R2 configurator: here are all the options and pricing",
-        "link": "https://electrek.co/2026/05/15/rivian-r2-configurator-live-pricing-options/",
-        "summary": "Rivian has opened the online configurator for the R2, its critical mid-size electric SUV, giving reservation holders their first chance to spec out the vehicle ahead of deliveries. The Performance trim starts at $57,990 — just under Tesla’s Model Y Performance at $58,880. The configurator launch com",
         "published": "2026-05-15",
         "source": "Electrek"
       }
@@ -147,13 +147,6 @@
     ],
     "china": [
       {
-        "title": "Datang plans 14.6 GW renewables cluster in China - pv magazine International",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUkFXa2twUWdHLTY4Q3lidTYybW9nUFBHT0hpUEFzV01BVVZ4UTY2WTA5ZjVNaEtjUTRKYWV4YUpwcHAzRVgtSkxYdkJzYTBVMFVjOVAtLXBCYkw2cTJ0Q05PT0FZZUdkcTIzRTM4U3I1VF8xZGxLN29TeFdIN2lIb3VRY1AySTFTRmdFbXhDZ3dYdw?oc=5",
-        "summary": "Datang plans 14.6 GW renewables cluster in China&nbsp;&nbsp;pv magazine International",
-        "published": "2026-05-14",
-        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
-      },
-      {
         "title": "24/7 Renewables Outcompete Fossil Fuels on Costs - International Renewable Energy Agency (IRENA)",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY1BnVUI5cVRaVHdibi1BX3BGVExndmtUbHpfUy1FVldkOTQ1UnlCeUctWV8zbnQwbGlFVVVKSVhoOW10RDdDSWpBT01NaWZ0SVMtY0RJaWJuQm5tLUN2NXg5NGZhRDM2dEFseE04bVpoX0VjckVHWXAwZU1CZzQ2WVViZHUtMVM2bWdScjlfZm5nOXh6ZDA5LUZtR0VkVlUzS3J0NEh3?oc=5",
         "summary": "24/7 Renewables Outcompete Fossil Fuels on Costs&nbsp;&nbsp;International Renewable Energy Agency (IRENA)",
@@ -161,45 +154,45 @@
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
-        "title": "China planning renewable energy expansion beyond power sector - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOV8zeHlyZVR0STltOU9EeDlnNTBZbWhzTlZQUi1tVHRKV1lXdVpZemZ0UEF3bXNJZDhSVy1CdFhTQno5SUp5ejBSTmhmOWFqMFpJOFpvcjBPV0R4c0VxSmR0QS01NkZGMW5sV1dfZjFFSUR4eVkyaW1nMzN6Y0VtV3BnWTFJTjdPQXdnRTAyT1JuRVlLenlSV19INFhoQkVId3hwSmZmVWNkeEhOUUFETlFlUHVMdkFaSEh6VEI2TVZYTVlfNmFMaXlLV0h2d0REZDVv?oc=5",
-        "summary": "China planning renewable energy expansion beyond power sector&nbsp;&nbsp;Reuters",
-        "published": "2025-11-12",
+        "title": "Solar and wind with battery storage become more cost competitive, IRENA report shows - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOXBkczVBNjE2Um1UcEF4aGpBVjVEYlNCYnVXcGZ6R2R6bFpLRmNLZTdIcWJJaVBHalJ4Nnc0VE5mWjR3a25sdVVxU2dza2NVUjg2QW5hbjduN2FuaE5neWdYZFZyWFNhbllrNktwYlV5eHNCYTR5cG5QMncyT0dYZENuc1R2YUctOFhlLUZLT0ZCR1FqQUV6VHN0U2lnMXBrTlpRVnh0WkRHYWpGVmJveFhVYWoxWW1tamVQMWRWb2pUNWxqWFp2YlhiQQ?oc=5",
+        "summary": "Solar and wind with battery storage become more cost competitive, IRENA report shows&nbsp;&nbsp;Reuters",
+        "published": "2026-05-06",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
-        "title": "How China adds more renewable energy than any other economy - The World Economic Forum",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRjB3ZE44UXVCR1gxYVZFMmJpZ2lyRzhfWFBVTXVmQk45Z2h1djE3TjNJODBaSGNNeFVTV0hyaW5wRzB6LWJLaTNSOUVIbHV1REMxZ2tKQ3FwLU13Q19QSXh5OW53azBzbEx5ek1MZ3ZNc0xSMXR3TkdxY3JUTzhlTy1rYw?oc=5",
-        "summary": "How China adds more renewable energy than any other economy&nbsp;&nbsp;The World Economic Forum",
-        "published": "2025-12-03",
+        "title": "Datang plans 14.6 GW renewables cluster in China - pv magazine International",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUkFXa2twUWdHLTY4Q3lidTYybW9nUFBHT0hpUEFzV01BVVZ4UTY2WTA5ZjVNaEtjUTRKYWV4YUpwcHAzRVgtSkxYdkJzYTBVMFVjOVAtLXBCYkw2cTJ0Q05PT0FZZUdkcTIzRTM4U3I1VF8xZGxLN29TeFdIN2lIb3VRY1AySTFTRmdFbXhDZ3dYdw?oc=5",
+        "summary": "Datang plans 14.6 GW renewables cluster in China&nbsp;&nbsp;pv magazine International",
+        "published": "2026-05-14",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
-        "title": "Progress Despite Fragmentation: The Energy Transition to 2030 - BloombergNEF",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaHkzMHZ0c2pibDA4WFI2b1kydzNHWTRlQ1EyQmRaaXdqbHFpb0sxa09YaUxUVGlHT1RrbE9adTRoVm00aGFaR2dNZ05qMlQtTFliN05FOUNXUEdSd2dDbktRT0c2clc0V2tRSk1LMGZzS1dPRDhhUlEyRWh6aG5LeFU4Q2k4dXVzWGRFQTNWWHVvS3MwbnVVajFuYUxqeXo0VTRYTlY0UGZKQQ?oc=5",
-        "summary": "Progress Despite Fragmentation: The Energy Transition to 2030&nbsp;&nbsp;BloombergNEF",
-        "published": "2026-01-06",
+        "title": "Should the US restrict Chinese investment in clean energy? - Brookings",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQREd0UUpGV3VTeTA4Y19aUHdwbmlodWVGRGtvRlRRRHUzaDNoUHJ0NmVCcEx1emk2M3BybUFnTkhqTXNNdG4xWUR6OElWcktUYjBKOUt3WjBQeDc5bGZUNExfTHNIc3I0Xy1sdmpFYUp0Mzl3MW1jUzhSYkw1N0J3d3pmSW9lSTQwd0JhdkYxQW9mNHlhTlMzYg?oc=5",
+        "summary": "Should the US restrict Chinese investment in clean energy?&nbsp;&nbsp;Brookings",
+        "published": "2026-04-16",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
-        "title": "11 countries leading the charge on renewable energy - Climate Council",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONXZqVk9fdlRBOEFwOE14SExEQXBjUXpoVy0tem15aUlTdjNhdVhhV0FzR0NWdEVqdFlKZDlPWTdweXhZV3RhdGhHTDdHa0FlcjJWMXFpRDcwOFVfcWZWLVdRQ2p2T3NacGxIYUhhcVVIcV9uamJ4N3JzcU43WnN3TkdBVUJTbHNlcExQcFNTVQ?oc=5",
-        "summary": "11 countries leading the charge on renewable energy&nbsp;&nbsp;Climate Council",
-        "published": "2025-12-12",
+        "title": "China Plans To Double Renewable Energy By 2035. That’s The Good News. - CleanTechnica",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcDBiUzFwY2xuaUlOdzBHTGhXSzhaanhWU21BVTBReVNDRl9JUU9JdmNDWUNSak9NbnRpRWNOTVhabTlmRHVMNV9Ka2ZBUXNHMDhySlh4MzFybTVJVlMyMV90TVFGRlZpcnlPb1h1eUdOQU1lMlhiUW5fNjFBb0JUb2tCdGVGVUwtNVNiQ0NlcXBfWFFGdmg3NzFBZ3RUa2poQnRjdzBSUdIBrwFBVV95cUxOaXBwdjhnQzdwQ3JwZjBXdkNLUHE5RHBhMG9TcHVYQmRsS0VvczIwZXR3OElHa29hb3VoSGFZWkswNldHUFROMHhNT21CUmNyMWhiQkMtSE1wR1NqUFhsZ1lEb1JjdjZQVTU5Ty1JZlBEb3Q1a3JzV25aSllQUTNERnJQbko1aFA5azd4TERZZWxRc0VOQ3Mtb191azhSdGdXRWtSLVRmTzk3c3JKNGg4?oc=5",
+        "summary": "China Plans To Double Renewable Energy By 2035. That’s The Good News.&nbsp;&nbsp;CleanTechnica",
+        "published": "2026-04-17",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
-        "title": "2026 Renewable Energy Industry Outlook - Deloitte",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeXdaZ3d2MWtvRzBmTngyclE3cGtvWDdCaUxXa1Myc1N1aUtfNTBnMnl6b3lrSHNPbEhsajcyUVRsY3VkV3N5Wjl6algxRDZzZUhRUFZobWJDRFF4bC1jalpPYklPVmp6QUFfQXpodFVzTkpFOER4MnNWaVBOLWplN3o3cTRYWHdYOHBTQVZFR2JKSnltczFMMG1CbGRvZktQYldxRVhkTQ?oc=5",
-        "summary": "2026 Renewable Energy Industry Outlook&nbsp;&nbsp;Deloitte",
-        "published": "2025-10-29",
+        "title": "Xi: Pioneering wind, solar energy was visionary move - Balkan Green Energy News",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdHF1ejA2ODZtLTF2UzZSZEowcTZoblFGQlhGc3BtbVpsWkpiN21sMnhjX0VLSmtQdUNzV29oQnRGZTRCaTZVTF9UTVpiLUdtUXNjdkg4TXpZNjV5ajB3V1Y4TTFwWktJVncyeWlxUXgzaVdrR3I5UzhfZFQta2l5TkwxY2JqWnVkbUpmdm5n?oc=5",
+        "summary": "Xi: Pioneering wind, solar energy was visionary move&nbsp;&nbsp;Balkan Green Energy News",
+        "published": "2026-04-08",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
-        "title": "Highlights of the global energy transition in 2025 - ember-energy.org",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZzlEdGt0WXBSemFPdXNhVWpLZkpGU0pXclZMQ2xjbTFBV191blVrc1lXXzNjaXVENnE2ZDhsSWotSWxnZHF6NHBnOWtOMExfWmlSVXp1d3hPOE54RWJFWHRkQjFrYTUxOEc0RU1SYmUzc2VueGc3T1NKUWJzUy0yUkNHb1FZd2hJWkxQYktyOWp2Q0pTR0x3?oc=5",
-        "summary": "Highlights of the global energy transition in 2025&nbsp;&nbsp;ember-energy.org",
-        "published": "2025-12-17",
+        "title": "China’s 15th Five-Year Plan — Implications for climate and energy transition - Centre for Research on Energy and Clean Air",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObWxucVBhV0hOc0R3VWVzb3ZRMmNNWlVON2RFOUpCaUtsNlNoWTdTVjVrVE4ta0IwclZCQVhTN3pyNm9XNmUwVmZCbk5MSEVGVDhzWGFSLUhidWxlMkZjWEg0ZUdxT0I0T1NOclhjMmNnZ1FNWTY0c09mY2pZbWFCQ0tiVXlhMFJpdGZtaUFCd0I1VXpmQUU3UERoYWJjNkhZeWI1Wjcycw?oc=5",
+        "summary": "China’s 15th Five-Year Plan — Implications for climate and energy transition&nbsp;&nbsp;Centre for Research on Energy and Clean Air",
+        "published": "2026-03-06",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
@@ -210,10 +203,17 @@
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
-        "title": "Xi: Pioneering wind, solar energy was visionary move - Balkan Green Energy News",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdHF1ejA2ODZtLTF2UzZSZEowcTZoblFGQlhGc3BtbVpsWkpiN21sMnhjX0VLSmtQdUNzV29oQnRGZTRCaTZVTF9UTVpiLUdtUXNjdkg4TXpZNjV5ajB3V1Y4TTFwWktJVncyeWlxUXgzaVdrR3I5UzhfZFQta2l5TkwxY2JqWnVkbUpmdm5n?oc=5",
-        "summary": "Xi: Pioneering wind, solar energy was visionary move&nbsp;&nbsp;Balkan Green Energy News",
-        "published": "2026-04-08",
+        "title": "Progress Despite Fragmentation: The Energy Transition to 2030 - BloombergNEF",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaHkzMHZ0c2pibDA4WFI2b1kydzNHWTRlQ1EyQmRaaXdqbHFpb0sxa09YaUxUVGlHT1RrbE9adTRoVm00aGFaR2dNZ05qMlQtTFliN05FOUNXUEdSd2dDbktRT0c2clc0V2tRSk1LMGZzS1dPRDhhUlEyRWh6aG5LeFU4Q2k4dXVzWGRFQTNWWHVvS3MwbnVVajFuYUxqeXo0VTRYTlY0UGZKQQ?oc=5",
+        "summary": "Progress Despite Fragmentation: The Energy Transition to 2030&nbsp;&nbsp;BloombergNEF",
+        "published": "2026-01-06",
+        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
+      },
+      {
+        "title": "Analysis: Clean energy drove more than a third of China’s GDP growth in 2025 - Carbon Brief",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWlDTGRVSXUzTjBUUnVmVVhBdHd0bTd4TFBjdVQweGxLd1RmVDZyLUFDdExyZG44WlE4Q3dJR3A0OVB4QzRQU1ZXdWN4LXBoQkYwOTFidmZLWTh2Ynh3Nm5HNXNyN015QWZ3VzQ0a0VJc3Y4XzQ5blZEMlJEc1ZHS1VXU3FiYWFZRm9WZDJvV21OMkdjY0t5c210TGk5aFpwc0NodjVn?oc=5",
+        "summary": "Analysis: Clean energy drove more than a third of China’s GDP growth in 2025&nbsp;&nbsp;Carbon Brief",
+        "published": "2026-02-05",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       }
     ],
@@ -247,13 +247,6 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "Offshore Wind Industry Posts Record Growth Amid U.S. Policy Setbacks - POWER Magazine",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMFJScmNiQ1hmeEFVaFU5Z1BuZnFKVXhZeHYxMDg2dmJhRVpEWDVMYjNPdnpBZDQ5ZmNyMVZJckZZUWVFbTFNanRKNzJ5TDZ2YVdDTzBlWnZrbDBjQ0w1VGRFZ0RZcnhWSElxd2tqZXQyTjJFdS1CZGhxdGlhOTIwQnpYTHJwbko5VUlWZUNiMGt0Y2hBbW5JRA?oc=5",
-        "summary": "Offshore Wind Industry Posts Record Growth Amid U.S. Policy Setbacks&nbsp;&nbsp;POWER Magazine",
-        "published": "2026-02-09",
-        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
-      },
-      {
         "title": "Someone Is Losing The War On Renewable Energy, Bigly - CleanTechnica",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV3IzMGlWTlQ2R3l4VG04d1JnWjBXYXBBbjVkN0pFUUNQd3BjQkF2aWJSRnlOR1RaU0cwSkhOd19Sdnl3b0FqQTM5eWFmY0hnMFBBT0ZJWEQyaGhDYWNkeUJpSUJRbW1HaHhMVXhWckMyYVBodktxVy1WVGJ0dGt6dWs2Zm9Ga0xUZEJRb1pFUUNzSzDSAZsBQVVfeXFMTWxDVTZRT0RLemxwTFpLWHBLdzVhemZ5dWV5VEtKY3FnQmlOb2RFT0FxbUpTZkgwaU1ZZU9ybHdKNHpVNGZMaHlIZ2U0V2FqVVlmakUtNnRPNUlxbGotT3pabVJuellCc0w4elJoTm5fYWVBRkV1dG9NMmFZclVrbi1OelBuOVdDZlZDVTBwSjN0SHpWcDI4LWhQVVU?oc=5",
         "summary": "Someone Is Losing The War On Renewable Energy, Bigly&nbsp;&nbsp;CleanTechnica",
@@ -275,17 +268,24 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "Renewables 2025: How China, the US, Europe, and India Are Leading the World’s Clean Energy Growth - CarbonCredits.com",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX0xvZEdvSkNIUmhjcHEtWTk2NEZjNXQ5NjB1ZW1LRmdJbVF1dm44cXNta1pTU0hQODBKM052R3NVTUJsM2hjSXh5NHp5R3NBdkljUWk5NkhiWWphY1NzY2pRUEF1T3lPd1B2Mm1MS2daTU9NY1BuTHlwclhCT0FmNmRMTWZ4eEZYLXkzanRZX0kyUkFwWlZqMDZtS3hSQ3d0aTZnc1hGY0RTb1p4aml1TF9XWnVZd0lpcXZ3?oc=5",
-        "summary": "Renewables 2025: How China, the US, Europe, and India Are Leading the World’s Clean Energy Growth&nbsp;&nbsp;CarbonCredits.com",
-        "published": "2025-10-09",
-        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
-      },
-      {
         "title": "Saudi Arabia promotes a record renewable energy plan - Atalayar",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV2R6SkFUcjZCdGVaTXhreVdLZFJ3MThnR0I5aUViNUVta1pBS3kwU0h4ZjJ2STlONWJrcnpTdmptQlc5WFlKVnlaNjRxZmZKVS1MRERIaXhwekFnSHc5VEp3TzF6WG9DN3EwNDN4bEZRM3hUS0hjWjkyX1hqZ1J5R3hTU1BDLVR3QTFGZG1sU0JEWF9yblNnNzRIcUdtYUJFUnp0QUVoUnFuUjFocF8wNDFUbHVzYjdKaEpPZnRqQW1sSEsyaURWLTNlbzdaTm_SAdQBQVVfeXFMT2RGMWEtZ0dVZjNWbTFuZ3kxNC1rZW1tYmRfMzIxbjhRSlE0TzhDcld6c0duRC1vVV9XdU9haXoyUlhzWFlNMzVKM3lRbVZnU0hpVW5GLXR4R016NmFBOVVTLU1CRktqLU9nQXpKeDhvYk1KeFQtZVFqcDlubWxnd2d6Z3ZBa2xGVXNjcl85YkZVY2R3QlZTNm1uMnh4Y3FQSERRdWRrczh1azZIZUxKbmhHeV9wdkdSNy1PV0RpdG1ZM20wQ0ZYYmc3RnR3Ykx1elV1T0g?oc=5",
         "summary": "Saudi Arabia promotes a record renewable energy plan&nbsp;&nbsp;Atalayar",
         "published": "2025-07-22",
+        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
+      },
+      {
+        "title": "Record breaking auction for offshore wind secured to take back control of Britain's energy - GOV.UK",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON3JLQXhvRmhxVkJKWXZOY1g5cmxSdWt4T0pWc3h4UlJjWklVb2w4aGtBdXNObUJ0RGlmcVVKVlBRcnZ1cEF0eXlNeGt3U0pYQjItWmxpdm95bzM0Uk56dXhhZmdQZFNWckdUaEw2NDJjamw2dExLb0xMUFZwNEk0WVdvRzNTa3AxQWMwZjZ4UFZsTlNqM2dHNTVyM011dld1ZjBZWG5EOS1QV0x2YVpmalZYSUpvZ1JjOGw4Q0JzMktsdw?oc=5",
+        "summary": "Record breaking auction for offshore wind secured to take back control of Britain's energy&nbsp;&nbsp;GOV.UK",
+        "published": "2026-01-14",
+        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
+      },
+      {
+        "title": "India achieved Historic milestone in power sector: Surpasses 500 GW and Renewable Generation Exceeds 50% of demand - PIB",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UX2JLT2xlUlp5N243eFFmMjBLR1IxV3dJWkg1S2J4cjAwSk1BS2ZhWU02aDlsX3FJdXY0MlRTZkY1dm1pSE8zUWljU0wwZGxsM1YxY2RWMHhIMEJHcEp4SmFvc0wzZ3pq?oc=5",
+        "summary": "India achieved Historic milestone in power sector: Surpasses 500 GW and Renewable Generation Exceeds 50% of demand&nbsp;&nbsp;PIB",
+        "published": "2025-10-29",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       }
     ]
