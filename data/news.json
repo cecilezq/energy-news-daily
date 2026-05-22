@@ -1,86 +1,79 @@
 {
-  "updated": "2026-05-21 05:08 UTC",
+  "updated": "2026-05-22 04:59 UTC",
   "sections": {
     "global": [
       {
-        "title": "SEIA: AI is fueling a massive US energy storage boom",
-        "link": "https://electrek.co/2026/05/20/seia-ai-is-fueling-a-massive-us-energy-storage-boom/",
-        "summary": "The US energy storage industry kicked off 2026 with its strongest Q1 on record, despite the Trump administration continuing to attack clean energy. more…",
+        "title": "Yozma IN10 Pro Review: $2,000 buys 50mph Sur Ron Light Bee killa",
+        "link": "https://electrek.co/2026/05/21/yozma-in10-pro-review-2000-buys-50mph-sur-ron-light-bee-killa/",
+        "summary": "Last month I reviewed the $1,200 Yozma IN10 and called it unstoppable at its price point. Then I promised to come back with another thousand dollars and the Pro. Here we are. The base $1200 IN10 made a compelling case for itself as a teen’s trail machine. The Pro makes a different argument entirely.",
+        "published": "2026-05-22",
+        "source": "Electrek"
+      },
+      {
+        "title": "Sustainability, sustainability, and de-risking your fleet operations",
+        "link": "https://electrek.co/2026/05/21/sustainability-sustainability-and-de-risking-your-fleet-operations/",
+        "summary": "On today’s sustainably-produced episode of Quick Charge, we explore some of the different types of sustainability available to us in the world of electrification, celebrate some big wind and solar wins, and take a minute to enjoy some schadenfreude. more…",
+        "published": "2026-05-22",
+        "source": "Electrek"
+      },
+      {
+        "title": "EV charging demand is stressing local grids, and Texture just raised $12.5M to tackle it",
+        "link": "https://electrek.co/2026/05/21/ev-charging-demand-is-stressing-local-grids-and-texture-just-raised-12-5m-to-tackle-it/",
+        "summary": "Grid software startup Texture has raised a $12.5 million Series A round as utilities scramble to keep up with rising electricity demand from EVs, EV chargers, data centers, renewables, and extreme weather. more…",
         "published": "2026-05-21",
         "source": "Electrek"
       },
       {
-        "title": "SpaceX S-1 reveals Tesla’s Terafab deal is far from done",
-        "link": "https://electrek.co/2026/05/20/spacex-s1-tesla-terafab-macrohard-not-done-deal/",
-        "summary": "SpaceX filed its S-1 with the SEC today ahead of its blockbuster IPO, and buried in the 308-page document is a sobering reality check on the Tesla (TSLA) collaborations that Elon Musk has been hyping for months. The legal language in SpaceX’s own filing reveals that both Terafab and Macrohard — the ",
+        "title": "Hawaii’s newest NEVI charging station is part of a different kind of rollout",
+        "link": "https://electrek.co/2026/05/21/hawaii-nevi-charging-station/",
+        "summary": "Hawaii is continuing to build out its public EV charging network, and the state just opened a new NEVI-funded fast charging site at Kapalua Airport on Maui. more…",
         "published": "2026-05-21",
         "source": "Electrek"
       },
       {
-        "title": "Yes, an EV really CAN power your home – if it’s one of these [update]",
-        "link": "https://electrek.co/2026/05/20/yes-an-ev-really-can-power-your-home-if-its-one-of-these/",
-        "summary": "Can an EV really help power your home when the power goes out? It’s one of the biggest FAQs people have about electric cars — but the answer can be a bit confusing. It’s either a yes, with a but – or a no, with an unless. To find out which EVs can offer vehicle-to-home (V2H) tech to keep the lights ",
+        "title": "Jeep and Ram vehicles are about to get more affordable with prices under $40,000",
+        "link": "https://electrek.co/2026/05/21/jeep-ram-more-affordable-prices-under-40000/",
+        "summary": "Stellantis plans to launch seven new Jeep, Ram, and Chrysler vehicles priced under $40,000, and two that will cost less than $30,000. more…",
         "published": "2026-05-21",
         "source": "Electrek"
       },
       {
-        "title": "Electrifying your fleet isn’t just about going green – it’s about staying in business",
-        "link": "https://electrek.co/2026/05/20/electrifying-your-fleet-isnt-just-about-going-green-its-about-staying-in-business/",
-        "summary": "In the world of business, there are two kinds of sustainability – sustainability in the sense that we need a planet to live and breathe on, and sustainability in the sense that the business needs to stay in business. For years, EV proponents have been talking about sustainability of the first kind, ",
+        "title": "The Genesis GV90 has coach doors and a massive 27″ digital screen [Video]",
+        "link": "https://electrek.co/2026/05/21/genesis-gv90-coach-doors-huge-27-screen-video/",
+        "summary": "The GV90 will be available with Rolls-Royce-like coach doors as Genesis upscales into higher-end segments. With an expected debut soon, an uncovered model was found abandoned in a field alongside other Lucid, Hyundai, and Audi vehicles. more…",
         "published": "2026-05-21",
         "source": "Electrek"
       },
       {
-        "title": "In a first, wind and solar generated more power than gas globally in April 2026",
-        "link": "https://electrek.co/2026/05/20/in-a-first-wind-solar-generated-more-power-than-gas-globally-april-2026/",
-        "summary": "Wind and solar just hit a major global milestone: For the first time ever, they generated more electricity than gas for the full month of April. more…",
-        "published": "2026-05-20",
+        "title": "Solid-state EV batteries hit another major milestone in China",
+        "link": "https://electrek.co/2026/05/21/solid-state-ev-batteries-hit-another-major-milestone-china/",
+        "summary": "Chinese lithium metal giant Ganfeng Lithium has begun producing what it calls the world’s first 10 Ah solid-state batteries with an energy density of 500 Wh/kg. The lithium giant has supply deals with Tesla, Volkswagen, Hyundai, and several other major OEMs for key EV battery materials. more…",
+        "published": "2026-05-21",
         "source": "Electrek"
       },
       {
-        "title": "The Chevy Equinox EV gains a few extras for 2027, including one that drivers will appreciate",
-        "link": "https://electrek.co/2026/05/20/chevy-equinox-ev-gains-few-big-updates-2027/",
-        "summary": "Although the new Bolt is now on sale, GM is still calling the electric Chevy Equinox “America’s most affordable 315+ mile range EV.” For the 2027 model year, GM is addressing at least one of the biggest complaints with the current model. more…",
-        "published": "2026-05-20",
+        "title": "Heybike’s new Saturn moped-style e-bike + $168 FREE bundle from $999, Anker SOLIX S2000 power station pre-sale deal for $599, more",
+        "link": "https://electrek.co/2026/05/21/heybike-saturn-moped-style-e-bike-anker-solix-s2000-power-station-more/",
+        "summary": "Just like yesterday’s edition with two new launch deals from some of our favorite brands, our Thursday Green Deals is following suit with two early-bird launch deals, starting with the Heybike Saturn Moped-Style e-bike (with two battery configurations) getting a $168 FREE bundle of gear from $999. R",
+        "published": "2026-05-21",
         "source": "Electrek"
       },
       {
-        "title": "Now Bojangles wants EV drivers to fast charge while they eat",
-        "link": "https://electrek.co/2026/05/20/now-bojangles-wants-ev-drivers-to-fast-charge-while-they-eat/",
-        "summary": "Southern fast-food chain Bojangles is getting into EV charging, debuting its first DC fast-charging station in Savannah, Georgia. more…",
-        "published": "2026-05-20",
+        "title": "Honda is recalling nearly 60,000 electric SUVs",
+        "link": "https://electrek.co/2026/05/21/honda-recalling-nearly-60000-electric-suvs/",
+        "summary": "The Prologue was once among the top-selling EVs in the US, but Honda’s electric SUV has lost a bit of its luster. To make matters worse, Honda is now issuing a recall impacting almost 60,000 Prologue and Acura ZDX vehicles. more…",
+        "published": "2026-05-21",
         "source": "Electrek"
       },
       {
-        "title": "BYD is struggling to meet demand for new fast-charging EVs as orders reach 100K, 60K",
-        "link": "https://electrek.co/2026/05/20/byd-struggles-to-meet-demand-for-new-fast-charging-evs/",
-        "summary": "BYD’s new flagship electric SUV, equipped with its new Blade Battery 2.0 and Flash Charging tech, has received over 100,000 orders. The new Song Ultra EV secured over 61,000. BYD said it can’t keep up with demand. more…",
-        "published": "2026-05-20",
-        "source": "Electrek"
-      },
-      {
-        "title": "Juiced Scrambler moto-style e-bikes + $245 launch bundles from $1,699, Lectric XPress2 e-bikes + $336 launch bundles $1,399, more",
-        "link": "https://electrek.co/2026/05/20/juiced-scrambler-moto-style-e-bikes-launch-bundles-lectric-xpress2-e-bikes-launch-bundles-more/",
-        "summary": "Our mid-week Green Deals are headlined by some very exciting deals from two of our favorite EV brands, with the first being Juiced Bikes’ rebirth, which is giving us launch deals on the Scrambler Moto-Style Hardtail + Full Suspension e-bikes with $245 FREE gear bundles starting from $1,699. Next, Le",
-        "published": "2026-05-20",
-        "source": "Electrek"
-      },
-      {
-        "title": "Audi says this affordable luxury EV will ‘rejuvenate’ the brand [Video]",
-        "link": "https://electrek.co/2026/05/20/audi-says-affordable-luxury-ev-will-rejuvenate-brand-video/",
-        "summary": "Audi is looking to bring down the barriers to owning a luxury EV. The A2 e-tron will ‘rejuvenate” the luxury brand, Audi promised after previewing the entry-level EV ahead of its upcoming debut. more…",
-        "published": "2026-05-20",
+        "title": "BYD launches upgraded Yuan Plus EV SUV with more range and flash charging for $18,000",
+        "link": "https://electrek.co/2026/05/21/byds-upgraded-ev-suv-adds-range-5-min-charging-for-18000/",
+        "summary": "BYD launched the third-generation Yuan Plus, sold overseas as the Atto 3, with its new Flash Charging and nearly 400 miles of driving range. The upgraded electric SUV is on sale now, starting at less than $18,000. more…",
+        "published": "2026-05-21",
         "source": "Electrek"
       }
     ],
     "southeast_asia": [
-      {
-        "title": "The race to invest in Southeast Asia’s green economy - Zero Carbon Analytics",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1dfeVhCWVdBMldXX25mMkxHWHZWakZkZnFWem5kLXJfajdFT2tsVlVPMmpCNWRESVhpTEZ5dS1zV0REQ3BHa3BsMHMtVXZXWHpvTkthbGF0RElYVjlvUW5hdDZ4MHhEbzBmUll4MVFlVEszY0VLZTdWenF3Rmd2bVl3RkhrajdkN0hjc2l3UEdlZHppRHVNV0pKUW84V3ZwdzgzdGJQWQ?oc=5",
-        "summary": "The race to invest in Southeast Asia’s green economy&nbsp;&nbsp;Zero Carbon Analytics",
-        "published": "2026-01-29",
-        "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
-      },
       {
         "title": "Vietnam’s BESS breakthrough: A turning point for energy storage across ASEAN - Energy-Storage.News",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT1RfellvWHNIazEzbDNIWU9GSTFJY1drSGRuLVN0N3NUZjFqOGZPSHhpNWg5WjZFd1YxMHdTeGs1amxhbzBaVVIxazR0NnNDdWVPclo3emdrOVExMy1IOHdvWG9ZUE1razg2MWE1V2JLV3VjcDVmUV9hSFJqVWZOVC1rNWV2dVZ2cUxPQTZ4SHljQXpmcmlyR2NDMmdfbnNxX2RVazRQR3h0Sk0?oc=5",
@@ -124,9 +117,9 @@
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       },
       {
-        "title": "U.S. trade uncertainty presents domestic opportunities for Southeast Asian renewables suppliers - Institute for Energy Economics and Financial Analysis (IEEFA)",
+        "title": "U.S. trade uncertainty presents domestic opportunities for Southeast Asian renewables suppliers - IEEFA | Institute for Energy Economics and Financial Analysis",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ3JSTGE1cGhYSGFHeWZNby1xZlVQZnJuNnlucUtkRWFqSlNmdVkwczhIR29GS0pwZm83ZE5veXFhZ0Zka2h0bThkRVMxYWZhU2kzdWZQVmRWNnYtNkExRHcxQjlJcmcxTkVPdlRzVkhaOW5sSHo1S3MzaGlIWklWWllyOXNUZUoxelRpTGNpR2UxeEVmNTRnVDhTejdlZm9RWXd3a3lFNlY4elZndWFJZlp3TTVGR013?oc=5",
-        "summary": "U.S. trade uncertainty presents domestic opportunities for Southeast Asian renewables suppliers&nbsp;&nbsp;Institute for Energy Economics and Financial Analysis (IEEFA)",
+        "summary": "U.S. trade uncertainty presents domestic opportunities for Southeast Asian renewables suppliers&nbsp;&nbsp;IEEFA | Institute for Energy Economics and Financial Analysis",
         "published": "2025-04-24",
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       },
@@ -142,6 +135,13 @@
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV01HdWdSNnBhdDlhdlVLWjlSNXhhY2xoN2Ywc2lselVBNmt4aVBiX2pIZVRGbjl5elJJV0hlaXlvUDhMd1VHWjdOb2I3TzdlTzl4Z2k5eGRQTDF4RkExbDI4TkZ2OTVXU2Vhci1DcUw4MWtVaVNYVHZ4c2pQZEFBakxBeDR1d254QnlUSA?oc=5",
         "summary": "Energy Technologies and Decarbonization in Southeast Asia&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
         "published": "2024-09-30",
+        "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
+      },
+      {
+        "title": "The race to invest in Southeast Asia’s green economy - Zero Carbon Analytics",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1dfeVhCWVdBMldXX25mMkxHWHZWakZkZnFWem5kLXJfajdFT2tsVlVPMmpCNWRESVhpTEZ5dS1zV0REQ3BHa3BsMHMtVXZXWHpvTkthbGF0RElYVjlvUW5hdDZ4MHhEbzBmUll4MVFlVEszY0VLZTdWenF3Rmd2bVl3RkhrajdkN0hjc2l3UEdlZHppRHVNV0pKUW84V3ZwdzgzdGJQWQ?oc=5",
+        "summary": "The race to invest in Southeast Asia’s green economy&nbsp;&nbsp;Zero Carbon Analytics",
+        "published": "2025-05-20",
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       }
     ],
@@ -196,13 +196,6 @@
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
-        "title": "Xi: Pioneering wind, solar energy was visionary move - Balkan Green Energy News",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdHF1ejA2ODZtLTF2UzZSZEowcTZoblFGQlhGc3BtbVpsWkpiN21sMnhjX0VLSmtQdUNzV29oQnRGZTRCaTZVTF9UTVpiLUdtUXNjdkg4TXpZNjV5ajB3V1Y4TTFwWktJVncyeWlxUXgzaVdrR3I5UzhfZFQta2l5TkwxY2JqWnVkbUpmdm5n?oc=5",
-        "summary": "Xi: Pioneering wind, solar energy was visionary move&nbsp;&nbsp;Balkan Green Energy News",
-        "published": "2026-04-08",
-        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
-      },
-      {
         "title": "Highlights of the global energy transition in 2025 - ember-energy.org",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZzlEdGt0WXBSemFPdXNhVWpLZkpGU0pXclZMQ2xjbTFBV191blVrc1lXXzNjaXVENnE2ZDhsSWotSWxnZHF6NHBnOWtOMExfWmlSVXp1d3hPOE54RWJFWHRkQjFrYTUxOEc0RU1SYmUzc2VueGc3T1NKUWJzUy0yUkNHb1FZd2hJWkxQYktyOWp2Q0pTR0x3?oc=5",
         "summary": "Highlights of the global energy transition in 2025&nbsp;&nbsp;ember-energy.org",
@@ -210,10 +203,17 @@
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
-        "title": "Analysis: Only half of Chinese provinces finalise key ‘Document 136’ renewable rules - Carbon Brief",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeEt1ZkRhUlJLQXcyenZPZVdLeDRheWNjbkxhdkpPUUFmTGVVLTByOUQtdW40eE9PYXkwaFhxcUc0aEh4LTludVJlM1dQMFJpeE9PMzhyU3lmemY1MjJLSjdhdUtfdXZPUkhpeVl1NEdtTUtkV01RekJCNWdnMVpQSXE3anU1aFZvZUE2NEhnMjB2bC10clV4YVR0dVlrUUhpZ3VqWE1Rc0hEWTFORmM0?oc=5",
-        "summary": "Analysis: Only half of Chinese provinces finalise key ‘Document 136’ renewable rules&nbsp;&nbsp;Carbon Brief",
-        "published": "2025-10-15",
+        "title": "Xi: Pioneering wind, solar energy was visionary move - Balkan Green Energy News",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdHF1ejA2ODZtLTF2UzZSZEowcTZoblFGQlhGc3BtbVpsWkpiN21sMnhjX0VLSmtQdUNzV29oQnRGZTRCaTZVTF9UTVpiLUdtUXNjdkg4TXpZNjV5ajB3V1Y4TTFwWktJVncyeWlxUXgzaVdrR3I5UzhfZFQta2l5TkwxY2JqWnVkbUpmdm5n?oc=5",
+        "summary": "Xi: Pioneering wind, solar energy was visionary move&nbsp;&nbsp;Balkan Green Energy News",
+        "published": "2026-04-08",
+        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
+      },
+      {
+        "title": "Analysis: Clean energy drove more than a third of China’s GDP growth in 2025 - Carbon Brief",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWlDTGRVSXUzTjBUUnVmVVhBdHd0bTd4TFBjdVQweGxLd1RmVDZyLUFDdExyZG44WlE4Q3dJR3A0OVB4QzRQU1ZXdWN4LXBoQkYwOTFidmZLWTh2Ynh3Nm5HNXNyN015QWZ3VzQ0a0VJc3Y4XzQ5blZEMlJEc1ZHS1VXU3FiYWFZRm9WZDJvV21OMkdjY0t5c210TGk5aFpwc0NodjVn?oc=5",
+        "summary": "Analysis: Clean energy drove more than a third of China’s GDP growth in 2025&nbsp;&nbsp;Carbon Brief",
+        "published": "2026-02-05",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       }
     ],
@@ -223,13 +223,6 @@
         "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYnVldjIxN2hqZ2hxWnA5eXQxdnB6YjdXV05aNndrNzNQa2dOQVYwQ2VqdXpJeE4zcjFocU1xSVpvbngzUFJManExMjI5UWtXeWNhaEh6QmhXQk1ibURsWGxrdTg5SmlQdG5WMU9YbWNOX1gwbS1aY3l2NXBJMTVNUGdLc2lIaHlFY0thd0NjeEQ0MmFqMG95Vi1YZEw5VFByMEwxR1VFcUJZTnUtb1F2RzZQSzM4MTZyWS10NTZ6ay05djJrbFRrNm53MGNaSXBsZEZ0WE5vMzJxVlJTRzBBTUdEdk9OeE4xSVJVaXJEejZaMWtDTnZkUWxtREoxZw?oc=5",
         "summary": "As Trump embraces dirty fossil fuels, California hits major clean energy milestone, invests over $100 million more in proven technologies&nbsp;&nbsp;California State Portal | CA.gov",
         "published": "2025-10-09",
-        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
-      },
-      {
-        "title": "A milestone achievement in our journey to carbon negative - The Official Microsoft Blog",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNelB2MmlDVzJkbTV5WEF5RS05S3lQSWFrM091bzF0a01EcUU1c3ZPMTc3N1Q2WDlGN01TaVBwUVlpZF91T2NqSG5hbE91SlE1R0VFVTJ3OXZuUXpON0s5WkhOWDU2d19BSDREd0xjN2RqOXZNamR0cVJXU3VWay1yUTRLZWVWVDN5UTFDSTZrTkJpTnhRU0EzQ3FKVFcxa2pwTWR4cw?oc=5",
-        "summary": "A milestone achievement in our journey to carbon negative&nbsp;&nbsp;The Official Microsoft Blog",
-        "published": "2026-02-18",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
@@ -247,10 +240,24 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
+        "title": "Microsoft Hits 100% Renewable Electricity Milestone With 40GW Clean Energy Portfolio - CarbonCredits.com",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU3hjdXRfNjhPVWdZU1ZZZlRDVE10TmNNd2RiYkZBaWM2LU5jOU1wMlBGTDdmeklKdGRDeV9ZMjV1TXoyZ2c4OHZWMDcyTGlfX3Y5V1YwaVRJbXJfMEVMblJEWWR5ZjdmZC1lenZQNnZrWE93ZFlSbjdXUjlVMF8zUXl2N1FEYnNBOFdBRkMwV1BpVGVDZGVWNTZpd2FTUVB1NUR5UmxjVmZsczdwNFpB?oc=5",
+        "summary": "Microsoft Hits 100% Renewable Electricity Milestone With 40GW Clean Energy Portfolio&nbsp;&nbsp;CarbonCredits.com",
+        "published": "2026-02-24",
+        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
+      },
+      {
         "title": "China Hits Renewable Milestone, But Coal Isn't Going Anywhere - Crude Oil Prices Today | OilPrice.com",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU245OTBtUWlBREU1eUJlVEhQeHEtbzdFSk1BUFFrTXV5ZWYzbWlNczZjQ2hyckFCYXFBSnM1dW9pSlkzU1J3X3UwY2VMemV4VzM2ZEtFYXdEVTMzcUJRQkgzTFhWaGZWckRiRmh2TTVsMXZFbnVpTXlFWnNGTHhkVlhiSGI3R3BXeS15dmtLcXI2dGJZSjhBVEpVTDJQUdIBowFBVV95cUxNYVlGWkN3RWxCWUtFTW5BLWFUaXZTcGlrUkkzb2xGMDNyT1EzSDdoQU00ODBiNGRfTW5veEd4WDZLVG5Ia1BJNU5NcFdrclo5NG91bmJVX2tXNHJ1cmxxMFJJSGhtVkNkbl9HNVVjRkJHcGZKUi1hRkwyaExtNU9WZTlQQWFGc0had1hSWklSMzhlSHdneTA0djRSRzZFZVh3bXVj?oc=5",
         "summary": "China Hits Renewable Milestone, But Coal Isn't Going Anywhere&nbsp;&nbsp;Crude Oil Prices Today | OilPrice.com",
         "published": "2026-02-16",
+        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
+      },
+      {
+        "title": "U.S. Emissions Rose 2.4% in 2025 While China and India Hit Historic Coal Milestones - Earth911",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORDZxVS1MX0NERm5LbFR4c2JJdmhLbzJTclF2S3JjdVdPSEhwZEh1ZkhfbGtjOVhPbkItLWgzdkRHY2MyRDl4cTR1YXFLNHVPQTdmV18yX2Rid3dPcEVFUV81RGJwUUpwRVpmR2tBa29mc0xjUzhzSERWWUVlVkxncElvYnNuSDRpZWV4ZDNLZTMtRlg2MFdpTlVlYnhLenFPS2JUaFJZWnJ3QnN3NDRleTN3c1VrQQ?oc=5",
+        "summary": "U.S. Emissions Rose 2.4% in 2025 While China and India Hit Historic Coal Milestones&nbsp;&nbsp;Earth911",
+        "published": "2026-01-19",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
@@ -261,20 +268,6 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "Nigeria’s Climate Transition in 2025: Moving from Ambition to Delivery - APRI – Africa Policy Research Institute",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObndxN0p6T1dmZHA5YWF1aU1qNFFlaDdZR0dGaW5tU1lRYWJ5WElVWm5ZWHcyZTJyMXJBaUZ5X3UxWFlaTHF4MVFaclgwNVRQajNzODFOTUpld0NmaUYyalJ6aWh0YUFLVHZjT2ZVQWJyUnlCdUhXaVE1T0l1UlRHc2FCLVBXaHF5WUpmM24zYzhIMjA?oc=5",
-        "summary": "Nigeria’s Climate Transition in 2025: Moving from Ambition to Delivery&nbsp;&nbsp;APRI – Africa Policy Research Institute",
-        "published": "2026-03-17",
-        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
-      },
-      {
-        "title": "Offshore Wind Industry Posts Record Growth Amid U.S. Policy Setbacks - POWER Magazine",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMFJScmNiQ1hmeEFVaFU5Z1BuZnFKVXhZeHYxMDg2dmJhRVpEWDVMYjNPdnpBZDQ5ZmNyMVZJckZZUWVFbTFNanRKNzJ5TDZ2YVdDTzBlWnZrbDBjQ0w1VGRFZ0RZcnhWSElxd2tqZXQyTjJFdS1CZGhxdGlhOTIwQnpYTHJwbko5VUlWZUNiMGt0Y2hBbW5JRA?oc=5",
-        "summary": "Offshore Wind Industry Posts Record Growth Amid U.S. Policy Setbacks&nbsp;&nbsp;POWER Magazine",
-        "published": "2026-02-09",
-        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
-      },
-      {
         "title": "Africa’s Clean Energy Investment Reaches Record $15 Billion But Growth Needed To Meet Renewable Targets - SolarQuarter",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOS3FDNUR2dnRrbWdqZUNISWpFRUpTd19lRDVxcUx1OGF4UmZySVByeVlIRnpHZUVMYjRTVFM1NnoxZ3dmRUNVR0UxRU5NTXp5NTkxTnBVOU5mRkJuc3hyRXhmRXBLUTFDVmlORjZiYWZlUFVXSUpHSzF2OHhxWDRKSWFrbjFuTWdMNXJjOHhTS3FFN2NDY2NQYUlLRTdwTHl1VGtWeTV0X3pVdE81ZWMtV2VBMDA3R0RQUk1uWE45T0RRelhWNTNneGlfdHM5UWFtR1JTMw?oc=5",
         "summary": "Africa’s Clean Energy Investment Reaches Record $15 Billion But Growth Needed To Meet Renewable Targets&nbsp;&nbsp;SolarQuarter",
@@ -282,10 +275,17 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "Renewables 2025: How China, the US, Europe, and India Are Leading the World’s Clean Energy Growth - CarbonCredits.com",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX0xvZEdvSkNIUmhjcHEtWTk2NEZjNXQ5NjB1ZW1LRmdJbVF1dm44cXNta1pTU0hQODBKM052R3NVTUJsM2hjSXh5NHp5R3NBdkljUWk5NkhiWWphY1NzY2pRUEF1T3lPd1B2Mm1MS2daTU9NY1BuTHlwclhCT0FmNmRMTWZ4eEZYLXkzanRZX0kyUkFwWlZqMDZtS3hSQ3d0aTZnc1hGY0RTb1p4aml1TF9XWnVZd0lpcXZ3?oc=5",
-        "summary": "Renewables 2025: How China, the US, Europe, and India Are Leading the World’s Clean Energy Growth&nbsp;&nbsp;CarbonCredits.com",
-        "published": "2025-10-09",
+        "title": "India surpasses 56 GW wind capacity with record yearly addition - MSN",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYjVlc21jVks1ZF9NRHR2RHBMRUtLQ3BWREtwUDRKRTlIR3pVczU0TGFRdmNKVFEwelgtWGxEaGJ3NTBCM3F0U3o5bkhqcWtCSWQ1eXZXVUFZR2VVb3k0NjlaVlZ1c2xXTDZvVHlFSE5BakVzNjBOTnNydkJ0bW90SmRRbmNzY3VLR0s3d1B4SWtWeWczSUduRzBJbXMzR01ja2w2T0NhMXNnamU1TFptajRramJWZmdjYTQxMk1jNkdILU9HaURWamJJSEJjWjd5YlAycWZLUWVZSDNBZXZ1RXFEc01SQXNu?oc=5",
+        "summary": "India surpasses 56 GW wind capacity with record yearly addition&nbsp;&nbsp;MSN",
+        "published": "2026-04-26",
+        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
+      },
+      {
+        "title": "Wind players reaching global heights - China Daily",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGLVVoVGlIUVFGSUpfMllPcVF5X3E5blJVbG9wcW1aRzJzRm84bUhKcFpEUTladE9BT3RLN0RHWmo3UFFsVFpvMXFZNjFRTmVwZEhyVko4U3R0Y1VTQ0JROUUtRUhfR3FXVVBCVmk2aXNQSTJRRklCbEwxb0stUQ?oc=5",
+        "summary": "Wind players reaching global heights&nbsp;&nbsp;China Daily",
+        "published": "2026-03-17",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       }
     ]
