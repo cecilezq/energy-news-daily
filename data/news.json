@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-31 05:16 UTC",
+  "updated": "2026-06-01 06:01 UTC",
   "sections": {
     "global": [
+      {
+        "title": "A SpaceX/Tesla merger could trigger Musk’s $1T pay package automatically",
+        "link": "https://electrek.co/2026/05/31/a-spacex-tesla-merger-could-trigger-musks-1t-pay-package-automatically/",
+        "summary": "SpaceX has a big IPO coming up, but the next step might be a merger of SpaceX and Tesla. And if so, it could be a backdoor to triggering Elon Musk’s trillion-dollar pay package automatically, without having to meet any of the operational milestones, thus diluting everyone’s shares without delivering",
+        "published": "2026-05-31",
+        "source": "Electrek"
+      },
+      {
+        "title": "Juiced Bikes now shipping its game-changing electric mopeds in the US",
+        "link": "https://electrek.co/2026/05/30/juiced-bikes-now-shipping-its-game-changing-electric-mopeds-in-the-us/",
+        "summary": "Juiced Bikes says its newly launched Scrambler e-bikes are now officially in stock and shipping, marking the next step in the brand’s return after its acquisition and relaunch under the team behind Lectric eBikes. more…",
+        "published": "2026-05-31",
+        "source": "Electrek"
+      },
       {
         "title": "Tesla’s ‘Full Self-Driving’ fraud lawsuit gets first hearing in China — 10 owners seek $583K",
         "link": "https://electrek.co/2026/05/30/tesla-fsd-china-lawsuit-first-hearing-10-owners/",
@@ -55,20 +69,6 @@
         "title": "The 2027 Chevy Equinox and Blazer EVs fix one big complaint drivers had",
         "link": "https://electrek.co/2026/05/29/2027-chevy-equinox-blazer-evs-fix-one-big-driver-complaint/",
         "summary": "The 2027 Chevy Equinox EV and Blazer EV are almost here, bringing a few updates that fix some of the biggest complaints with the current models. more…",
-        "published": "2026-05-29",
-        "source": "Electrek"
-      },
-      {
-        "title": "Republicans devise another way to make electricity more expensive with new fees",
-        "link": "https://electrek.co/2026/05/29/republicans-devise-yet-another-way-to-make-your-electricity-more-expensive/",
-        "summary": "As everything gets less affordable, republicans are proposing big new inspection fees for cheap energy projects, trying to protect their fossil fuel masters from the rise of better options. more…",
-        "published": "2026-05-29",
-        "source": "Electrek"
-      },
-      {
-        "title": "BYD’s new electric SUV secures over 30,000 orders in its first week",
-        "link": "https://electrek.co/2026/05/29/byds-new-electric-suv-secures-over-30000-orders-first-week/",
-        "summary": "The Yuan Plus, sold overseas as the Atto 3, is among BYD’s best-selling vehicles. After launching the third-generation model with a longer driving range and Flash Charging, BYD said the new EV received over 30,000 orders in one week. more…",
         "published": "2026-05-29",
         "source": "Electrek"
       }
@@ -196,10 +196,10 @@
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
-        "title": "'Massive reminder of geopolitical risk': Australia positioned to capture fleeing battery storage investment amid Middle East tension - Energy-Storage.News",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVXJJa0FJVFowZjFQRWF4SmVaMWtxMGY0MzFEdnE1MXdmaUdla2lEOHY0SHdzVDZ6dzY3RWxiVE5ILTZZbG5BSjJXb3JZWkVmYjFIcDZSWTBfcHpVNnBoalp5VTViTGdiU2dyWEh4YndvWHJaV2dtVjhZTUk0eEFOYjg5dnhneUNfbEI3RU4welM0bmZVaVZybTgwczQ5SVFrQ2U2NHM2RUZKZl9qeEpyVEtkeE5nUktFaDNDR2RrZEVvVzIwczFCM2R4NlNVNExMTlZXNVdMb0RmLTVtcGRLMWVMV0xsNEVkREdVWWdXdGJ0d0gz?oc=5",
-        "summary": "'Massive reminder of geopolitical risk': Australia positioned to capture fleeing battery storage investment amid Middle East tension&nbsp;&nbsp;Energy-Storage.News",
-        "published": "2026-03-31",
+        "title": "Canada to spend up to $200B on wind, solar, and energy storage: Report - Yahoo! Finance Canada",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYU50bnJVVkJGVDVyMVIydjNMMWlVTzI5TmlsaDZFTnRlWXJUTFo3LVFVSDE1cW4wekpwYTljOXU4MXJqejVZZUtKSG5KUC1sUmNZbW1NZmVjOEQtRmNLWmhya3pZWkJOZmgyUURvVWhqZExXeERDYVBtQy1QVm1ETU9adXY5QlhGTU9VbXNDS1ZiQjJhLXk5YWpiM3ZOZkRmTjc5T2JJa2p5NU1HNWp6VHYxQ3pTZw?oc=5",
+        "summary": "Canada to spend up to $200B on wind, solar, and energy storage: Report&nbsp;&nbsp;Yahoo! Finance Canada",
+        "published": "2026-02-05",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
@@ -210,10 +210,10 @@
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
-        "title": "Canada to spend up to $200B on wind, solar, and energy storage: Report - Yahoo! Finance Canada",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYU50bnJVVkJGVDVyMVIydjNMMWlVTzI5TmlsaDZFTnRlWXJUTFo3LVFVSDE1cW4wekpwYTljOXU4MXJqejVZZUtKSG5KUC1sUmNZbW1NZmVjOEQtRmNLWmhya3pZWkJOZmgyUURvVWhqZExXeERDYVBtQy1QVm1ETU9adXY5QlhGTU9VbXNDS1ZiQjJhLXk5YWpiM3ZOZkRmTjc5T2JJa2p5NU1HNWp6VHYxQ3pTZw?oc=5",
-        "summary": "Canada to spend up to $200B on wind, solar, and energy storage: Report&nbsp;&nbsp;Yahoo! Finance Canada",
-        "published": "2026-02-05",
+        "title": "China’s green energy leader Inner Mongolia is working on ‘flexible’ power plants - South China Morning Post",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVzVlM0podlJQd3JMOUcxSXR1LUo4YUNxNHk2U2xyZkF6a25MalBNR016bmxFWXd1OEN5Ujk1MlNQdmQxY09tdnUtRTNudEFaZExWd3JVRnNkdGJCaXRCZFNrWXpnT3FwN2RXdW9zbWF6OWdHUTJJRThZYlpXWGRGOHlpdGxVMWFjNzdHbUswNl9BWW5fUGVOeFN2N2N0aHJqRFJBUG4tNTNGd2Myc0xvem1pM0hRMm41QlJfZFh0N1lPd3FRYjdWcWRScTNjeEFu0gHQAUFVX3lxTFAtUk1nOGkwWUs2cE5rTGduOUFGbXNiOEE2OVVKMGNkb3c0akZCQmlsQkZIQXEzQ3poU3pGXzFzbHZ5TzA2ckJVTGU0Y0VBX2JUX1VaOEhkejE0dnR4ajFQNllEYzM1RWtHTFJWWUNFVzBBLWVlYmFEQXpLSW1KeXNBaHZRZlpGQy1DcTdUUXNRNDhmZ0NDQVd5LXhUQWpzeFdJeEZlZWdYNi1MeUZqVTBjc2R5aE0tNUJZc2Ruekl5Y2hxS0ZCd1ozYmNDZDhmZGQ?oc=5",
+        "summary": "China’s green energy leader Inner Mongolia is working on ‘flexible’ power plants&nbsp;&nbsp;South China Morning Post",
+        "published": "2026-02-16",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       }
     ],
@@ -226,10 +226,10 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "Highlights of the global energy transition in 2025 - ember-energy.org",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZzlEdGt0WXBSemFPdXNhVWpLZkpGU0pXclZMQ2xjbTFBV191blVrc1lXXzNjaXVENnE2ZDhsSWotSWxnZHF6NHBnOWtOMExfWmlSVXp1d3hPOE54RWJFWHRkQjFrYTUxOEc0RU1SYmUzc2VueGc3T1NKUWJzUy0yUkNHb1FZd2hJWkxQYktyOWp2Q0pTR0x3?oc=5",
-        "summary": "Highlights of the global energy transition in 2025&nbsp;&nbsp;ember-energy.org",
-        "published": "2025-12-17",
+        "title": "A milestone achievement in our journey to carbon negative - The Official Microsoft Blog",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNelB2MmlDVzJkbTV5WEF5RS05S3lQSWFrM091bzF0a01EcUU1c3ZPMTc3N1Q2WDlGN01TaVBwUVlpZF91T2NqSG5hbE91SlE1R0VFVTJ3OXZuUXpON0s5WkhOWDU2d19BSDREd0xjN2RqOXZNamR0cVJXU3VWay1yUTRLZWVWVDN5UTFDSTZrTkJpTnhRU0EzQ3FKVFcxa2pwTWR4cw?oc=5",
+        "summary": "A milestone achievement in our journey to carbon negative&nbsp;&nbsp;The Official Microsoft Blog",
+        "published": "2026-02-18",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
@@ -240,17 +240,24 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
+        "title": "Trump Approves NextEra Energy’s 10 GW Gas Plan: Why NEE Stock Is Set for New Highs in 2026 - TIKR.com",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWGtFcmVuWUw3Ql93bkxJREZUYzloaUdTM25TbVZQNVEzVmtRNnlpVTltRVMyWkZ5NVVGQXkzUEdxMjEzbFF4MDJ6UHpGaklVZHVxajU2VzZUMVFxc1ZkTkZVblNjSGFCbHZDbzIyU2tPZWRIMDZzaWo2THhaNXg2SVdkOE1tNmprVktnYWY1TXdKNVRFMlJGWjJ3V0tWYTBHSHpHb3Q4NWpYeXpWcnB5Z3RwNm4?oc=5",
+        "summary": "Trump Approves NextEra Energy’s 10 GW Gas Plan: Why NEE Stock Is Set for New Highs in 2026&nbsp;&nbsp;TIKR.com",
+        "published": "2026-04-09",
+        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
+      },
+      {
+        "title": "Nigeria’s Climate Transition in 2025: Moving from Ambition to Delivery - APRI – Africa Policy Research Institute",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObndxN0p6T1dmZHA5YWF1aU1qNFFlaDdZR0dGaW5tU1lRYWJ5WElVWm5ZWHcyZTJyMXJBaUZ5X3UxWFlaTHF4MVFaclgwNVRQajNzODFOTUpld0NmaUYyalJ6aWh0YUFLVHZjT2ZVQWJyUnlCdUhXaVE1T0l1UlRHc2FCLVBXaHF5WUpmM24zYzhIMjA?oc=5",
+        "summary": "Nigeria’s Climate Transition in 2025: Moving from Ambition to Delivery&nbsp;&nbsp;APRI – Africa Policy Research Institute",
+        "published": "2026-03-17",
+        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
+      },
+      {
         "title": "China Hits Renewable Milestone, But Coal Isn't Going Anywhere - Crude Oil Prices Today | OilPrice.com",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU245OTBtUWlBREU1eUJlVEhQeHEtbzdFSk1BUFFrTXV5ZWYzbWlNczZjQ2hyckFCYXFBSnM1dW9pSlkzU1J3X3UwY2VMemV4VzM2ZEtFYXdEVTMzcUJRQkgzTFhWaGZWckRiRmh2TTVsMXZFbnVpTXlFWnNGTHhkVlhiSGI3R3BXeS15dmtLcXI2dGJZSjhBVEpVTDJQUdIBowFBVV95cUxNYVlGWkN3RWxCWUtFTW5BLWFUaXZTcGlrUkkzb2xGMDNyT1EzSDdoQU00ODBiNGRfTW5veEd4WDZLVG5Ia1BJNU5NcFdrclo5NG91bmJVX2tXNHJ1cmxxMFJJSGhtVkNkbl9HNVVjRkJHcGZKUi1hRkwyaExtNU9WZTlQQWFGc0had1hSWklSMzhlSHdneTA0djRSRzZFZVh3bXVj?oc=5",
         "summary": "China Hits Renewable Milestone, But Coal Isn't Going Anywhere&nbsp;&nbsp;Crude Oil Prices Today | OilPrice.com",
         "published": "2026-02-16",
-        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
-      },
-      {
-        "title": "Microsoft Hits 100% Renewable Electricity Milestone With 40GW Clean Energy Portfolio - CarbonCredits.com",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU3hjdXRfNjhPVWdZU1ZZZlRDVE10TmNNd2RiYkZBaWM2LU5jOU1wMlBGTDdmeklKdGRDeV9ZMjV1TXoyZ2c4OHZWMDcyTGlfX3Y5V1YwaVRJbXJfMEVMblJEWWR5ZjdmZC1lenZQNnZrWE93ZFlSbjdXUjlVMF8zUXl2N1FEYnNBOFdBRkMwV1BpVGVDZGVWNTZpd2FTUVB1NUR5UmxjVmZsczdwNFpB?oc=5",
-        "summary": "Microsoft Hits 100% Renewable Electricity Milestone With 40GW Clean Energy Portfolio&nbsp;&nbsp;CarbonCredits.com",
-        "published": "2026-02-24",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
@@ -261,31 +268,24 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "Wind players reaching global heights - China Daily",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGLVVoVGlIUVFGSUpfMllPcVF5X3E5blJVbG9wcW1aRzJzRm84bUhKcFpEUTladE9BT3RLN0RHWmo3UFFsVFpvMXFZNjFRTmVwZEhyVko4U3R0Y1VTQ0JROUUtRUhfR3FXVVBCVmk2aXNQSTJRRklCbEwxb0stUQ?oc=5",
-        "summary": "Wind players reaching global heights&nbsp;&nbsp;China Daily",
-        "published": "2026-03-17",
+        "title": "Africa’s Clean Energy Investment Reaches Record $15 Billion But Growth Needed To Meet Renewable Targets - SolarQuarter",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOS3FDNUR2dnRrbWdqZUNISWpFRUpTd19lRDVxcUx1OGF4UmZySVByeVlIRnpHZUVMYjRTVFM1NnoxZ3dmRUNVR0UxRU5NTXp5NTkxTnBVOU5mRkJuc3hyRXhmRXBLUTFDVmlORjZiYWZlUFVXSUpHSzF2OHhxWDRKSWFrbjFuTWdMNXJjOHhTS3FFN2NDY2NQYUlLRTdwTHl1VGtWeTV0X3pVdE81ZWMtV2VBMDA3R0RQUk1uWE45T0RRelhWNTNneGlfdHM5UWFtR1JTMw?oc=5",
+        "summary": "Africa’s Clean Energy Investment Reaches Record $15 Billion But Growth Needed To Meet Renewable Targets&nbsp;&nbsp;SolarQuarter",
+        "published": "2026-03-05",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "Energy News Monitor | Volume XXII, Issue 22&23 - orfonline.org",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS25nN0N1Z0Q3V0dMNm54Ti12QXRJeUFGaGFLem5jSjJHNTVGR2pIb0pPU1lNdU44UWh0Rk5tUWVOdDgwaDBNS2Q4M0sxVzR3WkVHaHp5ZjhsUjA4c0wwZF9MLWJ0ZVpHOTJlenZOUEczdFU4OHM1X1FLNFlPQXNNalNlRzA?oc=5",
-        "summary": "Energy News Monitor | Volume XXII, Issue 22&23&nbsp;&nbsp;orfonline.org",
-        "published": "2026-01-22",
+        "title": "Saudi Arabia promotes a record renewable energy plan - Atalayar",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV2R6SkFUcjZCdGVaTXhreVdLZFJ3MThnR0I5aUViNUVta1pBS3kwU0h4ZjJ2STlONWJrcnpTdmptQlc5WFlKVnlaNjRxZmZKVS1MRERIaXhwekFnSHc5VEp3TzF6WG9DN3EwNDN4bEZRM3hUS0hjWjkyX1hqZ1J5R3hTU1BDLVR3QTFGZG1sU0JEWF9yblNnNzRIcUdtYUJFUnp0QUVoUnFuUjFocF8wNDFUbHVzYjdKaEpPZnRqQW1sSEsyaURWLTNlbzdaTm_SAdQBQVVfeXFMT2RGMWEtZ0dVZjNWbTFuZ3kxNC1rZW1tYmRfMzIxbjhRSlE0TzhDcld6c0duRC1vVV9XdU9haXoyUlhzWFlNMzVKM3lRbVZnU0hpVW5GLXR4R016NmFBOVVTLU1CRktqLU9nQXpKeDhvYk1KeFQtZVFqcDlubWxnd2d6Z3ZBa2xGVXNjcl85YkZVY2R3QlZTNm1uMnh4Y3FQSERRdWRrczh1azZIZUxKbmhHeV9wdkdSNy1PV0RpdG1ZM20wQ0ZYYmc3RnR3Ykx1elV1T0g?oc=5",
+        "summary": "Saudi Arabia promotes a record renewable energy plan&nbsp;&nbsp;Atalayar",
+        "published": "2025-07-22",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "Saudi Arabia Strengthens Global Position With Major Renewable Energy Investments - SolarQuarter",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVm1icGJsRVNQWVZFdDhELUpsd0dMUmtjbHMzQUhrZF9jWldaMlBMRGl6YWhwZ1hSUXp2ZHlDQ1NIcURxS043ZjI2NmVxUnN3ZEtHc1RQNi1OU1B6X2NlTTBHRmhINk1uREVKNHA4ZENzbm8yc1oydTJ4VlV0clZ2c3VUZS1fOUYxRXR1bmE0djU2dUJUSVJSRDdOLURlU0ZlRGwzM2U4WkxsU3pnSVdmYmxWbkVwMHRv?oc=5",
-        "summary": "Saudi Arabia Strengthens Global Position With Major Renewable Energy Investments&nbsp;&nbsp;SolarQuarter",
-        "published": "2026-03-25",
-        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
-      },
-      {
-        "title": "India Posts Historic Solar Growth with 36.6 GW Installed in 2025 - Mercomindia.com",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb2VjaVFZYV9IS2JEZUdwMHA2ZGRwa2g2eTRGTTlQNVJ4QS1IR1hpNE5HZUxPS0hpTkMwaVZvajRSX2p5QW8teFI0eC1EWnlVQmhpS0sxUDhPTkd0bEp5OTBwOXhVZWQyYTFTbE1KdnhBOHlWYnNsMmVIRFNkakFSUjcyR2ZoSTFvQi1sNWJtYU1yZw?oc=5",
-        "summary": "India Posts Historic Solar Growth with 36.6 GW Installed in 2025&nbsp;&nbsp;Mercomindia.com",
-        "published": "2026-02-12",
+        "title": "Record breaking auction for offshore wind secured to take back control of Britain's energy - GOV.UK",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON3JLQXhvRmhxVkJKWXZOY1g5cmxSdWt4T0pWc3h4UlJjWklVb2w4aGtBdXNObUJ0RGlmcVVKVlBRcnZ1cEF0eXlNeGt3U0pYQjItWmxpdm95bzM0Uk56dXhhZmdQZFNWckdUaEw2NDJjamw2dExLb0xMUFZwNEk0WVdvRzNTa3AxQWMwZjZ4UFZsTlNqM2dHNTVyM011dld1ZjBZWG5EOS1QV0x2YVpmalZYSUpvZ1JjOGw4Q0JzMktsdw?oc=5",
+        "summary": "Record breaking auction for offshore wind secured to take back control of Britain's energy&nbsp;&nbsp;GOV.UK",
+        "published": "2026-01-14",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       }
     ]
