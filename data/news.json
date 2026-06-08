@@ -1,11 +1,32 @@
 {
-  "updated": "2026-06-07 05:20 UTC",
+  "updated": "2026-06-08 05:49 UTC",
   "sections": {
     "global": [
       {
+        "title": "Survey Sunday: what will it take for fleets to realize electric works – TODAY?",
+        "link": "https://electrek.co/2026/06/07/survey-sunday-what-will-it-take-for-fleets-to-realize-electric-works-today/",
+        "summary": "For the last few weeks, we’ve been running a sidebar survey about what Electrek readers think it would take to convince the most EV-resistant fleet operators to realize that electric vehicles are ready for work TODAY. After receiving 1,700 responses, here’s what you told us. more…",
+        "published": "2026-06-07",
+        "source": "Electrek"
+      },
+      {
+        "title": "E-quipment highlight: 25-ton LiuGong 870HE electric wheel loader",
+        "link": "https://electrek.co/2026/06/07/e-quipment-highlight-liugong-870he-electric-wheel-loader/",
+        "summary": "Chinese equipment brand LiuGong is putting its 25-ton 870HE electric wheel loader to work at a STRABAG quarry in Slovenia, proving that electric vehicles can get the job done without the sky-high fuel costs associated with fossil fuels. more…",
+        "published": "2026-06-07",
+        "source": "Electrek"
+      },
+      {
+        "title": "Here are the best electric bikes you can buy at every price level in June 2026",
+        "link": "https://electrek.co/2026/06/07/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/",
+        "summary": "I’ve spent countless hours here at Electrek doing detailed hands-on testing of hundreds of electric bikes. Through thousands of miles of riding, I’ve been fortunate to learn these e-bikes inside and out, top to bottom and front to back. That long-term experience with real-world e-bike testing has he",
+        "published": "2026-06-07",
+        "source": "Electrek"
+      },
+      {
         "title": "New Danfoss hydraulic pump increases equipment runtime by 50%",
         "link": "https://electrek.co/2026/06/06/new-danfoss-hydraulic-pump-increases-equipment-runtime-by-50/",
-        "summary": "Scottish engineering and powertrain experts Danfoss have developed a new digital hydraulic system designed specifically for electric construction equipment that can reduce energy consumption from the machine’s battery by 35%, and improve runtime by more than 50%. (!) more…",
+        "summary": "Danish engineering and powertrain experts Danfoss have developed a new digital hydraulic system designed specifically for electric construction equipment that can reduce energy consumption from the machine’s battery by 35%, and improve runtime by more than 50%. (!) more…",
         "published": "2026-06-07",
         "source": "Electrek"
       },
@@ -48,27 +69,6 @@
         "title": "T1 Energy buys KORE Power to cash in on the AI power boom",
         "link": "https://electrek.co/2026/06/05/t1-energy-buys-kore-power-to-cash-in-on-the-ai-power-boom/",
         "summary": "T1 Energy, formerly known as FREYR Battery, is buying battery storage and software company KORE Power in a deal aimed at growing its presence in the fast-expanding energy storage and AI data center markets. more…",
-        "published": "2026-06-05",
-        "source": "Electrek"
-      },
-      {
-        "title": "Volkswagen’s push for more affordable EVs starts with these two",
-        "link": "https://electrek.co/2026/06/05/volkswagens-more-affordable-evs-starts-with-these-two/",
-        "summary": "The first Volkswagen ID. Polo and Cupra Raval models rolled off the production line at the Group’s Martorell plant in Spain, the first of several new affordable, mass-market EVs. more…",
-        "published": "2026-06-05",
-        "source": "Electrek"
-      },
-      {
-        "title": "BYD’s ‘world’s first’ 1,000-km range luxury GT is off to a hot start",
-        "link": "https://electrek.co/2026/06/05/byds-worlds-first-1000-km-range-luxury-gt-off-to-hot-start/",
-        "summary": "The new Denza Z9 GT can drive over 1,000 km (621 miles) without stopping, fully recharge in under 10 minutes, and starts at about $40,000 in China. Now, BYD is unleashing it in Europe, the UK, and several other markets. more…",
-        "published": "2026-06-05",
-        "source": "Electrek"
-      },
-      {
-        "title": "Tesla pushes Roadster demo to August as SpaceX thruster work continues",
-        "link": "https://electrek.co/2026/06/05/tesla-roadster-demo-delayed-august-spacex-thruster/",
-        "summary": "Tesla has pushed the planned public demo of its next-generation Roadster to August or later, according to a report from The Information citing four people with knowledge of the program. It marks yet another delay for the vehicle first unveiled as a prototype nearly nine years ago. The demo, expected",
         "published": "2026-06-05",
         "source": "Electrek"
       }
@@ -131,17 +131,17 @@
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       },
       {
+        "title": "Brookfield expands portfolio with RE investments in Southeast Asia - Asian Power",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdHBhOXRzZVQxY1AwWXVCWjJRcXNleG9VOWtfLUpHclk2YWJmdkJCY3Z1aTEwUjNhbDVIeGJkMk5VRVQ0OUVBSGdRS25PVzhQVGhaMmRWbmE4dHVIbE9iaGJGNmZPU1VOTHotLWR2UVQ1TDVPa1RzUWR4Qm13aER1U21sQ3Y2TDQ5cm91Z2lZaHVRdno4?oc=5",
+        "summary": "Brookfield expands portfolio with RE investments in Southeast Asia&nbsp;&nbsp;Asian Power",
+        "published": "2025-11-26",
+        "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
+      },
+      {
         "title": "U.S. trade uncertainty presents domestic opportunities for Southeast Asian renewables suppliers - IEEFA | Institute for Energy Economics and Financial Analysis",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ3JSTGE1cGhYSGFHeWZNby1xZlVQZnJuNnlucUtkRWFqSlNmdVkwczhIR29GS0pwZm83ZE5veXFhZ0Zka2h0bThkRVMxYWZhU2kzdWZQVmRWNnYtNkExRHcxQjlJcmcxTkVPdlRzVkhaOW5sSHo1S3MzaGlIWklWWllyOXNUZUoxelRpTGNpR2UxeEVmNTRnVDhTejdlZm9RWXd3a3lFNlY4elZndWFJZlp3TTVGR013?oc=5",
         "summary": "U.S. trade uncertainty presents domestic opportunities for Southeast Asian renewables suppliers&nbsp;&nbsp;IEEFA | Institute for Energy Economics and Financial Analysis",
         "published": "2025-04-24",
-        "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
-      },
-      {
-        "title": "Solar could help Vietnam avoid almost USD 600 million from coal and gas imports, as Iran war drives up energy prices - Zero Carbon Analytics",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTFBVTzA0RTJZcmRIOE9Ed2htb3JadWxGQUZzUnhxMkF1RlBtXzBZRVU2OFBhWEJ5WGkyRE9JNEpLRHRGU1QtbTRMejAtcFQxakEzRXpVekw4eUZzMDRzQVFMb2ZPeFRFSjZ4YldMZUhLNldJUGFYU1pvZlRBS3RHUjZoRHdQMk8yTFFXNkRqdy1lbUl4WkYyTVNOeVhGaWY2a3o5YjJIdkVLS05nMHZNXzRaUVFyTjJObXFEOGEwWWlZZi1Pb3p5cUd6ZjVaSV9iWnZDRThEaWNTTUY0RFB5SWdRazVreWI1ZzFLLVk0U1FnREhDc1JaaF9tMVE?oc=5",
-        "summary": "Solar could help Vietnam avoid almost USD 600 million from coal and gas imports, as Iran war drives up energy prices&nbsp;&nbsp;Zero Carbon Analytics",
-        "published": "2026-03-16",
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       }
     ],
@@ -150,7 +150,7 @@
         "title": "Analysis: China’s CO2 climbs 2% in early 2026 due to ‘wasted’ wind and solar - Carbon Brief",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQXZ2cEZjOGRrb2tISDlNcHdBcTY2a201V3k1VzN1cXdsVFZfRTcxWFA3OVlRWkx6Wjl2Z2JFR0tkVTViVG16ZHBfZ2I3clBLb0dRLW05TUI2Q1RfVnVpcEYtanVaTUJ6NEpNNjU3N3VTdTM0SVZDa18xbW9iZ29lOW4tRHZ6RXFKa1RFYW5HNXVoVG5RN01Edm9UQ0N0cDRRdXc?oc=5",
         "summary": "Analysis: China’s CO2 climbs 2% in early 2026 due to ‘wasted’ wind and solar&nbsp;&nbsp;Carbon Brief",
-        "published": "2026-06-05",
+        "published": "2026-06-04",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
@@ -182,13 +182,6 @@
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
-        "title": "Datang plans 14.6 GW renewables cluster in China - pv magazine Global",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUkFXa2twUWdHLTY4Q3lidTYybW9nUFBHT0hpUEFzV01BVVZ4UTY2WTA5ZjVNaEtjUTRKYWV4YUpwcHAzRVgtSkxYdkJzYTBVMFVjOVAtLXBCYkw2cTJ0Q05PT0FZZUdkcTIzRTM4U3I1VF8xZGxLN29TeFdIN2lIb3VRY1AySTFTRmdFbXhDZ3dYdw?oc=5",
-        "summary": "Datang plans 14.6 GW renewables cluster in China&nbsp;&nbsp;pv magazine Global",
-        "published": "2026-05-14",
-        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
-      },
-      {
         "title": "Progress Despite Fragmentation: The Energy Transition to 2030 - BloombergNEF",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaHkzMHZ0c2pibDA4WFI2b1kydzNHWTRlQ1EyQmRaaXdqbHFpb0sxa09YaUxUVGlHT1RrbE9adTRoVm00aGFaR2dNZ05qMlQtTFliN05FOUNXUEdSd2dDbktRT0c2clc0V2tRSk1LMGZzS1dPRDhhUlEyRWh6aG5LeFU4Q2k4dXVzWGRFQTNWWHVvS3MwbnVVajFuYUxqeXo0VTRYTlY0UGZKQQ?oc=5",
         "summary": "Progress Despite Fragmentation: The Energy Transition to 2030&nbsp;&nbsp;BloombergNEF",
@@ -200,6 +193,13 @@
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbnJDaG1RV2VFUDlvYUpQaWRYMEJGc2ZVek04YU1hNktaRzZkd2kxSFczekVGbmQ3S21WLVZoN3N4dTQzQ0RwdzEzakROczJSMldiclpQRXZNMmZkb3FUaUkyaU1wNHlnVl81ZU03b0Mxc2lWQkxWWWt2MU9lQXhhV1daenRxTXVqWjJCM2tmQ2wwQUdxNk1uZnlRYXpEdw?oc=5",
         "summary": "The China-Gulf Green Rush: Fueling Renewable Energy Cooperation&nbsp;&nbsp;Middle East Council on Global Affairs",
         "published": "2026-01-26",
+        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
+      },
+      {
+        "title": "Datang plans 14.6 GW renewables cluster in China - pv magazine Global",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUkFXa2twUWdHLTY4Q3lidTYybW9nUFBHT0hpUEFzV01BVVZ4UTY2WTA5ZjVNaEtjUTRKYWV4YUpwcHAzRVgtSkxYdkJzYTBVMFVjOVAtLXBCYkw2cTJ0Q05PT0FZZUdkcTIzRTM4U3I1VF8xZGxLN29TeFdIN2lIb3VRY1AySTFTRmdFbXhDZ3dYdw?oc=5",
+        "summary": "Datang plans 14.6 GW renewables cluster in China&nbsp;&nbsp;pv magazine Global",
+        "published": "2026-05-14",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
@@ -218,13 +218,6 @@
       }
     ],
     "major_events": [
-      {
-        "title": "A milestone achievement in our journey to carbon negative - The Official Microsoft Blog",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNelB2MmlDVzJkbTV5WEF5RS05S3lQSWFrM091bzF0a01EcUU1c3ZPMTc3N1Q2WDlGN01TaVBwUVlpZF91T2NqSG5hbE91SlE1R0VFVTJ3OXZuUXpON0s5WkhOWDU2d19BSDREd0xjN2RqOXZNamR0cVJXU3VWay1yUTRLZWVWVDN5UTFDSTZrTkJpTnhRU0EzQ3FKVFcxa2pwTWR4cw?oc=5",
-        "summary": "A milestone achievement in our journey to carbon negative&nbsp;&nbsp;The Official Microsoft Blog",
-        "published": "2026-02-18",
-        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
-      },
       {
         "title": "As Trump embraces dirty fossil fuels, California hits major clean energy milestone, invests over $100 million more in proven technologies - California State Portal | CA.gov",
         "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYnVldjIxN2hqZ2hxWnA5eXQxdnB6YjdXV05aNndrNzNQa2dOQVYwQ2VqdXpJeE4zcjFocU1xSVpvbngzUFJManExMjI5UWtXeWNhaEh6QmhXQk1ibURsWGxrdTg5SmlQdG5WMU9YbWNOX1gwbS1aY3l2NXBJMTVNUGdLc2lIaHlFY0thd0NjeEQ0MmFqMG95Vi1YZEw5VFByMEwxR1VFcUJZTnUtb1F2RzZQSzM4MTZyWS10NTZ6ay05djJrbFRrNm53MGNaSXBsZEZ0WE5vMzJxVlJTRzBBTUdEdk9OeE4xSVJVaXJEejZaMWtDTnZkUWxtREoxZw?oc=5",
@@ -247,17 +240,17 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "Nigeria’s Climate Transition in 2025: Moving from Ambition to Delivery - APRI – Africa Policy Research Institute",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObndxN0p6T1dmZHA5YWF1aU1qNFFlaDdZR0dGaW5tU1lRYWJ5WElVWm5ZWHcyZTJyMXJBaUZ5X3UxWFlaTHF4MVFaclgwNVRQajNzODFOTUpld0NmaUYyalJ6aWh0YUFLVHZjT2ZVQWJyUnlCdUhXaVE1T0l1UlRHc2FCLVBXaHF5WUpmM24zYzhIMjA?oc=5",
-        "summary": "Nigeria’s Climate Transition in 2025: Moving from Ambition to Delivery&nbsp;&nbsp;APRI – Africa Policy Research Institute",
-        "published": "2026-03-17",
+        "title": "U.S. Emissions Rose 2.4% in 2025 While China and India Hit Historic Coal Milestones - Earth911",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORDZxVS1MX0NERm5LbFR4c2JJdmhLbzJTclF2S3JjdVdPSEhwZEh1ZkhfbGtjOVhPbkItLWgzdkRHY2MyRDl4cTR1YXFLNHVPQTdmV18yX2Rid3dPcEVFUV81RGJwUUpwRVpmR2tBa29mc0xjUzhzSERWWUVlVkxncElvYnNuSDRpZWV4ZDNLZTMtRlg2MFdpTlVlYnhLenFPS2JUaFJZWnJ3QnN3NDRleTN3c1VrQQ?oc=5",
+        "summary": "U.S. Emissions Rose 2.4% in 2025 While China and India Hit Historic Coal Milestones&nbsp;&nbsp;Earth911",
+        "published": "2026-01-19",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "Offshore Wind Industry Posts Record Growth Amid U.S. Policy Setbacks - POWER Magazine",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMFJScmNiQ1hmeEFVaFU5Z1BuZnFKVXhZeHYxMDg2dmJhRVpEWDVMYjNPdnpBZDQ5ZmNyMVZJckZZUWVFbTFNanRKNzJ5TDZ2YVdDTzBlWnZrbDBjQ0w1VGRFZ0RZcnhWSElxd2tqZXQyTjJFdS1CZGhxdGlhOTIwQnpYTHJwbko5VUlWZUNiMGt0Y2hBbW5JRA?oc=5",
-        "summary": "Offshore Wind Industry Posts Record Growth Amid U.S. Policy Setbacks&nbsp;&nbsp;POWER Magazine",
-        "published": "2026-02-09",
+        "title": "Microsoft Hits 100% Renewable Electricity Milestone With 40GW Clean Energy Portfolio - CarbonCredits.com",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU3hjdXRfNjhPVWdZU1ZZZlRDVE10TmNNd2RiYkZBaWM2LU5jOU1wMlBGTDdmeklKdGRDeV9ZMjV1TXoyZ2c4OHZWMDcyTGlfX3Y5V1YwaVRJbXJfMEVMblJEWWR5ZjdmZC1lenZQNnZrWE93ZFlSbjdXUjlVMF8zUXl2N1FEYnNBOFdBRkMwV1BpVGVDZGVWNTZpd2FTUVB1NUR5UmxjVmZsczdwNFpB?oc=5",
+        "summary": "Microsoft Hits 100% Renewable Electricity Milestone With 40GW Clean Energy Portfolio&nbsp;&nbsp;CarbonCredits.com",
+        "published": "2026-02-24",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
@@ -282,10 +275,17 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "Renewables 2025: How China, the US, Europe, and India Are Leading the World’s Clean Energy Growth - CarbonCredits.com",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX0xvZEdvSkNIUmhjcHEtWTk2NEZjNXQ5NjB1ZW1LRmdJbVF1dm44cXNta1pTU0hQODBKM052R3NVTUJsM2hjSXh5NHp5R3NBdkljUWk5NkhiWWphY1NzY2pRUEF1T3lPd1B2Mm1MS2daTU9NY1BuTHlwclhCT0FmNmRMTWZ4eEZYLXkzanRZX0kyUkFwWlZqMDZtS3hSQ3d0aTZnc1hGY0RTb1p4aml1TF9XWnVZd0lpcXZ3?oc=5",
-        "summary": "Renewables 2025: How China, the US, Europe, and India Are Leading the World’s Clean Energy Growth&nbsp;&nbsp;CarbonCredits.com",
-        "published": "2025-10-09",
+        "title": "China Adds Power 8x More Than the US in 2025, with $500B Energy Build-Out in a Single Year - CarbonCredits.com",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZlVHN3l5S3JULXMtU2REbUxtNTZ3bTdybUlyejVsVVNNRzlfV3U5MWNwMFdtM2ZEQWRJZmluUzNpV0pjNk5MMWpGUkd4OXZRdUNVcW00a05yTmJBNlF5NUlxeWpjblV2bkxrd1R2aGR2a0dEWFl4b2Zad1g3Sjd0aEk0TzFFbWYtcnRMZkxTQ0xQaVBkNUE2eVlXUHRZa1R4M1R0UDExQ3dmUTZHcHVEQi1aYmU2UQ?oc=5",
+        "summary": "China Adds Power 8x More Than the US in 2025, with $500B Energy Build-Out in a Single Year&nbsp;&nbsp;CarbonCredits.com",
+        "published": "2026-02-04",
+        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
+      },
+      {
+        "title": "Corporate and Government Collaboration for Clean Energy Investment Moves from Commitment to Action: Up to $100 Billion in Clean Energy Investment Potential across the World - U.S. Department of State (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQaHVBZ3dwQXFpbG9IbFdKWENwSGozcEZsRDJHbmlId1FJR19HS3BmUy13R1pacHNEWVJ3SFlFWmVrU2EwMXpELTNtdDE4b2FSeGZJMU1OVU9SNzlNWHRxZnk5NHFaa3VKLWx6MFVqZy0yUjktTnJTV3V1TXNWZzQtcUJKZ3FiMEwyVEJpT19US28xRWhabTFuZGR3Q1J4WlpKSGRVMGRVMnZFS2tqMUFJV2NLeXJrRTY1WE9JSXZyZFZlVzhZNFBXMUdCcmQwbElzT2dOSDdWck5HN2ZkZFpGdnpuNWJSb0s4Y05JVzg5cG9yYkxQc0x1Mm5tZ2Zoc0pyRE1DalNodElQUndBMEhRazZLd3ZOM0ZxcEp5c05jckF0MXoxTGc?oc=5",
+        "summary": "Corporate and Government Collaboration for Clean Energy Investment Moves from Commitment to Action: Up to $100 Billion in Clean Energy Investment Potential across the World&nbsp;&nbsp;U.S. Department of State (.gov)",
+        "published": "2022-11-10",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       }
     ]
