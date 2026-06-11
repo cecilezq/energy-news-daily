@@ -1,75 +1,75 @@
 {
-  "updated": "2026-06-10 05:17 UTC",
+  "updated": "2026-06-11 05:27 UTC",
   "sections": {
     "global": [
       {
-        "title": "Solar + storage keeps winning so much in the US power race",
-        "link": "https://electrek.co/2026/06/09/solar-storage-keeps-winning-so-much-us-power-race/",
-        "summary": "Solar and storage made up a huge 91% of all new power capacity added to the US grid in Q1 2026, according to a new report from the Solar Energy Industries Association (SEIA) and Wood Mackenzie. more…",
+        "title": "GM is betting on battery cells that don’t use lithium",
+        "link": "https://electrek.co/2026/06/10/gm-sodium-ion-battery-peak-energy/",
+        "summary": "GM has partnered with Peak Energy to develop next-generation sodium-ion battery cells, but they’re not going into EVs – they’re for grid-scale energy storage projects. GM Ventures is making a strategic investment in Peak Energy. more…",
         "published": "2026-06-10",
         "source": "Electrek"
       },
       {
-        "title": "Solar beats coal in the US electricity mix for the first month ever",
-        "link": "https://electrek.co/2026/06/09/solar-beats-coal-in-the-us-electricity-mix-for-the-first-time-ever/",
-        "summary": "Solar generated more US electricity than coal for the first month on record in May 2026, according to new analysis from global energy think tank Ember. Solar supplied 12.8% of US electricity during the month, while coal dropped to 12.2%. more…",
+        "title": "BYD is bringing its 5-min ‘Flash’ electric car charging to Canada",
+        "link": "https://electrek.co/2026/06/10/byd-flash-charging-canada-5-minute-ev-charging-network/",
+        "summary": "BYD is preparing to bring its megawatt “Flash Charging” network, which can add about 250 miles (400 km) of range in 5 minutes, to Canada – the first confirmed deployment in North America. The plan was revealed through a new BYD job posting in Toronto for a manager tasked with executing “BYD’s flash ",
         "published": "2026-06-10",
         "source": "Electrek"
       },
       {
-        "title": "GM becomes first automaker to partner with Redwood across full battery lifecycle",
-        "link": "https://electrek.co/2026/06/09/gm-first-automaker-redwood-materials-full-battery-lifecycle/",
-        "summary": "General Motors has expanded its partnership with Redwood Materials to cover every stage of the battery lifecycle — manufacturing scrap recovery, end-of-life recycling, and now second-life energy storage deployed at a GM factory. It’s the first automaker to hit all three with JB Straubel’s company. T",
-        "published": "2026-06-09",
+        "title": "EV sales just hit their best month since federal tax credits ended",
+        "link": "https://electrek.co/2026/06/10/ev-sales-just-hit-their-best-month-since-federal-tax-credits-ended/",
+        "summary": "New EV prices continued to slide in May, even as sales climbed to their strongest level since the Trump administration killed federal EV tax credits last fall. more…",
+        "published": "2026-06-10",
         "source": "Electrek"
       },
       {
-        "title": "Toyota and Lexus are going big with their first 3-row electric SUVs",
-        "link": "https://electrek.co/2026/06/09/toyota-lexus-going-big-first-3-row-electric-suvs/",
-        "summary": "The Toyota Highlander BEV and Lexus TZ will go on sale by the end of 2026, offering three rows of seating and 300 miles of range. more…",
-        "published": "2026-06-09",
+        "title": "BYD’s new plug-in Super hatch packs 65 miles of EV range, promises to slash fuel costs",
+        "link": "https://electrek.co/2026/06/10/byds-super-hatch-packs-65-miles-ev-range-will-cut-fuel-costs/",
+        "summary": "The Dolphin G DM-i is BYD’s first car specifically designed for Europe. With up to 65 miles of pure electric range and 646 miles combined, BYD said the plug-in hatch will redefine the segment as an affordable, efficient alternative. more…",
+        "published": "2026-06-10",
         "source": "Electrek"
       },
       {
-        "title": "One company is building a massive 1.4 GW solar portfolio for Meta",
-        "link": "https://electrek.co/2026/06/09/one-company-is-building-a-massive-1-4-gw-solar-portfolio-for-meta/",
-        "summary": "Meta and Zelestra are expanding their fast-growing US solar partnership with yet another Texas project as the tech giant’s electricity demand continues to climb. more…",
-        "published": "2026-06-09",
+        "title": "Kia EV2 delivers 105% of its official range estimate in the real world, ranking #1 in class",
+        "link": "https://electrek.co/2026/06/10/kia-ev2-delivers-105-of-official-range-estimate-in-real-world/",
+        "summary": "It may be Kia’s smallest electric vehicle, but the EV2 is a “big” deal. Kia’s electric SUV beat its official range estimate in a recent real-world test, outperforming all others in its class. more…",
+        "published": "2026-06-10",
         "source": "Electrek"
       },
       {
-        "title": "BYD’s 5-minute EV chargers go live overseas, and they may undercut Tesla Superchargers",
-        "link": "https://electrek.co/2026/06/09/byd-opens-first-5-min-ev-chargers-overseas-cheap/",
-        "summary": "Ready to go in 5 minutes, BYD’s Flash Charging stations are just as quick as filling up at the gas station. After opening the first stations in Europe and the UK, BYD’s new EV chargers may be even cheaper than Tesla Superchargers. more…",
-        "published": "2026-06-09",
+        "title": "Ford’s $30,000 EV pickup was just spotted in the wild for the first time",
+        "link": "https://electrek.co/2026/06/10/fords-30000-ev-pickup-spotted-in-wild-first-time/",
+        "summary": "Just days after Ford said you might see one testing in public, the low-cost EV pickup was caught driving in Long Beach, and it’s even smaller than expected. more…",
+        "published": "2026-06-10",
         "source": "Electrek"
       },
       {
-        "title": "Jackery Early Prime Day power station sale with up to 65% off + up to 10% bonus savings, Beatbot robot pool cleaner lows, more",
-        "link": "https://electrek.co/2026/06/09/jackery-early-prime-day-power-station-sale-beatbot-robot-pool-cleaners-more/",
-        "summary": "Following right in the path we saw from EcoFlow yesterday, Jackery is headlining today’s Green Deals with its Early Prime Day Sale event that is offering up to 65% power station discounts + up to 10% bonus extra savings starting from $499. That’s not all, as Jackery also launched a flash sale as par",
-        "published": "2026-06-09",
+        "title": "Anker’s massive SOLIX Early Prime Day power station deals + exclusive bonus savings from $129, Ride1Up Portola e-bike, more",
+        "link": "https://electrek.co/2026/06/10/anker-solix-early-prime-day-power-station-deals-from-129-ride1up-portola-e-bike-more/",
+        "summary": "Our midweek Green Deals are following the trend of the last two days in terms of power station deals, with Anker’s SOLIX Early Prime Day Sale now in motion alongside a 48-hour flash sale offering a massive lineup of deals with many FREE gifts and our exclusive bonus savings code – all starting from ",
+        "published": "2026-06-10",
         "source": "Electrek"
       },
       {
-        "title": "Hyundai cuts IONIQ 5 prices as the new 2027 model launches in Korea",
-        "link": "https://electrek.co/2026/06/09/hyundai-cuts-ioniq-5-prices-2027-model-launches-korea/",
-        "summary": "After reducing IONIQ 5 prices in the US by nearly $10,000 last year, Hyundai launched the refreshed 2027 model in Korea at a more competitive price. more…",
-        "published": "2026-06-09",
+        "title": "BYD is deploying 2.4x more charging power per month than Tesla",
+        "link": "https://electrek.co/2026/06/10/byd-coming-for-tesla-supercharger-network-1500-kw-flash-charging/",
+        "summary": "BYD is building a charging network that makes Tesla’s Supercharger look slow — and it’s deploying it at a pace that could see it surpass Tesla’s global network within two to three years. The Chinese automaker has already deployed over 5,700 Flash Charging stations in China in just a few months and j",
+        "published": "2026-06-10",
         "source": "Electrek"
       },
       {
-        "title": "Tesla ‘FSD’ approved in Denmark, 4th European country in 2 months",
-        "link": "https://electrek.co/2026/06/09/tesla-fsd-approved-denmark-fourth-european-country/",
-        "summary": "Denmark has provisionally approved Tesla’s “Full Self-Driving” (Supervised) system, making it the fourth European country to clear the software in roughly eight weeks. The Danish Road Traffic Authority, Færdselsstyrelsen, confirmed the decision today — notably after Denmark had previously raised con",
-        "published": "2026-06-09",
+        "title": "BYD outsold Ford, and now it thinks it can catch Toyota as the world’s No. 1 automaker",
+        "link": "https://electrek.co/2026/06/10/byd-outsold-ford-thinks-it-can-catch-toyota-for-no-1/",
+        "summary": "BYD is already the world’s largest EV maker, but the company’s CEO is confident it will become the world’s leading global automaker within the next five years. more…",
+        "published": "2026-06-10",
         "source": "Electrek"
       },
       {
-        "title": "Mitsubishi’s new EV breaks cover, and it looks a bit familiar [Images]",
-        "link": "https://electrek.co/2026/06/09/mitsubishis-new-ev-breaks-cover-looks-familiar-images/",
-        "summary": "The Mitsubishi Eclipse is finally going electric with a little help from Nissan. Set to go on sale in the next few weeks, Mitsubishi unveiled the new Eclipse Sportback EV for the first time. more…",
-        "published": "2026-06-09",
+        "title": "BYD threatens to sue Trump administration over Pentagon military list",
+        "link": "https://electrek.co/2026/06/10/byd-threatens-sue-trump-administration-pentagon-military-list/",
+        "summary": "BYD is threatening to sue the US government after the Pentagon added the world’s largest EV maker to its list of “Chinese military companies” this week. Stella Li, BYD’s executive vice-president, said the company will use every legal “weapon” at its disposal to fight the designation, which she calle",
+        "published": "2026-06-10",
         "source": "Electrek"
       }
     ],
@@ -147,13 +147,6 @@
     ],
     "china": [
       {
-        "title": "Analysis: China’s CO2 climbs 2% in early 2026 due to ‘wasted’ wind and solar - Carbon Brief",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQXZ2cEZjOGRrb2tISDlNcHdBcTY2a201V3k1VzN1cXdsVFZfRTcxWFA3OVlRWkx6Wjl2Z2JFR0tkVTViVG16ZHBfZ2I3clBLb0dRLW05TUI2Q1RfVnVpcEYtanVaTUJ6NEpNNjU3N3VTdTM0SVZDa18xbW9iZ29lOW4tRHZ6RXFKa1RFYW5HNXVoVG5RN01Edm9UQ0N0cDRRdXc?oc=5",
-        "summary": "Analysis: China’s CO2 climbs 2% in early 2026 due to ‘wasted’ wind and solar&nbsp;&nbsp;Carbon Brief",
-        "published": "2026-06-04",
-        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
-      },
-      {
         "title": "How China adds more renewable energy than any other economy - The World Economic Forum",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRjB3ZE44UXVCR1gxYVZFMmJpZ2lyRzhfWFBVTXVmQk45Z2h1djE3TjNJODBaSGNNeFVTV0hyaW5wRzB6LWJLaTNSOUVIbHV1REMxZ2tKQ3FwLU13Q19QSXh5OW53azBzbEx5ek1MZ3ZNc0xSMXR3TkdxY3JUTzhlTy1rYw?oc=5",
         "summary": "How China adds more renewable energy than any other economy&nbsp;&nbsp;The World Economic Forum",
@@ -168,10 +161,10 @@
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
-        "title": "China’s 15th Five-Year Plan — Implications for climate and energy transition - Centre for Research on Energy and Clean Air",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObWxucVBhV0hOc0R3VWVzb3ZRMmNNWlVON2RFOUpCaUtsNlNoWTdTVjVrVE4ta0IwclZCQVhTN3pyNm9XNmUwVmZCbk5MSEVGVDhzWGFSLUhidWxlMkZjWEg0ZUdxT0I0T1NOclhjMmNnZ1FNWTY0c09mY2pZbWFCQ0tiVXlhMFJpdGZtaUFCd0I1VXpmQUU3UERoYWJjNkhZeWI1Wjcycw?oc=5",
-        "summary": "China’s 15th Five-Year Plan — Implications for climate and energy transition&nbsp;&nbsp;Centre for Research on Energy and Clean Air",
-        "published": "2026-03-06",
+        "title": "11 countries leading the charge on renewable energy - Climate Council",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONXZqVk9fdlRBOEFwOE14SExEQXBjUXpoVy0tem15aUlTdjNhdVhhV0FzR0NWdEVqdFlKZDlPWTdweXhZV3RhdGhHTDdHa0FlcjJWMXFpRDcwOFVfcWZWLVdRQ2p2T3NacGxIYUhhcVVIcV9uamJ4N3JzcU43WnN3TkdBVUJTbHNlcExQcFNTVQ?oc=5",
+        "summary": "11 countries leading the charge on renewable energy&nbsp;&nbsp;Climate Council",
+        "published": "2025-12-12",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
@@ -179,13 +172,6 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZzlEdGt0WXBSemFPdXNhVWpLZkpGU0pXclZMQ2xjbTFBV191blVrc1lXXzNjaXVENnE2ZDhsSWotSWxnZHF6NHBnOWtOMExfWmlSVXp1d3hPOE54RWJFWHRkQjFrYTUxOEc0RU1SYmUzc2VueGc3T1NKUWJzUy0yUkNHb1FZd2hJWkxQYktyOWp2Q0pTR0x3?oc=5",
         "summary": "Highlights of the global energy transition in 2025&nbsp;&nbsp;ember-energy.org",
         "published": "2025-12-17",
-        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
-      },
-      {
-        "title": "Xi: Pioneering wind, solar energy was visionary move - Balkan Green Energy News",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdHF1ejA2ODZtLTF2UzZSZEowcTZoblFGQlhGc3BtbVpsWkpiN21sMnhjX0VLSmtQdUNzV29oQnRGZTRCaTZVTF9UTVpiLUdtUXNjdkg4TXpZNjV5ajB3V1Y4TTFwWktJVncyeWlxUXgzaVdrR3I5UzhfZFQta2l5TkwxY2JqWnVkbUpmdm5n?oc=5",
-        "summary": "Xi: Pioneering wind, solar energy was visionary move&nbsp;&nbsp;Balkan Green Energy News",
-        "published": "2026-04-08",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
@@ -196,17 +182,10 @@
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
-        "title": "The China-Gulf Green Rush: Fueling Renewable Energy Cooperation - Middle East Council on Global Affairs",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbnJDaG1RV2VFUDlvYUpQaWRYMEJGc2ZVek04YU1hNktaRzZkd2kxSFczekVGbmQ3S21WLVZoN3N4dTQzQ0RwdzEzakROczJSMldiclpQRXZNMmZkb3FUaUkyaU1wNHlnVl81ZU03b0Mxc2lWQkxWWWt2MU9lQXhhV1daenRxTXVqWjJCM2tmQ2wwQUdxNk1uZnlRYXpEdw?oc=5",
-        "summary": "The China-Gulf Green Rush: Fueling Renewable Energy Cooperation&nbsp;&nbsp;Middle East Council on Global Affairs",
-        "published": "2026-01-26",
-        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
-      },
-      {
-        "title": "The Global Oil Crisis Seems to Be Helping One Industry: Renewable Energy - The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdjBUYmpzRXdLRDdWSzVDekxRSFRjSFAwbFRWamFiUXAyb1MxU252QXFtT2dzV2NFVEp4U0VKQXo1TzJMWVhsT2M1cUk0bVZ3ZmtaSGlTaUdjckhqcWlMcll2d0hKWHJDOXM0dnZ0QTBjREtjN202VUZIMjZrM01yS3Jn?oc=5",
-        "summary": "The Global Oil Crisis Seems to Be Helping One Industry: Renewable Energy&nbsp;&nbsp;The New York Times",
-        "published": "2026-05-07",
+        "title": "Analysis: Only half of Chinese provinces finalise key ‘Document 136’ renewable rules - Carbon Brief",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeEt1ZkRhUlJLQXcyenZPZVdLeDRheWNjbkxhdkpPUUFmTGVVLTByOUQtdW40eE9PYXkwaFhxcUc0aEh4LTludVJlM1dQMFJpeE9PMzhyU3lmemY1MjJLSjdhdUtfdXZPUkhpeVl1NEdtTUtkV01RekJCNWdnMVpQSXE3anU1aFZvZUE2NEhnMjB2bC10clV4YVR0dVlrUUhpZ3VqWE1Rc0hEWTFORmM0?oc=5",
+        "summary": "Analysis: Only half of Chinese provinces finalise key ‘Document 136’ renewable rules&nbsp;&nbsp;Carbon Brief",
+        "published": "2025-10-15",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
@@ -215,28 +194,35 @@
         "summary": "After the mandate: China’s energy storage sector one year on&nbsp;&nbsp;Dialogue Earth",
         "published": "2026-02-04",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
+      },
+      {
+        "title": "The China-Gulf Green Rush: Fueling Renewable Energy Cooperation - Middle East Council on Global Affairs",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbnJDaG1RV2VFUDlvYUpQaWRYMEJGc2ZVek04YU1hNktaRzZkd2kxSFczekVGbmQ3S21WLVZoN3N4dTQzQ0RwdzEzakROczJSMldiclpQRXZNMmZkb3FUaUkyaU1wNHlnVl81ZU03b0Mxc2lWQkxWWWt2MU9lQXhhV1daenRxTXVqWjJCM2tmQ2wwQUdxNk1uZnlRYXpEdw?oc=5",
+        "summary": "The China-Gulf Green Rush: Fueling Renewable Energy Cooperation&nbsp;&nbsp;Middle East Council on Global Affairs",
+        "published": "2026-01-26",
+        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
+      },
+      {
+        "title": "China’s 15th Five-Year Plan — Implications for climate and energy transition - Centre for Research on Energy and Clean Air",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObWxucVBhV0hOc0R3VWVzb3ZRMmNNWlVON2RFOUpCaUtsNlNoWTdTVjVrVE4ta0IwclZCQVhTN3pyNm9XNmUwVmZCbk5MSEVGVDhzWGFSLUhidWxlMkZjWEg0ZUdxT0I0T1NOclhjMmNnZ1FNWTY0c09mY2pZbWFCQ0tiVXlhMFJpdGZtaUFCd0I1VXpmQUU3UERoYWJjNkhZeWI1Wjcycw?oc=5",
+        "summary": "China’s 15th Five-Year Plan — Implications for climate and energy transition&nbsp;&nbsp;Centre for Research on Energy and Clean Air",
+        "published": "2026-03-06",
+        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
+      },
+      {
+        "title": "Xi: Pioneering wind, solar energy was visionary move - Balkan Green Energy News",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdHF1ejA2ODZtLTF2UzZSZEowcTZoblFGQlhGc3BtbVpsWkpiN21sMnhjX0VLSmtQdUNzV29oQnRGZTRCaTZVTF9UTVpiLUdtUXNjdkg4TXpZNjV5ajB3V1Y4TTFwWktJVncyeWlxUXgzaVdrR3I5UzhfZFQta2l5TkwxY2JqWnVkbUpmdm5n?oc=5",
+        "summary": "Xi: Pioneering wind, solar energy was visionary move&nbsp;&nbsp;Balkan Green Energy News",
+        "published": "2026-04-08",
+        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       }
     ],
     "major_events": [
-      {
-        "title": "A milestone achievement in our journey to carbon negative - The Official Microsoft Blog",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNelB2MmlDVzJkbTV5WEF5RS05S3lQSWFrM091bzF0a01EcUU1c3ZPMTc3N1Q2WDlGN01TaVBwUVlpZF91T2NqSG5hbE91SlE1R0VFVTJ3OXZuUXpON0s5WkhOWDU2d19BSDREd0xjN2RqOXZNamR0cVJXU3VWay1yUTRLZWVWVDN5UTFDSTZrTkJpTnhRU0EzQ3FKVFcxa2pwTWR4cw?oc=5",
-        "summary": "A milestone achievement in our journey to carbon negative&nbsp;&nbsp;The Official Microsoft Blog",
-        "published": "2026-02-18",
-        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
-      },
       {
         "title": "As Trump embraces dirty fossil fuels, California hits major clean energy milestone, invests over $100 million more in proven technologies - California State Portal | CA.gov",
         "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYnVldjIxN2hqZ2hxWnA5eXQxdnB6YjdXV05aNndrNzNQa2dOQVYwQ2VqdXpJeE4zcjFocU1xSVpvbngzUFJManExMjI5UWtXeWNhaEh6QmhXQk1ibURsWGxrdTg5SmlQdG5WMU9YbWNOX1gwbS1aY3l2NXBJMTVNUGdLc2lIaHlFY0thd0NjeEQ0MmFqMG95Vi1YZEw5VFByMEwxR1VFcUJZTnUtb1F2RzZQSzM4MTZyWS10NTZ6ay05djJrbFRrNm53MGNaSXBsZEZ0WE5vMzJxVlJTRzBBTUdEdk9OeE4xSVJVaXJEejZaMWtDTnZkUWxtREoxZw?oc=5",
         "summary": "As Trump embraces dirty fossil fuels, California hits major clean energy milestone, invests over $100 million more in proven technologies&nbsp;&nbsp;California State Portal | CA.gov",
         "published": "2025-10-09",
-        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
-      },
-      {
-        "title": "Highlights of the global energy transition in 2025 - ember-energy.org",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZzlEdGt0WXBSemFPdXNhVWpLZkpGU0pXclZMQ2xjbTFBV191blVrc1lXXzNjaXVENnE2ZDhsSWotSWxnZHF6NHBnOWtOMExfWmlSVXp1d3hPOE54RWJFWHRkQjFrYTUxOEc0RU1SYmUzc2VueGc3T1NKUWJzUy0yUkNHb1FZd2hJWkxQYktyOWp2Q0pTR0x3?oc=5",
-        "summary": "Highlights of the global energy transition in 2025&nbsp;&nbsp;ember-energy.org",
-        "published": "2025-12-17",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
@@ -254,10 +240,10 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "Dominion Energy Stock in 2026: 48 Gigawatts Contracted, $65 Billion Committed, CVOW 70% Done - TIKR.com",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMDZiRWZEVUM0V2RtdGVKd0ZjSDRacWhWS2hSbUlyNk5iVWJnTlR2ZVJDTzhqVG0tdFBmR3h1MmxzbXA4U09MakdEWVpPX3pLLWlWaC14a2VnWmxnZVZjbzVlWkI1Y054Q2JPZHBPR29NMnZlMElOdjUtWW9oUXVOeks0OHp0Tk5SVXhWRk1FOGxvV3NMb1hoWXNiU0RtOF9nbnh1d2kyenI5R1hMNHA1WWxvZw?oc=5",
-        "summary": "Dominion Energy Stock in 2026: 48 Gigawatts Contracted, $65 Billion Committed, CVOW 70% Done&nbsp;&nbsp;TIKR.com",
-        "published": "2026-04-10",
+        "title": "Nebius Touts $10B, 310 MW Data Center Plan - Data Center Knowledge",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeUxQNmxWQlU2RHhZN3NOTFRvZ3FJa3ZhSWNWdHZjWHFIcmx5RHp6bHBsWFVaaGYzbnd3ZlFRN3VabGJETFVuY0hDTWJMRVE5YXVOUXd2c0o0YTF0RlpSQW1nZEJkZmNXcEs2QTUxM3FZU0NhbElyWjVjTTc2UHhlUXluVjJZTGRlNTNLX2NUSTRHN0ROTmxCUjhGTENHRGpWMUdDVHZPdFdWMHZrc2drcW9EaGd6WkQ3WW00TGZkNThWTjF0TW1J?oc=5",
+        "summary": "Nebius Touts $10B, 310 MW Data Center Plan&nbsp;&nbsp;Data Center Knowledge",
+        "published": "2026-03-31",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
@@ -268,10 +254,10 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "Nigeria’s Climate Transition in 2025: Moving from Ambition to Delivery - APRI – Africa Policy Research Institute",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObndxN0p6T1dmZHA5YWF1aU1qNFFlaDdZR0dGaW5tU1lRYWJ5WElVWm5ZWHcyZTJyMXJBaUZ5X3UxWFlaTHF4MVFaclgwNVRQajNzODFOTUpld0NmaUYyalJ6aWh0YUFLVHZjT2ZVQWJyUnlCdUhXaVE1T0l1UlRHc2FCLVBXaHF5WUpmM24zYzhIMjA?oc=5",
-        "summary": "Nigeria’s Climate Transition in 2025: Moving from Ambition to Delivery&nbsp;&nbsp;APRI – Africa Policy Research Institute",
-        "published": "2026-03-17",
+        "title": "China Adds Power 8x More Than the US in 2025, with $500B Energy Build-Out in a Single Year - CarbonCredits.com",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZlVHN3l5S3JULXMtU2REbUxtNTZ3bTdybUlyejVsVVNNRzlfV3U5MWNwMFdtM2ZEQWRJZmluUzNpV0pjNk5MMWpGUkd4OXZRdUNVcW00a05yTmJBNlF5NUlxeWpjblV2bkxrd1R2aGR2a0dEWFl4b2Zad1g3Sjd0aEk0TzFFbWYtcnRMZkxTQ0xQaVBkNUE2eVlXUHRZa1R4M1R0UDExQ3dmUTZHcHVEQi1aYmU2UQ?oc=5",
+        "summary": "China Adds Power 8x More Than the US in 2025, with $500B Energy Build-Out in a Single Year&nbsp;&nbsp;CarbonCredits.com",
+        "published": "2026-02-04",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
@@ -286,6 +272,20 @@
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMFJScmNiQ1hmeEFVaFU5Z1BuZnFKVXhZeHYxMDg2dmJhRVpEWDVMYjNPdnpBZDQ5ZmNyMVZJckZZUWVFbTFNanRKNzJ5TDZ2YVdDTzBlWnZrbDBjQ0w1VGRFZ0RZcnhWSElxd2tqZXQyTjJFdS1CZGhxdGlhOTIwQnpYTHJwbko5VUlWZUNiMGt0Y2hBbW5JRA?oc=5",
         "summary": "Offshore Wind Industry Posts Record Growth Amid U.S. Policy Setbacks&nbsp;&nbsp;POWER Magazine",
         "published": "2026-02-09",
+        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
+      },
+      {
+        "title": "Wind players reaching global heights - China Daily",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGLVVoVGlIUVFGSUpfMllPcVF5X3E5blJVbG9wcW1aRzJzRm84bUhKcFpEUTladE9BT3RLN0RHWmo3UFFsVFpvMXFZNjFRTmVwZEhyVko4U3R0Y1VTQ0JROUUtRUhfR3FXVVBCVmk2aXNQSTJRRklCbEwxb0stUQ?oc=5",
+        "summary": "Wind players reaching global heights&nbsp;&nbsp;China Daily",
+        "published": "2026-03-17",
+        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
+      },
+      {
+        "title": "Africa’s Clean Energy Investment Reaches Record $15 Billion But Growth Needed To Meet Renewable Targets - SolarQuarter",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOS3FDNUR2dnRrbWdqZUNISWpFRUpTd19lRDVxcUx1OGF4UmZySVByeVlIRnpHZUVMYjRTVFM1NnoxZ3dmRUNVR0UxRU5NTXp5NTkxTnBVOU5mRkJuc3hyRXhmRXBLUTFDVmlORjZiYWZlUFVXSUpHSzF2OHhxWDRKSWFrbjFuTWdMNXJjOHhTS3FFN2NDY2NQYUlLRTdwTHl1VGtWeTV0X3pVdE81ZWMtV2VBMDA3R0RQUk1uWE45T0RRelhWNTNneGlfdHM5UWFtR1JTMw?oc=5",
+        "summary": "Africa’s Clean Energy Investment Reaches Record $15 Billion But Growth Needed To Meet Renewable Targets&nbsp;&nbsp;SolarQuarter",
+        "published": "2026-03-05",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       }
     ]
