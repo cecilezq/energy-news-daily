@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-05 04:55 UTC",
+  "updated": "2026-07-06 05:09 UTC",
   "sections": {
     "global": [
+      {
+        "title": "The grid was melting down in last week’s heat – until EVs came to the rescue",
+        "link": "https://electrek.co/2026/07/05/the-grid-was-melting-down-in-last-weeks-heat-until-evs-came-to-the-rescue/",
+        "summary": "As last week’s relentless heat wave strained power grids, critics feared that the record number of electric vehicles on the push them over the edge. Instead, the opposite happened: EVs helped utilities keep the lights on and the AC running by feeding the electricity stored in their batteries back in",
+        "published": "2026-07-05",
+        "source": "Electrek"
+      },
+      {
+        "title": "Hurricanes, heat domes, and holding up the grid with home batteries [update]",
+        "link": "https://electrek.co/2026/07/05/hurricanes-heat-domes-and-holding-up-the-grid-with-home-batteries/",
+        "summary": "It’s been a year since this piece on home batteries becoming one of the most important tools we have for keeping the lights on during hurricanes, heat waves, and other extreme weather events was published. Since then, the case for VPPs has only gotten stronger, with more utilities than ever putting ",
+        "published": "2026-07-05",
+        "source": "Electrek"
+      },
       {
         "title": "Kalmar is building – and selling! – these massive electric reach stackers in China",
         "link": "https://electrek.co/2026/07/04/kalmar-is-building-and-selling-these-massive-electric-reach-stackers-in-china/",
@@ -55,20 +69,6 @@
         "title": "Electrek American Solar Challenge 2026: About the race, full schedule, and teams competing",
         "link": "https://electrek.co/2026/07/03/electrek-american-solar-challenge-2026-about-the-race-full-schedule-and-teams-competing/",
         "summary": "It’s now July, which means schools from around the world are making final preparations for the Electrek American Solar Challenge 2026, and this year is going to be an especially notable one! A record 42 teams from colleges in the US, Canada, Belgium, and the Netherlands are registered to compete in ",
-        "published": "2026-07-03",
-        "source": "Electrek"
-      },
-      {
-        "title": "UK EV registrations hit 30% share in June as Tesla rebounds 42%",
-        "link": "https://electrek.co/2026/07/03/uk-ev-registrations-june-2026-30-percent-share/",
-        "summary": "British battery-electric vehicle registrations jumped 38% in June to 64,440 units, pushing EVs to nearly 30% of the new car market — their strongest monthly performance outside seasonal peaks, according to New AutoMotive data released Friday. The overall market grew 15% year-over-year to 215,921 uni",
-        "published": "2026-07-03",
-        "source": "Electrek"
-      },
-      {
-        "title": "July 4th Green Deals: Bluetti Summer Power Sale exclusives, Hiboy EX11 full suspension e-bike $700 off, EcoFlow flash sale, and much more",
-        "link": "https://electrek.co/2026/07/03/july-4th-bluetti-summer-power-sale-hiboy-ex11-full-suspension-e-bike-ecoflow-more/",
-        "summary": "We’re ending this week with a special 4th of July Green Deals edition, led by the Bluetti Summer Power Sale on power stations that benefits from two of our exclusive bonus savings codes, including the ongoing low price for the new FridgePower Station + bundles starting from $807, among others. Right",
         "published": "2026-07-03",
         "source": "Electrek"
       }
@@ -154,6 +154,13 @@
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
+        "title": "Green Power Direct Supply to Data Centers Accelerates as Wind, Solar, and Storage Giants Race for the Trillion-Yuan Computing-Power Synergy Track - finance.biggo.com",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yUmVMRUUzUWtESE1qRzl6U1IxbWNSLUlBNE05Sjc5QTV1YlpfTnVTWkVER2p5dVNvX0RWX25IcXliNjZkT0xWZDY2d3phM2RsY2JJTUJSMlF1X2hPRUFHMzI5NV9NTzJBeFhKaHFkRnFONW5UZ3c?oc=5",
+        "summary": "Green Power Direct Supply to Data Centers Accelerates as Wind, Solar, and Storage Giants Race for the Trillion-Yuan Computing-Power Synergy Track&nbsp;&nbsp;finance.biggo.com",
+        "published": "2026-07-05",
+        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
+      },
+      {
         "title": "The China–Gulf axis is reshaping renewable energy in the Global South - East Asia Forum",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ1BhX3kxMEU1OERvbmlZRGNWYXRSQ3NkNFN4MGd1T1ZDMURpUElVRjBDZlFvQlk0c3NYZjRiVXZ2aTBObDZzNFpqVVJybmdSVnI1R0NyZ3JfZkRPd3FmYWRJenV1YndjOFloZ1IzaUpmSVRkWG1zV0o5bHMyWHpjQTRJLVphaGN5MGVFQ3diajk1dzhPTVU0Ui1UZDVpY2tockZVZ25HUkxpVDg?oc=5",
         "summary": "The China–Gulf axis is reshaping renewable energy in the Global South&nbsp;&nbsp;East Asia Forum",
@@ -189,13 +196,6 @@
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
-        "title": "China's Largest Integrated Solar, Hydrogen, and Energy Storage Project Is Fully Completed - Fuel Cells Works",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWUFSU25hYnoyWUJxdGhKOU82NDY3Y2lJakZObjFOY3AxQy1nX2t6X3B0ZWtMcjFkTkI1OFhzbVZFMC01NThNck5va3RJV29yWW5CUFlpbEd2QzAwaGdmRVQzOG95VVI0NE5jY1ZUMzhrS1F4Q1FuLVJGdFNOU0VlT0NScktUT041MGFmTzQ0TUItOHBfZG40eWlrQ0llT0l3Szk3a1ZXd01vb2VuRFU3U2dueFA4dUNfSnU4emVyVGZqSmQwUUhjTFNKVEI3QkxtdGFGOQ?oc=5",
-        "summary": "China's Largest Integrated Solar, Hydrogen, and Energy Storage Project Is Fully Completed&nbsp;&nbsp;Fuel Cells Works",
-        "published": "2026-06-10",
-        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
-      },
-      {
         "title": "24 7 renewables could happen sooner than you think - Canary Media",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbk9Dc0h6eGpMOWFPNXZEeFFZLThCZjVnbTQxN3NCbTFhdXdoU3lBaU9SZmhOaXBkbHp4V19lYkFFVHdpVndpaWE5dlIwSUVyeGk4anA0SEl6RF95VEtnLUsxVW5MUGdzZF94cHZQSEFobHhsS3RYc2F2eGRmcHBzV1QzT3pIRm9YX2NV?oc=5",
         "summary": "24 7 renewables could happen sooner than you think&nbsp;&nbsp;Canary Media",
@@ -203,17 +203,17 @@
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
+        "title": "China's Largest Integrated Solar, Hydrogen, and Energy Storage Project Is Fully Completed - Fuel Cells Works",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWUFSU25hYnoyWUJxdGhKOU82NDY3Y2lJakZObjFOY3AxQy1nX2t6X3B0ZWtMcjFkTkI1OFhzbVZFMC01NThNck5va3RJV29yWW5CUFlpbEd2QzAwaGdmRVQzOG95VVI0NE5jY1ZUMzhrS1F4Q1FuLVJGdFNOU0VlT0NScktUT041MGFmTzQ0TUItOHBfZG40eWlrQ0llT0l3Szk3a1ZXd01vb2VuRFU3U2dueFA4dUNfSnU4emVyVGZqSmQwUUhjTFNKVEI3QkxtdGFGOQ?oc=5",
+        "summary": "China's Largest Integrated Solar, Hydrogen, and Energy Storage Project Is Fully Completed&nbsp;&nbsp;Fuel Cells Works",
+        "published": "2026-06-10",
+        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
+      },
+      {
         "title": "Analysis: China’s CO2 climbs 2% in early 2026 due to ‘wasted’ wind and solar - Carbon Brief",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQXZ2cEZjOGRrb2tISDlNcHdBcTY2a201V3k1VzN1cXdsVFZfRTcxWFA3OVlRWkx6Wjl2Z2JFR0tkVTViVG16ZHBfZ2I3clBLb0dRLW05TUI2Q1RfVnVpcEYtanVaTUJ6NEpNNjU3N3VTdTM0SVZDa18xbW9iZ29lOW4tRHZ6RXFKa1RFYW5HNXVoVG5RN01Edm9UQ0N0cDRRdXc?oc=5",
         "summary": "Analysis: China’s CO2 climbs 2% in early 2026 due to ‘wasted’ wind and solar&nbsp;&nbsp;Carbon Brief",
         "published": "2026-06-04",
-        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
-      },
-      {
-        "title": "How China adds more renewable energy than any other economy - The World Economic Forum",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRjB3ZE44UXVCR1gxYVZFMmJpZ2lyRzhfWFBVTXVmQk45Z2h1djE3TjNJODBaSGNNeFVTV0hyaW5wRzB6LWJLaTNSOUVIbHV1REMxZ2tKQ3FwLU13Q19QSXh5OW53azBzbEx5ek1MZ3ZNc0xSMXR3TkdxY3JUTzhlTy1rYw?oc=5",
-        "summary": "How China adds more renewable energy than any other economy&nbsp;&nbsp;The World Economic Forum",
-        "published": "2025-12-03",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       }
     ],
@@ -226,10 +226,10 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "Dispatchable Solar Clears 1 GW: China’s Gobi Desert Plant Runs After Sunset - Tech Times",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPclJnMUJxVFFCN0l5eVdDNkV5ODdkVFdJQUVCcWJ5YTktSVMxdU9jYjMzZ1RjRlpzQk5feG82MDZZVG5HeTZudlVsZzN2SHhSUEs3Ni1OeHRHQXRQZFNLYTQ1TXE4QW5RUU9RMFFOQzQ0d2RVXzRSWXA4Sm41elFoTFJ3SlpYVjNqMVlZT3hnV1JvM096WG1vcDI0WHlvdXVLcm1QekhtbmV6eDBCeUNJOXB1cEtObnc4UHQtZEZuN2dRMmlUbFFz?oc=5",
-        "summary": "Dispatchable Solar Clears 1 GW: China’s Gobi Desert Plant Runs After Sunset&nbsp;&nbsp;Tech Times",
-        "published": "2026-07-02",
+        "title": "Eight Gigawatts of Distributed Solar Energy - EIN News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUXJxUzNIempLWU1panZ2Rk9JR1ZRS2M3M0tGVFdmZ1R5VUxkMFM0ZGI2d1ZXZ1l3Z0E4cFZmWUk2SmhnLTd0UnV4ZXJ0clFhQXhkY1JzU0JMOXE3M1ZSZlRiaHEtQ3I2bkdmMWJrYXltbmFTQTNIS2lOODhiSzVPSTlNS182aVNtN0QwMkUwWHNqOG_SAZMBQVVfeXFMTVFycVMzSHpqS1lNaWp2dkZPSUdWUUtjNzNLRlRXZmdUeVVMZDBTNGRiNndWV2dZd2dBOHBWZllJNkpoZy03dFJ1eGVydHJRYUF4ZGNSc1NCTDlxNzNWUmZUYmhxLUNyNm5HZjFia2F5bW5hU0EzSEtpTjg4Yks1T0k5TUtfNmlTbTdEMDJFMFhzajhv?oc=5",
+        "summary": "Eight Gigawatts of Distributed Solar Energy&nbsp;&nbsp;EIN News",
+        "published": "2026-07-03",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
@@ -247,10 +247,17 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "Nebius Touts $10B, 310 MW Data Center Plan - Data Center Knowledge",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeUxQNmxWQlU2RHhZN3NOTFRvZ3FJa3ZhSWNWdHZjWHFIcmx5RHp6bHBsWFVaaGYzbnd3ZlFRN3VabGJETFVuY0hDTWJMRVE5YXVOUXd2c0o0YTF0RlpSQW1nZEJkZmNXcEs2QTUxM3FZU0NhbElyWjVjTTc2UHhlUXluVjJZTGRlNTNLX2NUSTRHN0ROTmxCUjhGTENHRGpWMUdDVHZPdFdWMHZrc2drcW9EaGd6WkQ3WW00TGZkNThWTjF0TW1J?oc=5",
-        "summary": "Nebius Touts $10B, 310 MW Data Center Plan&nbsp;&nbsp;Data Center Knowledge",
-        "published": "2026-03-31",
+        "title": "Dominion Energy Stock in 2026: 48 Gigawatts Contracted, $65 Billion Committed, CVOW 70% Done - TIKR.com",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMDZiRWZEVUM0V2RtdGVKd0ZjSDRacWhWS2hSbUlyNk5iVWJnTlR2ZVJDTzhqVG0tdFBmR3h1MmxzbXA4U09MakdEWVpPX3pLLWlWaC14a2VnWmxnZVZjbzVlWkI1Y054Q2JPZHBPR29NMnZlMElOdjUtWW9oUXVOeks0OHp0Tk5SVXhWRk1FOGxvV3NMb1hoWXNiU0RtOF9nbnh1d2kyenI5R1hMNHA1WWxvZw?oc=5",
+        "summary": "Dominion Energy Stock in 2026: 48 Gigawatts Contracted, $65 Billion Committed, CVOW 70% Done&nbsp;&nbsp;TIKR.com",
+        "published": "2026-04-10",
+        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
+      },
+      {
+        "title": "Offshore Wind Industry Posts Record Growth Amid U.S. Policy Setbacks - POWER Magazine",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMFJScmNiQ1hmeEFVaFU5Z1BuZnFKVXhZeHYxMDg2dmJhRVpEWDVMYjNPdnpBZDQ5ZmNyMVZJckZZUWVFbTFNanRKNzJ5TDZ2YVdDTzBlWnZrbDBjQ0w1VGRFZ0RZcnhWSElxd2tqZXQyTjJFdS1CZGhxdGlhOTIwQnpYTHJwbko5VUlWZUNiMGt0Y2hBbW5JRA?oc=5",
+        "summary": "Offshore Wind Industry Posts Record Growth Amid U.S. Policy Setbacks&nbsp;&nbsp;POWER Magazine",
+        "published": "2026-02-09",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
@@ -261,31 +268,24 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "Battery 2035: Building new advantages - McKinsey & Company",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMjlfUWs0LXRjTFA3N0dnVm1HWlF4dEtlUVZEODNtM2ZNX3dIZ0NjcGlvM2pMa0RPQnljRXZoc1JNQU0yZHJuYkZuWllhUlQwdDUyQ0JZUFBEN2pVNG9mVVF1Q1JXc1JSb0paTGhDTjh6aktERE9qUThPd1NYQUtmQ0J4emZfVVBhbjdIX2lud3hPUHN3QjZNazYyZExHdmhHUHVyZXJiMHJSUVBnQnRIVFZnc1BnZ0Jlb0Nr?oc=5",
-        "summary": "Battery 2035: Building new advantages&nbsp;&nbsp;McKinsey & Company",
-        "published": "2026-01-01",
+        "title": "Energy minister announces record electricity production in 2025 - Hürriyet Daily News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS1hzTVJsblNQVHpmbkNrRW1JZW9LTXhvZm9iZTNQTUF6Qk1KQ2pzVFFlLTM4aUFFSG5rZlk5RWNIZWVaeV9FVmx1dVlfTnFLMmtpcXdDc3ctR0lmRFhvTGVfdTZBcWt2ZTBKX3Q2aEt1OUxnY2dMMGt4QmctaFBhTzlWRi1FQnVoX3VHeXRHOW5PZk1GUFFzSEhWRElIRk5Hb1VuLWpabw?oc=5",
+        "summary": "Energy minister announces record electricity production in 2025&nbsp;&nbsp;Hürriyet Daily News",
+        "published": "2026-01-21",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "World Bank approves €400M financing package for renewables in Türkiye - Anadolu Ajansı",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQm9XeEhKdnpseDZzakp3RmRybXJnTHZOZVMwc1Z1eUl4THNJQUVhX0M2UUpGcnlxNzZod0E4UnVaTTFoOXh0Ukh5bTdQejktcWx4VXZBOHpadzg4UE5kY1pJdVYzNVUyZXFMNzJSVnlSUkk5cTBlM3Jac2F2bXBaOWRHbzEzbV83eEVkMlBEeE1yMHpteEpvVm1kVkpZcFRXTlFhVGJQbHM3VVp6alVmbnVmWXbSAbwBQVVfeXFMTkVYVmI4OHhTemlfUDY3WWVPZjNyc1NYMUZTOXh2ZmNONUhKUzlzYnJtdS1RaHpBd1FoZHdacVlhaHVqckhwMDRLd2NFQnVMSk9MS3dtRUE1YlBQM1RZSi1Demd3bHNxWnZRX01UNUJZUVEycFlHUHl6QVQ5dDd2UVlFZC1VekhBNVAyUEEtX3VfU29rQTZGUFQ3RFdtY3k2NjljQ0VuQWRBUE8zYjhleDM5bEZFTVlsTHM2cTM?oc=5",
-        "summary": "World Bank approves €400M financing package for renewables in Türkiye&nbsp;&nbsp;Anadolu Ajansı",
-        "published": "2026-06-17",
+        "title": "Tesla’s energy storage business is growing faster than any other part of the company - TechCrunch",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUURGOGR6WmtkLTNYdUNieE5FVUUtVldzYkkxcFd1ajdwR1hqLVZYajBsdGJVTkZaVmRxTy10Q1hIV21GSjRXaGh0SXB5a19hcUZUUThYVHFXbzJCR3B1dmM5RzdDRlRsQ0cwWUd2OXM3bkFCTXJXbUl2WG83TnMtYnBYV2JBMnlyaVI3WHpVRnEtY3lmYXJuMXZIRUJBVWltOXpTZWd1WDM0TG9ESU9URnE3LXQ4S0p5Mmc?oc=5",
+        "summary": "Tesla’s energy storage business is growing faster than any other part of the company&nbsp;&nbsp;TechCrunch",
+        "published": "2026-01-29",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "AMD signs AI chip-supply deal with OpenAI, shares surge over 34% - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcXJZMDVNUWFpeU9seHBhZWJhR1N0cUlsR19SSXB5ZEUyZ0VUT3F0d0M3RWJvTkw3eFhwOVhTNVRicklaS0pIS1doMURQUkw5LUpBRVlkYVpTTU51NFBTejYtVnA5TlNrMEZkZkMwOUNOSlo2ZXBGbm5OWGpDcjloa0J4dkZ5T1FoM3RLcEFoZmlVSERsWlpSTV8wS2lNZjRqdDc3ZzVNeHdJNHpTd2ExX01vOHNWU3c?oc=5",
-        "summary": "AMD signs AI chip-supply deal with OpenAI, shares surge over 34%&nbsp;&nbsp;Reuters",
-        "published": "2025-10-06",
-        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
-      },
-      {
-        "title": "GridCARE Raises $64 Million to Squeeze More Power out of Grids - ESG Today",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLU15TXY5UER0al82d2pKNkQxMXFnVVBWTl82QXpWdDVNY1YtZldFbWxRQndKTDBESHUzWjEwNkNWWjB2NHUzcl9ueGtfRUNLOTlGemZBb3k0RWE2dmJJUkpOeXNwVkZKSzRzdXYxZmRTY1d4UERZT0EzanlUM1g1MzNZRVhXOW90YjVYbHNNREw?oc=5",
-        "summary": "GridCARE Raises $64 Million to Squeeze More Power out of Grids&nbsp;&nbsp;ESG Today",
-        "published": "2026-05-19",
+        "title": "Energy News Monitor | Volume XXII, Issue 22&23 - orfonline.org",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS25nN0N1Z0Q3V0dMNm54Ti12QXRJeUFGaGFLem5jSjJHNTVGR2pIb0pPU1lNdU44UWh0Rk5tUWVOdDgwaDBNS2Q4M0sxVzR3WkVHaHp5ZjhsUjA4c0wwZF9MLWJ0ZVpHOTJlenZOUEczdFU4OHM1X1FLNFlPQXNNalNlRzA?oc=5",
+        "summary": "Energy News Monitor | Volume XXII, Issue 22&23&nbsp;&nbsp;orfonline.org",
+        "published": "2026-01-22",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       }
     ]
