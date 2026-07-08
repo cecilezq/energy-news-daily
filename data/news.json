@@ -1,79 +1,93 @@
 {
-  "updated": "2026-07-07 04:51 UTC",
+  "updated": "2026-07-08 04:13 UTC",
   "sections": {
     "global": [
       {
-        "title": "Tesla in-cabin camera fails to prevent 60 mph naps as Wisk Aero faces lawsuit",
-        "link": "https://electrek.co/2026/07/06/tesla-in-cabin-camera-fails-to-prevent-60-mph-naps-as-wisk-aero-faces-lawsuit/",
-        "summary": "On today’s surveillance-heavy episode of Quick Charge, it sure looks like Tesla’s in-cabin driver cam failed to stop one woman from falling asleep at the wheel, but safety and attention monitoring may not be the end game for that camera after all.",
+        "title": "Inside Lectron’s factory in China: how its EV chargers are made",
+        "link": "https://electrek.co/2026/07/07/i-toured-lectron-factory-in-china-heres-what-i-learned/",
+        "summary": "Whether you know the Lectron name or not, there’s a good chance you’ve used one of its EV charging adapters. The company makes many of the J1772/CCS-to-NACS and NACS-to-J1772/CCS adapters that EV drivers rely on. Now, Lectron has launched the NEXUS, its second-gen Level 2 home EV charger. I recently",
         "published": "2026-07-07",
         "source": "Electrek"
       },
       {
-        "title": "BMW’s iX4 EV captured with a new look as its debut nears [Images]",
-        "link": "https://electrek.co/2026/07/06/bmw-ix4-ev-spotted-new-look-debut-nears-images/",
-        "summary": "The 2027 iX4 is set to join BMW’s electric vehicle lineup soon, bringing a new coupe SUV-like style to the family. Ahead of its debut, the 2027 BMW iX4 was spotted ripping around the Nürburgring, flaunting its new look.",
-        "published": "2026-07-06",
+        "title": "Kia’s next electric van looks even bigger in person [Video]",
+        "link": "https://electrek.co/2026/07/07/kias-next-electric-van-looks-even-bigger-in-person-video/",
+        "summary": "Kia’s first electric van is already becoming a global sensation. The PV7 is set to go on sale soon, serving as the bigger sibling to the PV5. Here’s our first look at it.",
+        "published": "2026-07-07",
         "source": "Electrek"
       },
       {
-        "title": "Tesla app code reveals cabin camera will verify driver before FSD",
-        "link": "https://electrek.co/2026/07/06/tesla-cabin-camera-fsd-identity-check/",
-        "summary": "Code buried in Tesla’s latest iOS app update points to a new feature that would use the in-car cabin camera to verify a driver’s identity before allowing “Full Self-Driving” to activate. If the system can’t confirm the person behind the wheel matches an authorized profile, it would block FSD and sur",
-        "published": "2026-07-06",
+        "title": "BYD’s electric GT resurfaces after its first public sighting",
+        "link": "https://electrek.co/2026/07/07/byds-electric-gt-resurfaces-after-first-public-sighting/",
+        "summary": "A year after the Song L GT was revealed, BYD’s electric GT was spotted in public for the first time.",
+        "published": "2026-07-07",
         "source": "Electrek"
       },
       {
-        "title": "Kia is killing off its flagship sedan as it shifts to more efficient, lower-cost EVs",
-        "link": "https://electrek.co/2026/07/06/kia-killing-off-flagship-sedan-lower-cost-evs/",
-        "summary": "Kia is trading in its flagship sedan after 14 years to focus on smaller, more affordable electric vehicles.",
-        "published": "2026-07-06",
+        "title": "ChargePoint adds 200+ new EV charging ports in the Southeast",
+        "link": "https://electrek.co/2026/07/07/chargepoint-adds-200-new-ev-charging-ports-in-the-southeast/",
+        "summary": "ChargePoint is expanding its partnership with charge point operator Optimus Energy Solutions to install more than 200 new public EV charging ports across the southeastern US.",
+        "published": "2026-07-07",
         "source": "Electrek"
       },
       {
-        "title": "Tesla Cybercab: mass-producing a car it can’t sell or drive itself",
-        "link": "https://electrek.co/2026/07/06/tesla-cybercab-production-before-autonomy/",
-        "summary": "Tesla is ramping up production of the Cybercab at Giga Texas, with more than 100 of the steering-wheel-less two-seaters already spotted in the factory’s outbound lots. The problem is that Tesla can’t sell it to you, and it can’t yet drive itself without a human watching — which raises the obvious qu",
-        "published": "2026-07-06",
+        "title": "Anker SOLIX F3800 power station exclusive $1,615 in Summer Power Sale, ECOVACS pool cleaner $299 low, Greenworks, more",
+        "link": "https://electrek.co/2026/07/07/anker-solix-f3800-power-station-ecovacs-pool-cleaner-greenworks-more/",
+        "summary": "This week’s Tuesday Green Deals are being led by Anker’s freshly launched Summer Power Sale with up to 49% power station discounts – plus, our exclusive bonus 5% savings code. You’ll also find ECOVACS’ Ultramarine P1 Cordless Robotic Pool Cleaner back at its $299 low, two new Greenworks 2,200 and 2,",
+        "published": "2026-07-07",
         "source": "Electrek"
       },
       {
-        "title": "Amazon slashes $410+ off Worx 1/4-acre robot mower, 50% drop on Anker SOLIX S2000 power station, Autel level 2 EV charger $909, more",
-        "link": "https://electrek.co/2026/07/06/green-deals-jul-6/",
-        "summary": "Today’s 9to5Toys Green Deals is headlined by the 1/4-acre Worx Landroid robot lawn mower at more than $410 off, the new Anker SOLIX S2000 at nearly 50% off, as well as Autel’s MaxiCharger AC Pro level 2 charger down at $909. That’s just a few of the things you’ll find below, so keep on reading to fu",
-        "published": "2026-07-06",
+        "title": "This tiny EV is now on sale in the US for less than $14,000",
+        "link": "https://electrek.co/2026/07/07/tiny-ev-on-sale-less-than-14000/",
+        "summary": "The Topolino is about the size of a golf cart, but it’s actually a street-legal EV with an electric range of up to 46 miles.",
+        "published": "2026-07-07",
         "source": "Electrek"
       },
       {
-        "title": "GM halts shipments and recalls nearly 15,000 Cadillac electric SUVs",
-        "link": "https://electrek.co/2026/07/06/gm-halts-shipments-recalls-nearly-15000-cadillac-electric-suvs/",
-        "summary": "GM halted shipments and issued a recall for nearly 15,000 Cadillac Vistiq SUVs. The recall is due to faulty third-row seats that could trap passengers, similar to the issue with the Hyundai Palisade.",
-        "published": "2026-07-06",
+        "title": "Someone is trying to flip a new Rivian R2 for $80,000 — $20K over MSRP",
+        "link": "https://electrek.co/2026/07/07/rivian-r2-flip-80000-over-sticker/",
+        "summary": "A private seller in Littleton, Colorado has listed a brand-new 2027 Rivian R2 Performance on Cars.com for $79,900 — roughly $20,000 over what Rivian charges for the same vehicle. The listing went up July 1, just weeks after Rivian started delivering the R2 to its first customers, and it comes with t",
+        "published": "2026-07-07",
         "source": "Electrek"
       },
       {
-        "title": "Jasion Hunter Pro review: A folding fat tire full-suspension e-bike for cheap",
-        "link": "https://electrek.co/2026/07/06/jasion-hunter-pro-review-a-folding-fat-tire-full-suspension-e-bike-for-cheap/",
-        "summary": "For some companies, the budget e-bike market has become a race to cram as many headline-worthy specs as possible into a bike without crossing the psychologically important $1,000 mark. Bigger motors, bigger batteries, higher speeds, full suspension – they’re all showing up on bikes that would have s",
-        "published": "2026-07-06",
+        "title": "Tesla launches startup challenge to scale Giga Berlin battery cells",
+        "link": "https://electrek.co/2026/07/07/tesla-giga-berlin-cell-giga-challenge/",
+        "summary": "Tesla is opening the doors of its Gigafactory Berlin-Brandenburg to outside startups through a new “Cell Giga Challenge,” inviting them to pilot technologies inside its live battery cell production line. The program comes as Tesla ramps 4680 cell output at Grünheide toward a planned 18 GWh of annual",
+        "published": "2026-07-07",
         "source": "Electrek"
       },
       {
-        "title": "Hyundai’s electric SUVs are winning over buyers, and it’s easy to see why",
-        "link": "https://electrek.co/2026/07/06/hyundais-evs-winning-over-buyers/",
-        "summary": "The IONIQ 5 is one of the most popular EVs right now outside of Tesla, and now Hyundai’s three-row electric SUV is finding its niche.",
-        "published": "2026-07-06",
+        "title": "Ford’s $30,000 EV pickup makes this full-size SUV look massive",
+        "link": "https://electrek.co/2026/07/07/fords-30000-ev-pickup-makes-full-size-suv-look-massive/",
+        "summary": "Ford’s midsize electric pickup was caught driving next to an Expedition, offering a better idea of its true size compared to the three-row SUV.",
+        "published": "2026-07-07",
         "source": "Electrek"
       },
       {
-        "title": "BYD’s flagship electric sedan receives 65,000 locked-in orders",
-        "link": "https://electrek.co/2026/07/06/byds-flagship-electric-sedan-receives-65000-locked-in-orders/",
-        "summary": "The Seal 08 boasts “the power of a million-dollar vehicle,” but can be bought for under $30,000 in China. After it went on sale last week, locked-in orders for BYD’s new flagship electric sedan reached around 65,000 in its first 30 hours.",
-        "published": "2026-07-06",
+        "title": "Ford is recalling over 42,000 Mustang Mach-E EVs",
+        "link": "https://electrek.co/2026/07/07/ford-recalling-over-42000-mustang-mach-e-evs/",
+        "summary": "Ford is recalling nearly 43,000 Mustang Mach-E electric vehicles. This time, it’s due to a faulty differential unit that may fracture, resulting in a loss of drive power.",
+        "published": "2026-07-07",
         "source": "Electrek"
       }
     ],
     "southeast_asia": [
+      {
+        "title": "Southeast Asia energy shift hinges on grids & links - DataCenterNews Asia Pacific",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPckNRMlJRYTN1U3hQN3FzdWJOeThpUHFLaHcycE00N1Jnbk56Y25aUDRMdkdyZFRRZ3ZjREo1LTMySEk4Rm9menh5alREZUdJR2FjOHJhOXpkb0lCODY4VTFNY3ZoUHFydWJyRHpreldMLTdsYVYxV2dWWDJ4bkQxeVdZcGR5X0RkbTA4?oc=5",
+        "summary": "Southeast Asia energy shift hinges on grids & links&nbsp;&nbsp;DataCenterNews Asia Pacific",
+        "published": "2026-07-07",
+        "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
+      },
+      {
+        "title": "Grid bottlenecks threaten Southeast Asia's energy transition, report says - Asian Power",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNkxIT0JZRjMtS1NVai1SSjJfaV9STzN5Rmd3cFhTcmhLM2Z6M2NjU1BfYXpGMjJIOWNzaThqeEJISHNkV0tWZThVbkk3ai1pU0h2TGhJN0tqSktiWjNpR05ZN3JGbXhFeGtNTHN6R2xwemtfbXNHcWVsTkFVblVScjFpZ3ZPOENIRTBMYjNkZ0FRcE1JRV8wOGs4bGZWZ0NCZzc2WndoYUgtSjUwWnVpSGtFTnZHbThrV0E?oc=5",
+        "summary": "Grid bottlenecks threaten Southeast Asia's energy transition, report says&nbsp;&nbsp;Asian Power",
+        "published": "2026-07-07",
+        "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
+      },
       {
         "title": "Southeast Asia's energy transition enters a new phase - Vietnam Investment Review - VIR",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSDk0azdWekIxS3NxUjlsNUdzVVVxbldzNmZoTm93eER2V2xDMDgwV2dSeDV5WlNLbGUzX1FEZnd5S3pGUm5kNkc3cTlFT2M3eGE3T3R0cDFzNnQ1RTgwbXdJNm5zd2JOZER5VkNGY1J5ci1oNzYyNFRXTjdUNXVlb0JObVBrcVYzYWlv?oc=5",
@@ -124,24 +138,10 @@
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       },
       {
-        "title": "Southeast Asia Green Hydrogen Market Report & Segments 2033 - UnivDatos",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03Mm40Y284VkRlbk5QZjd1NnJnLXYtUi1yWTdPbEZya204NzRpWGFDMFVJV29Tb3BIMjdpckZLdW5kMS1oSkpxcWtjRUFVaGt6dFVJN2g3NzNNVC14eF9nYVVwU3dTczdRZk1oTjQ4b01MSzdv?oc=5",
-        "summary": "Southeast Asia Green Hydrogen Market Report & Segments 2033&nbsp;&nbsp;UnivDatos",
-        "published": "2025-11-07",
-        "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
-      },
-      {
-        "title": "New Energy World magazine - Energy Institute",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9adzlUYVk2SDMzdHdNNEVmYVBxTUVaZlZFWi1oTjlRcy1ReUxhWnJkLXJBOUhYN2ctYWlUU2VLS3FqLTRwTkE1OUROeGFUcE1GaXlKV1JnYUc5UXBKRU9sTkVIaUhHcHNZSVJzV0dNcUFYaUNkNVE?oc=5",
-        "summary": "New Energy World magazine&nbsp;&nbsp;Energy Institute",
-        "published": "2025-12-03",
-        "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
-      },
-      {
-        "title": "Southeast Asia Power Markets Remain Stable Amid Middle East Crisis, but Energy Security Takes Centre Stage - SolarQuarter",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOY2tqQzFBZEFobFgza3BPdlpscWgwTHhySjNLUVZfTGhGN09TdWZWTjdUQTdac0hBbmg2WXh2VERaQjhLOUtHV2Q2bTNJNlc1QjIwVEE5ZjFUUXVwdnNYb1gwY2FkNTNlSjBaRmNRbHFVZy1lTkpKRmt0eHhITXlqOU9SOUtOMG5FNl82RTRYcTllell6YktIWkZiTzZfUE5GcWg3RTBUX0YwVWpGWEF6X2V2VVM3cHkxYVNmZVlfRmRhMzI3WUhxcEdMam9obC03LVFCbWN5ZWg2Z9IB3wFBVV95cUxNQVBMLW93TzdjbU9PSHFJWG1hUUhiWDNwVGRyMHVwWHhxM3hSLTZvUUE3Unhvd2lKNkJrQlo2cTh0VTN4alpFekVFb0h3dlI0RDRxUFcxbUdoY01tN2F0UHpwWlhabnRzRWJjUFZHWXZ2Vnk4SXZOaFJXNUN2ak9jTzFDVld1bjFBOGNMSkZ6QmV1cXotcGdwMXpWXzEwT1VZaS1JbTFnbHZybE1oMzBiMEJUelZiNEJIbjhKVENwRk5lQm4zQ21XdVUzRnhBUzhRLU83TXo0WFpjR2cwN3pj?oc=5",
-        "summary": "Southeast Asia Power Markets Remain Stable Amid Middle East Crisis, but Energy Security Takes Centre Stage&nbsp;&nbsp;SolarQuarter",
-        "published": "2026-03-26",
+        "title": "Brookfield makes renewable energy investments in Philippines, Thailand, and Vietnam - Power Technology",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVHBkX1lWNWZpcElDZE8yRWNVVTVsSXA5ZlRGUjZHUm9uci1KYnhfWmRTdHh2QWxKSzRUWmJaLTRDMTJXSzJuekdlVllxSHY1ZFE2RlE0Z2czTm8zTjgyVDJ6X1IxVHFKWmpWcDhEeHdFNXRKbE5EWUpwTF9zRnRueDhob0xMZzY0UzlQdw?oc=5",
+        "summary": "Brookfield makes renewable energy investments in Philippines, Thailand, and Vietnam&nbsp;&nbsp;Power Technology",
+        "published": "2025-11-27",
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       }
     ],
@@ -154,10 +154,10 @@
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
-        "title": "China's 15th Five-Year Plan Targets Over 50% Wind & Solar Share - TaiyangNews",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeElqT2hKaGhaUjBRVF92ejRtNkFiNDVzYWtIMUNoZ19ibXgxNnVsd21RZmhCNkptRGFGVXNQcF82dEtoZEFvN3dpbTVmXzBtUHBQQlpUZ2VKTmo0XzE0OG9MOVhGYWVsUl9qTXRsNTlSX282eFNpVlQ0RmQyWHpZVFBaZ0diS3pyOFN0QjF6VHRvUzZsRjJsY0dQS0FOZk5D?oc=5",
-        "summary": "China's 15th Five-Year Plan Targets Over 50% Wind & Solar Share&nbsp;&nbsp;TaiyangNews",
-        "published": "2026-07-01",
+        "title": "China Solar PV News Snippets: Day 1 Of TaiyangNews Intersolar & SNEC Product Review Tomorrow & More - TaiyangNews",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vbmt2NmVTWXVzZkVwWW5OQ2ZsTnZxRGRUcXFRak92QTRyd1lkZC1rQmdlM0ItcDh1YmRIT3BlVVBHaXd4QVRmRTdYVjNuY2gySDlUZ21VdnphaFFGVlVJSTFNMm5LbWZuanRFT3pzVWZ3SEhZRVFJWTdrdWVoZw?oc=5",
+        "summary": "China Solar PV News Snippets: Day 1 Of TaiyangNews Intersolar & SNEC Product Review Tomorrow & More&nbsp;&nbsp;TaiyangNews",
+        "published": "2026-07-07",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
@@ -175,10 +175,10 @@
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
-        "title": "Renewable Energy Is Undergoing Major Technology Upgrades - International Banker",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcXJ5RndDMjQ0SVRwSHJMSG9jc3Q1b2hpV1BVejVKNjJJSWtwLURMWHYwNGE2SEdSckxuZ0tZZ3dlcFRHTXF4dDJERFZiUkhEY1R4WjBabDdYWnJrUHhaVTRFS1E3V3lGSjdXSjFBY3lTNDVUUVE3dnBVZ1VFQTFtNU02M2UzQnlsS1BoLUxPV2tyZGdTMHdCZTFaZ3lMbkpiV2c?oc=5",
-        "summary": "Renewable Energy Is Undergoing Major Technology Upgrades&nbsp;&nbsp;International Banker",
-        "published": "2026-06-11",
+        "title": "China unveils five-year plan to reshape its energy system - CnEVPost",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wYUpqUkNJdnMzX21iU1QtNTByRm9YR0lGZHhXYnUyaGstdTdhZDdRRG1KdVpLQzhZNHRXWmczd1BnbUg1WjNfOUc1TGJXU0lHaXNnTGh4N0V2LVBVYTZwT3lSSG5kalNMV3h5U3dkcVBmUzZZSnhPMC13MjQ4Zw?oc=5",
+        "summary": "China unveils five-year plan to reshape its energy system&nbsp;&nbsp;CnEVPost",
+        "published": "2026-06-25",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
@@ -189,31 +189,31 @@
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
-        "title": "China unveils five-year plan to reshape its energy system - CnEVPost",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wYUpqUkNJdnMzX21iU1QtNTByRm9YR0lGZHhXYnUyaGstdTdhZDdRRG1KdVpLQzhZNHRXWmczd1BnbUg1WjNfOUc1TGJXU0lHaXNnTGh4N0V2LVBVYTZwT3lSSG5kalNMV3h5U3dkcVBmUzZZSnhPMC13MjQ4Zw?oc=5",
-        "summary": "China unveils five-year plan to reshape its energy system&nbsp;&nbsp;CnEVPost",
-        "published": "2026-06-25",
+        "title": "Renewable Energy Is Undergoing Major Technology Upgrades - International Banker",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcXJ5RndDMjQ0SVRwSHJMSG9jc3Q1b2hpV1BVejVKNjJJSWtwLURMWHYwNGE2SEdSckxuZ0tZZ3dlcFRHTXF4dDJERFZiUkhEY1R4WjBabDdYWnJrUHhaVTRFS1E3V3lGSjdXSjFBY3lTNDVUUVE3dnBVZ1VFQTFtNU02M2UzQnlsS1BoLUxPV2tyZGdTMHdCZTFaZ3lMbkpiV2c?oc=5",
+        "summary": "Renewable Energy Is Undergoing Major Technology Upgrades&nbsp;&nbsp;International Banker",
+        "published": "2026-06-11",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
-        "title": "Analysis: China’s CO2 climbs 2% in early 2026 due to ‘wasted’ wind and solar - Carbon Brief",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQXZ2cEZjOGRrb2tISDlNcHdBcTY2a201V3k1VzN1cXdsVFZfRTcxWFA3OVlRWkx6Wjl2Z2JFR0tkVTViVG16ZHBfZ2I3clBLb0dRLW05TUI2Q1RfVnVpcEYtanVaTUJ6NEpNNjU3N3VTdTM0SVZDa18xbW9iZ29lOW4tRHZ6RXFKa1RFYW5HNXVoVG5RN01Edm9UQ0N0cDRRdXc?oc=5",
-        "summary": "Analysis: China’s CO2 climbs 2% in early 2026 due to ‘wasted’ wind and solar&nbsp;&nbsp;Carbon Brief",
-        "published": "2026-06-04",
+        "title": "China Advances Grid-Forming Renewable Project to Tackle Power Stability Challenges - markets.businessinsider.com",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSFZFdTc3UWJEdV9RYmRoQnFuaEJZLThvUG1COENuS3hxTE1UU1QxRWhERE54NmY4Wk54S0o0SkFLVXpEM1RGVVhpamV6ZkdqYloxZ3pOR3RQWENYX3JZWjZVOGxUQW55YW82RG1yUnc2SGlpUlhzT0h5cWJPaHBzUkhHZWJGODlwUkdfVk9GUUEtZ1VGTnYwb2dKWFNlMTRpbUctWElkNWd2MlNfTFRXQ09udktrNDdwMU1fUnBzalMyS2s2X2ZVaTRvR292cFdScWgzRExtLVI?oc=5",
+        "summary": "China Advances Grid-Forming Renewable Project to Tackle Power Stability Challenges&nbsp;&nbsp;markets.businessinsider.com",
+        "published": "2026-06-11",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
-        "title": "24 7 renewables could happen sooner than you think - Canary Media",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbk9Dc0h6eGpMOWFPNXZEeFFZLThCZjVnbTQxN3NCbTFhdXdoU3lBaU9SZmhOaXBkbHp4V19lYkFFVHdpVndpaWE5dlIwSUVyeGk4anA0SEl6RF95VEtnLUsxVW5MUGdzZF94cHZQSEFobHhsS3RYc2F2eGRmcHBzV1QzT3pIRm9YX2NV?oc=5",
-        "summary": "24 7 renewables could happen sooner than you think&nbsp;&nbsp;Canary Media",
-        "published": "2026-05-21",
+        "title": "China's 15th Five-Year Plan Targets Over 50% Wind & Solar Share - TaiyangNews",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeElqT2hKaGhaUjBRVF92ejRtNkFiNDVzYWtIMUNoZ19ibXgxNnVsd21RZmhCNkptRGFGVXNQcF82dEtoZEFvN3dpbTVmXzBtUHBQQlpUZ2VKTmo0XzE0OG9MOVhGYWVsUl9qTXRsNTlSX282eFNpVlQ0RmQyWHpZVFBaZ0diS3pyOFN0QjF6VHRvUzZsRjJsY0dQS0FOZk5D?oc=5",
+        "summary": "China's 15th Five-Year Plan Targets Over 50% Wind & Solar Share&nbsp;&nbsp;TaiyangNews",
+        "published": "2026-07-01",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
-        "title": "Europe's energy problem isn't green power — it's storage - DW.com",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ1ZVU25CNVFwUUJibHBFQTc5cUJtelRmNjdfTXlWWTJZYkljSnlodExJdGpnQjJwN3JHODQwRU5ETDZuUENDNkkxYUp4NEF2VzJSUkJYdm5veXRWWHFoQTQ1cl9DQUtwRnJwamd0TGtwYUhtSEF1OFRFeG9NNGU3VjYwUUozbG9QREJGM9IBjAFBVV95cUxPdnlWdG05UjZ6T3E2SFM5dlQyU1hSUDNXV3YyUjRCSGZMcG5fOWhsWmZyQ1pGV29vcGVZRlMzOHBkLTdmUWxScWFqSUZSekFJS013TmF5bDVpWWgzZ3VBa1dvM3VxeVlmUXFXTXhrZ2NYZ3p5NUZDOGthLXYxVTQxU3dOdjRwa3JMbTVEQQ?oc=5",
-        "summary": "Europe's energy problem isn't green power — it's storage&nbsp;&nbsp;DW.com",
-        "published": "2026-05-27",
+        "title": "China Resources New Energy launches Shenzhen IPO targeting record $3.4 billion raise - pv magazine Global",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV295MHFYTDl2Z3pyc0I2Uy1jc2pRcU50T3FhZkpmcHNjY0xSS3ktNGJSTklnNFJ5azRJTlkta2FWUEk5RTBXNWQyeXhFaWV1UzZTeUUzcHFWWTJ0VUJBVDQ2dWRjUk9CUEktZFFJV2xudUR0WUZDSEI1LVdDeGNueUoyekdXRXhjdmlabFFwR2hteFN2Ml8tMGlremFfNlJ2eFgxQmE2XzdCSEw4WEM4RHBiUTFGaVpxRXctZFBjelo?oc=5",
+        "summary": "China Resources New Energy launches Shenzhen IPO targeting record $3.4 billion raise&nbsp;&nbsp;pv magazine Global",
+        "published": "2026-06-17",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       }
     ],
@@ -240,6 +240,13 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
+        "title": "Dispatchable Solar Clears 1 GW: China’s Gobi Desert Plant Runs After Sunset - Tech Times",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPclJnMUJxVFFCN0l5eVdDNkV5ODdkVFdJQUVCcWJ5YTktSVMxdU9jYjMzZ1RjRlpzQk5feG82MDZZVG5HeTZudlVsZzN2SHhSUEs3Ni1OeHRHQXRQZFNLYTQ1TXE4QW5RUU9RMFFOQzQ0d2RVXzRSWXA4Sm41elFoTFJ3SlpYVjNqMVlZT3hnV1JvM096WG1vcDI0WHlvdXVLcm1QekhtbmV6eDBCeUNJOXB1cEtObnc4UHQtZEZuN2dRMmlUbFFz?oc=5",
+        "summary": "Dispatchable Solar Clears 1 GW: China’s Gobi Desert Plant Runs After Sunset&nbsp;&nbsp;Tech Times",
+        "published": "2026-07-02",
+        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
+      },
+      {
         "title": "As Trump embraces dirty fossil fuels, California hits major clean energy milestone, invests over $100 million more in proven technologies - California State Portal | CA.gov",
         "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYnVldjIxN2hqZ2hxWnA5eXQxdnB6YjdXV05aNndrNzNQa2dOQVYwQ2VqdXpJeE4zcjFocU1xSVpvbngzUFJManExMjI5UWtXeWNhaEh6QmhXQk1ibURsWGxrdTg5SmlQdG5WMU9YbWNOX1gwbS1aY3l2NXBJMTVNUGdLc2lIaHlFY0thd0NjeEQ0MmFqMG95Vi1YZEw5VFByMEwxR1VFcUJZTnUtb1F2RzZQSzM4MTZyWS10NTZ6ay05djJrbFRrNm53MGNaSXBsZEZ0WE5vMzJxVlJTRzBBTUdEdk9OeE4xSVJVaXJEejZaMWtDTnZkUWxtREoxZw?oc=5",
         "summary": "As Trump embraces dirty fossil fuels, California hits major clean energy milestone, invests over $100 million more in proven technologies&nbsp;&nbsp;California State Portal | CA.gov",
@@ -254,17 +261,10 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "Dominion Energy Stock in 2026: 48 Gigawatts Contracted, $65 Billion Committed, CVOW 70% Done - TIKR.com",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMDZiRWZEVUM0V2RtdGVKd0ZjSDRacWhWS2hSbUlyNk5iVWJnTlR2ZVJDTzhqVG0tdFBmR3h1MmxzbXA4U09MakdEWVpPX3pLLWlWaC14a2VnWmxnZVZjbzVlWkI1Y054Q2JPZHBPR29NMnZlMElOdjUtWW9oUXVOeks0OHp0Tk5SVXhWRk1FOGxvV3NMb1hoWXNiU0RtOF9nbnh1d2kyenI5R1hMNHA1WWxvZw?oc=5",
-        "summary": "Dominion Energy Stock in 2026: 48 Gigawatts Contracted, $65 Billion Committed, CVOW 70% Done&nbsp;&nbsp;TIKR.com",
-        "published": "2026-04-10",
-        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
-      },
-      {
-        "title": "Offshore Wind Industry Posts Record Growth Amid U.S. Policy Setbacks - POWER Magazine",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMFJScmNiQ1hmeEFVaFU5Z1BuZnFKVXhZeHYxMDg2dmJhRVpEWDVMYjNPdnpBZDQ5ZmNyMVZJckZZUWVFbTFNanRKNzJ5TDZ2YVdDTzBlWnZrbDBjQ0w1VGRFZ0RZcnhWSElxd2tqZXQyTjJFdS1CZGhxdGlhOTIwQnpYTHJwbko5VUlWZUNiMGt0Y2hBbW5JRA?oc=5",
-        "summary": "Offshore Wind Industry Posts Record Growth Amid U.S. Policy Setbacks&nbsp;&nbsp;POWER Magazine",
-        "published": "2026-02-09",
+        "title": "Nebius Touts $10B, 310 MW Data Center Plan - Data Center Knowledge",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeUxQNmxWQlU2RHhZN3NOTFRvZ3FJa3ZhSWNWdHZjWHFIcmx5RHp6bHBsWFVaaGYzbnd3ZlFRN3VabGJETFVuY0hDTWJMRVE5YXVOUXd2c0o0YTF0RlpSQW1nZEJkZmNXcEs2QTUxM3FZU0NhbElyWjVjTTc2UHhlUXluVjJZTGRlNTNLX2NUSTRHN0ROTmxCUjhGTENHRGpWMUdDVHZPdFdWMHZrc2drcW9EaGd6WkQ3WW00TGZkNThWTjF0TW1J?oc=5",
+        "summary": "Nebius Touts $10B, 310 MW Data Center Plan&nbsp;&nbsp;Data Center Knowledge",
+        "published": "2026-03-31",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
@@ -275,17 +275,17 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "Tesla’s energy storage business is growing faster than any other part of the company - TechCrunch",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUURGOGR6WmtkLTNYdUNieE5FVUUtVldzYkkxcFd1ajdwR1hqLVZYajBsdGJVTkZaVmRxTy10Q1hIV21GSjRXaGh0SXB5a19hcUZUUThYVHFXbzJCR3B1dmM5RzdDRlRsQ0cwWUd2OXM3bkFCTXJXbUl2WG83TnMtYnBYV2JBMnlyaVI3WHpVRnEtY3lmYXJuMXZIRUJBVWltOXpTZWd1WDM0TG9ESU9URnE3LXQ4S0p5Mmc?oc=5",
-        "summary": "Tesla’s energy storage business is growing faster than any other part of the company&nbsp;&nbsp;TechCrunch",
-        "published": "2026-01-29",
+        "title": "World Bank approves €400M financing package for renewables in Türkiye - Anadolu Ajansı",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQm9XeEhKdnpseDZzakp3RmRybXJnTHZOZVMwc1Z1eUl4THNJQUVhX0M2UUpGcnlxNzZod0E4UnVaTTFoOXh0Ukh5bTdQejktcWx4VXZBOHpadzg4UE5kY1pJdVYzNVUyZXFMNzJSVnlSUkk5cTBlM3Jac2F2bXBaOWRHbzEzbV83eEVkMlBEeE1yMHpteEpvVm1kVkpZcFRXTlFhVGJQbHM3VVp6alVmbnVmWXbSAbwBQVVfeXFMTkVYVmI4OHhTemlfUDY3WWVPZjNyc1NYMUZTOXh2ZmNONUhKUzlzYnJtdS1RaHpBd1FoZHdacVlhaHVqckhwMDRLd2NFQnVMSk9MS3dtRUE1YlBQM1RZSi1Demd3bHNxWnZRX01UNUJZUVEycFlHUHl6QVQ5dDd2UVlFZC1VekhBNVAyUEEtX3VfU29rQTZGUFQ3RFdtY3k2NjljQ0VuQWRBUE8zYjhleDM5bEZFTVlsTHM2cTM?oc=5",
+        "summary": "World Bank approves €400M financing package for renewables in Türkiye&nbsp;&nbsp;Anadolu Ajansı",
+        "published": "2026-06-17",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "Energy News Monitor | Volume XXII, Issue 22&23 - orfonline.org",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS25nN0N1Z0Q3V0dMNm54Ti12QXRJeUFGaGFLem5jSjJHNTVGR2pIb0pPU1lNdU44UWh0Rk5tUWVOdDgwaDBNS2Q4M0sxVzR3WkVHaHp5ZjhsUjA4c0wwZF9MLWJ0ZVpHOTJlenZOUEczdFU4OHM1X1FLNFlPQXNNalNlRzA?oc=5",
-        "summary": "Energy News Monitor | Volume XXII, Issue 22&23&nbsp;&nbsp;orfonline.org",
-        "published": "2026-01-22",
+        "title": "Battery 2035: Building new advantages - McKinsey & Company",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMjlfUWs0LXRjTFA3N0dnVm1HWlF4dEtlUVZEODNtM2ZNX3dIZ0NjcGlvM2pMa0RPQnljRXZoc1JNQU0yZHJuYkZuWllhUlQwdDUyQ0JZUFBEN2pVNG9mVVF1Q1JXc1JSb0paTGhDTjh6aktERE9qUThPd1NYQUtmQ0J4emZfVVBhbjdIX2lud3hPUHN3QjZNazYyZExHdmhHUHVyZXJiMHJSUVBnQnRIVFZnc1BnZ0Jlb0Nr?oc=5",
+        "summary": "Battery 2035: Building new advantages&nbsp;&nbsp;McKinsey & Company",
+        "published": "2026-01-01",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       }
     ]
