@@ -1,79 +1,86 @@
 {
-  "updated": "2026-07-10 04:50 UTC",
+  "updated": "2026-07-11 04:11 UTC",
   "sections": {
     "global": [
       {
-        "title": "Global EV sales hit 2 million in June – and the US falls further behind",
-        "link": "https://electrek.co/2026/07/09/global-ev-sales-hit-2-million-in-june-and-the-us-falls-further-behind/",
-        "summary": "Global EV sales topped 2 million in June, but the headline numbers hide a widening split between the world’s biggest markets.",
-        "published": "2026-07-09",
+        "title": "UNIGRID’s sodium-ion home battery debuts in Europe, US is next",
+        "link": "https://electrek.co/2026/07/10/unigrid-sodium-ion-home-battery-debuts-in-europe-us/",
+        "summary": "Lithium-ion has long dominated home battery storage, but sodium-ion is starting to make its move. Sodium-ion battery startup UNIGRID has shipped the first units of its Na+Casa residential battery, with the first systems now installed in homes across Europe.",
+        "published": "2026-07-10",
         "source": "Electrek"
       },
       {
-        "title": "Hyundai launches affordable EV deals with 0% APR and up to $10,000 off",
-        "link": "https://electrek.co/2026/07/09/hyundai-launches-ev-deals-0-apr-up-to-10000-off/",
-        "summary": "Hyundai’s biggest sales promo of the year, the Getaway Summer Sales Event, kicked off this month with competitive offers on its most popular vehicles, including EVs.",
-        "published": "2026-07-09",
+        "title": "Musk tells Tesla staff to switch to Grok — a model he admits is worse",
+        "link": "https://electrek.co/2026/07/10/musk-tells-tesla-staff-switch-grok/",
+        "summary": "Elon Musk told Tesla staff to move to using Grok, the AI model from his own xAI (now folded into SpaceX), according to a memo sent to employees on Friday. The push comes days after Tesla capped employee spending on third-party AI tools — and it lands even though Musk himself concedes Grok is not as ",
+        "published": "2026-07-10",
         "source": "Electrek"
       },
       {
-        "title": "SolarEdge says its new ‘Lego-like’ home battery installs in under 30 minutes",
-        "link": "https://electrek.co/2026/07/09/solaredge-says-its-new-lego-like-home-battery-installs-in-under-30-minutes/",
-        "summary": "SolarEdge is rolling out its next-generation home solar and battery storage platform across the US, with orders for SolarEdge Nexis now open.",
-        "published": "2026-07-09",
+        "title": "BYD’s $10,000 Seagull EV revealed with a longer body and more upgrades",
+        "link": "https://electrek.co/2026/07/10/byds-10k-seagull-ev-revealed-longer-body-more-upgrades/",
+        "summary": "BYD’s low-cost Seagull EV, sold as the Dolphin Surf in Europe, is getting another update with a longer body and a more powerful motor.",
+        "published": "2026-07-10",
         "source": "Electrek"
       },
       {
-        "title": "China’s giant Gobi solar plant runs after dark on salt, not batteries",
-        "link": "https://electrek.co/2026/07/09/china-hami-solar-molten-salt-storage/",
-        "summary": "China Three Gorges Corporation (CTG) has put the world’s largest solar PV-plus-concentrated-solar hybrid into commercial trial operation in the Gobi Desert — and its headline trick is delivering power after sunset without a single lithium battery. The 1-gigawatt Hami project in Xinjiang stores the s",
-        "published": "2026-07-09",
+        "title": "Podcast: Rivian goes to market, Xiaomi goes big, and a $14,000 tiny EV in the US",
+        "link": "https://electrek.co/2026/07/10/podcast-rivian-goes-to-market-xiaomi-goes-big-and-a-14000-tiny-ev-in-the-us/",
+        "summary": "In the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Rivian going back to the stock market market, Xiaomi going big, and a $14,000 tiny EV in the US.",
+        "published": "2026-07-10",
         "source": "Electrek"
       },
       {
-        "title": "Trump clean energy rollbacks erase $68B in US investment",
-        "link": "https://electrek.co/2026/07/09/trump-clean-energy-rollbacks-erase-68b-in-us-investment/",
-        "summary": "The Trump administration’s rollback of clean energy policies has now cost the US nearly 470,000 jobs and $68 billion in private investment, according to a new report released today.",
-        "published": "2026-07-09",
+        "title": "These are the top 10 best-selling EVs in the US so far in 2026",
+        "link": "https://electrek.co/2026/07/10/top-10-best-selling-evs-us-first-half-2026/",
+        "summary": "Tesla is still the king, accounting for about 50% of the US EV market, but a handful of brands are finally gaining traction with new models now on sale.",
+        "published": "2026-07-10",
         "source": "Electrek"
       },
       {
-        "title": "BYD launches the Dolphin G plug-in hatch with 65 miles of EV range for $32,000",
-        "link": "https://electrek.co/2026/07/09/byd-launches-dolphin-g-phev-65-miles-ev-range-for-32000/",
-        "summary": "The Dolphin G DM-i is BYD’s first car specifically designed for Europe. With up to 65 miles of pure electric range and 646 miles combined, BYD said the plug-in hatch will redefine the segment as an affordable, efficient alternative. It’s now available to order, starting at about $32,000.",
-        "published": "2026-07-09",
+        "title": "Xiaomi reveals SkyNomad N90: a living room on wheels",
+        "link": "https://electrek.co/2026/07/10/xiaomi-skynomad-n90-erev-suv/",
+        "summary": "Xiaomi has revealed the SkyNomad N90, the first model in its new SkyNomad series and the company’s first extended-range electric vehicle. CEO Lei Jun posted the first official exterior images today, and a new regulatory filing confirmed the full specs. The N90 is a full-size, three-row SUV with a cl",
+        "published": "2026-07-10",
         "source": "Electrek"
       },
       {
-        "title": "Toyota delays Highlander BEV production as the 3-row electric SUV is put on the back burner",
-        "link": "https://electrek.co/2026/07/09/toyota-delays-highlander-ev-production-first-3-row-electric-suv/",
-        "summary": "Toyota is delaying production of its first three-row electric SUV, the 2027 Highlander BEV, as it extends the current gas and hybrid models.",
-        "published": "2026-07-09",
+        "title": "Lectric XP4 750, Xpress 2, Xpeak2 e-bikes get up to $464 savings, EcoFlow 716Wh RIVER 2 Pro 700 bundle new $369 low, EGO, more",
+        "link": "https://electrek.co/2026/07/10/lectric-xp4-750-xpress-2-xpeak2-e-bikes-ecoflow-716wh-river-2-pro-700-bundle-ego-more/",
+        "summary": "Closing out this week’s Green Deals is the newly launched Lectric 250th Anniversary Sale with up to $464 increased savings from its July 4th deals on three e-bikes – the XP4 750, Xpress2, and Xpeak2 – all starting from $1,299. We also have a weekend flash sale from EcoFlow with offers like the 716Wh",
+        "published": "2026-07-10",
         "source": "Electrek"
       },
       {
-        "title": "EcoFlow 3,072Wh DELTA 3 Ultra power station $1,299 in Outdoor Season Sale, Velotric Discover 2 e-bike $1,799, more",
-        "link": "https://electrek.co/2026/07/09/ecoflow-3072wh-delta-3-ultra-power-station-velotric-discover-2-e-bike-more/",
-        "summary": "We’ve stuffed today’s Green Deals with plenty of summer savings, starting with EcoFlow’s Outdoor Season Sale and up to 57% power station discounts from $259, like the 3,072Wh DELTA 3 Ultra Portable Power Station down at $1,299. As part of Velotric’s World Cup Sale deals, you can find the Discover 2 ",
-        "published": "2026-07-09",
+        "title": "Volkswagen’s EV van makes a surprise comeback in the US as the ID.4 goes on hiatus",
+        "link": "https://electrek.co/2026/07/10/vws-ev-van-makes-comeback-us-id-4-goes-on-hiatus/",
+        "summary": "Ahead of the updated 2027 model, sales of Volkswagen’s electric minibus bounced back, rising 120%. Meanwhile, the ID.4 is on a brief hiatus as it undergoes a major refresh.",
+        "published": "2026-07-10",
         "source": "Electrek"
       },
       {
-        "title": "MG is launching its first PHEV with semi-solid-state batteries in 2027",
-        "link": "https://electrek.co/2026/07/09/mg-launch-first-phev-with-semi-solid-state-batteries-2027/",
-        "summary": "MG’s semi-solid-state batteries will not be exclusive to EVs, with plans to launch three new plug-in hybrid SUVs equipped with the new battery tech. First up will be the MG ZS PHEV, set to go on sale in 2027.",
-        "published": "2026-07-09",
+        "title": "Toyota is promising big things for the Lexus LFA EV sports car, but will we ever get to see it?",
+        "link": "https://electrek.co/2026/07/10/toyota-promising-big-things-for-lexus-lfa-ev-sports-car/",
+        "summary": "Toyota’s luxury marque is bringing back its iconic sports car as an EV. The all-electric Lexus LFA made a public appearance at the Goodwood FOS, but will it ever reach production?",
+        "published": "2026-07-10",
         "source": "Electrek"
       },
       {
-        "title": "New bill would ban Tesla’s camera-only Robotaxi, not Waymo",
-        "link": "https://electrek.co/2026/07/09/new-jersey-bill-tesla-camera-robotaxi/",
-        "summary": "New Jersey lawmakers are advancing a bill that would require driverless commercial vehicles to carry cameras plus two additional sensor types — a mandate Tesla’s camera-only Robotaxi can’t meet. The proposed law, S1677, would effectively lock Tesla out of the most densely populated US state unless i",
-        "published": "2026-07-09",
+        "title": "Australia’s 7 best-selling EVs are now all Chinese — even Tesla’s",
+        "link": "https://electrek.co/2026/07/10/australia-top-7-evs-all-chinese/",
+        "summary": "Australia just posted its biggest month ever for electric car sales, and for the first time seven different EVs each cleared 1,000 units in a single month. Every one of them is either Chinese-owned or Chinese-built — and that includes the Tesla Model Y that topped the chart, which rolls off the line",
+        "published": "2026-07-10",
         "source": "Electrek"
       }
     ],
     "southeast_asia": [
+      {
+        "title": "Grid bottlenecks threaten Southeast Asia's energy transition, report says - MSN",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZFZ6bWt5ZjhHZk9DZzNmLWprQTdUSTVEMUZWd0VtT1FXemt3eDFrZXpYYkRkRGVMVDdJWU5mamFGQXhpZGZGN19yR3RPX2RYZnNVeXh2QW1ZR2pWV2hhYUloQ0RGelVVWFNyMjk3QmNoVmdEX05mTDdrMVdCVWFwdE96eFFzODVoR21KWm15Wm9Sdk5ybTJheUJEVmU1b0xzSFoxNF82dnhUTlFsdzkwa0VWMk91c3V5Vl9sX1hR?oc=5",
+        "summary": "Grid bottlenecks threaten Southeast Asia's energy transition, report says&nbsp;&nbsp;MSN",
+        "published": "2026-07-08",
+        "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
+      },
       {
         "title": "Southeast Asia's energy transition enters a new phase - Vietnam Investment Review - VIR",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSDk0azdWekIxS3NxUjlsNUdzVVVxbldzNmZoTm93eER2V2xDMDgwV2dSeDV5WlNLbGUzX1FEZnd5S3pGUm5kNkc3cTlFT2M3eGE3T3R0cDFzNnQ1RTgwbXdJNm5zd2JOZER5VkNGY1J5ci1oNzYyNFRXTjdUNXVlb0JObVBrcVYzYWlv?oc=5",
@@ -89,16 +96,16 @@
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       },
       {
-        "title": "Southeast Asia energy shift hinges on grids & links - DataCenterNews Asia Pacific",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPckNRMlJRYTN1U3hQN3FzdWJOeThpUHFLaHcycE00N1Jnbk56Y25aUDRMdkdyZFRRZ3ZjREo1LTMySEk4Rm9menh5alREZUdJR2FjOHJhOXpkb0lCODY4VTFNY3ZoUHFydWJyRHpreldMLTdsYVYxV2dWWDJ4bkQxeVdZcGR5X0RkbTA4?oc=5",
-        "summary": "Southeast Asia energy shift hinges on grids & links&nbsp;&nbsp;DataCenterNews Asia Pacific",
-        "published": "2026-07-07",
+        "title": "Grid bottlenecks threaten SE Asia's energy transition as demand surges, report warns - 煤炭资源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXQTJISXVVT0x0aW5JY0xWZDFJVFhtQzQ4RzZvMUQ3dGdrbEt0WUh0VmtiRGJGbjd6cGlIWnF5WjNDQmpqbGdpOGtvZEdqY2I4RlV1bkJ3dE4tWXhUdWJhbVZhMUcwVDdf?oc=5",
+        "summary": "Grid bottlenecks threaten SE Asia's energy transition as demand surges, report warns&nbsp;&nbsp;煤炭资源网",
+        "published": "2026-07-10",
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       },
       {
-        "title": "Grid bottlenecks threaten Southeast Asia's energy transition, report says - Asian Power",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNkxIT0JZRjMtS1NVai1SSjJfaV9STzN5Rmd3cFhTcmhLM2Z6M2NjU1BfYXpGMjJIOWNzaThqeEJISHNkV0tWZThVbkk3ai1pU0h2TGhJN0tqSktiWjNpR05ZN3JGbXhFeGtNTHN6R2xwemtfbXNHcWVsTkFVblVScjFpZ3ZPOENIRTBMYjNkZ0FRcE1JRV8wOGs4bGZWZ0NCZzc2WndoYUgtSjUwWnVpSGtFTnZHbThrV0E?oc=5",
-        "summary": "Grid bottlenecks threaten Southeast Asia's energy transition, report says&nbsp;&nbsp;Asian Power",
+        "title": "Southeast Asia energy shift hinges on grids & links - DataCenterNews Asia Pacific",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPckNRMlJRYTN1U3hQN3FzdWJOeThpUHFLaHcycE00N1Jnbk56Y25aUDRMdkdyZFRRZ3ZjREo1LTMySEk4Rm9menh5alREZUdJR2FjOHJhOXpkb0lCODY4VTFNY3ZoUHFydWJyRHpreldMLTdsYVYxV2dWWDJ4bkQxeVdZcGR5X0RkbTA4?oc=5",
+        "summary": "Southeast Asia energy shift hinges on grids & links&nbsp;&nbsp;DataCenterNews Asia Pacific",
         "published": "2026-07-07",
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       },
@@ -110,9 +117,9 @@
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       },
       {
-        "title": "Nuclear Energy Challenges in Southeast Asia’s Clean Energy Transition - Stimson Center",
+        "title": "Nuclear Energy Challenges in Southeast Asia’s Clean Energy Transition - stimson.org",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcVhoNnhFSmwyMlBRcG95MmN6cUJVbE1QMlVmSFl5UWtfSWU3UXVWbVRJMWRzZHhCSHM5NHNVODFsMUhYWFNGeXY5MG43d3VuVkJ0THJTVWFCLTA4eUVENDhWeV94UU1mRURnNW1XaVk0ckh6eW5rNUI3Zk9ib1ZqUi1ucno1Q3cyaTZBRFp0NkZ0cUhSdHBHb0t0WjQtX3M?oc=5",
-        "summary": "Nuclear Energy Challenges in Southeast Asia’s Clean Energy Transition&nbsp;&nbsp;Stimson Center",
+        "summary": "Nuclear Energy Challenges in Southeast Asia’s Clean Energy Transition&nbsp;&nbsp;stimson.org",
         "published": "2025-11-06",
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       },
@@ -124,13 +131,6 @@
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       },
       {
-        "title": "The Iran conflict is cutting the long-term role of LNG in Asia - Institute for Energy Economics and Financial Analysis (IEEFA)",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tMTA3YUE2ck52RXRSM3AycVAweDVRSXJZYjhjNTlkOGNZYkw3ZmM5TlZOeExmX0hsLUlqckVVLWZScm9feWxkbU1qYkF4bTYzb3N2ZjRIOEFpR2Z6Q1c4NUpkcFJPYXhhcjBSbmttY1FGS1R3Nk1ZN3pmd0gxUQ?oc=5",
-        "summary": "The Iran conflict is cutting the long-term role of LNG in Asia&nbsp;&nbsp;Institute for Energy Economics and Financial Analysis (IEEFA)",
-        "published": "2026-04-15",
-        "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
-      },
-      {
         "title": "Diving Deep: Southeast Asia's Rocky Road to Renewable Energy Transition - Saur Energy",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZFRRNlMwUDI5WnJRc29LZlhUTG44NGRCc2Q0NFBRT0NvQ0NLZ3BGQUNRV21SZXA0VmN2TlJKcFdERy0zWHFSaU9hZUtZdnNSTTdRdExoMkZXMlpOR2dmYXNHa0tGdlBxaTZ5Y0Fjc2ZIblVERVVhYnhYYVZSVWFoRkREb0JLTklKeWFQMFFZQ3p4RkZOeTR3YklGRndfQ1ZMUHlrcmJDaWFidGg4bTRBcw?oc=5",
         "summary": "Diving Deep: Southeast Asia's Rocky Road to Renewable Energy Transition&nbsp;&nbsp;Saur Energy",
@@ -138,10 +138,10 @@
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       },
       {
-        "title": "Brookfield makes renewable energy investments in Philippines, Thailand, and Vietnam - Power Technology",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVHBkX1lWNWZpcElDZE8yRWNVVTVsSXA5ZlRGUjZHUm9uci1KYnhfWmRTdHh2QWxKSzRUWmJaLTRDMTJXSzJuekdlVllxSHY1ZFE2RlE0Z2czTm8zTjgyVDJ6X1IxVHFKWmpWcDhEeHdFNXRKbE5EWUpwTF9zRnRueDhob0xMZzY0UzlQdw?oc=5",
-        "summary": "Brookfield makes renewable energy investments in Philippines, Thailand, and Vietnam&nbsp;&nbsp;Power Technology",
-        "published": "2025-11-27",
+        "title": "New Energy World magazine - Energy Institute",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9adzlUYVk2SDMzdHdNNEVmYVBxTUVaZlZFWi1oTjlRcy1ReUxhWnJkLXJBOUhYN2ctYWlUU2VLS3FqLTRwTkE1OUROeGFUcE1GaXlKV1JnYUc5UXBKRU9sTkVIaUhHcHNZSVJzV0dNcUFYaUNkNVE?oc=5",
+        "summary": "New Energy World magazine&nbsp;&nbsp;Energy Institute",
+        "published": "2025-12-03",
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       }
     ],
@@ -168,13 +168,6 @@
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
-        "title": "China issues renewables consumption rules set to fuel new growth cycle for solar PV and energy storage - PV Tech",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTXhMZGx0eVh5am42ZjlzU2FYVFM4aUhidHRULXlLT1pMT1I3dnNuQ19wcFBjZ3lkV3RROVdYbUtlUzczc2RnQVBuZG9uRkRtMzlINVRqLTVQT1J2WlRjYzU1WjltNmhIc2UxeW9ER1MyUVRsT3RTRGFISGZyZk9kUHNyTDgyUGdBMzJkdTFDcmEwVDUzWF9vVl9PbHVVVjZlUVFsOUgyQ0FpYlZuR21CRDNxYjJhSFdXaGRmNGp1NlZ4Q3o0Y0E?oc=5",
-        "summary": "China issues renewables consumption rules set to fuel new growth cycle for solar PV and energy storage&nbsp;&nbsp;PV Tech",
-        "published": "2026-06-24",
-        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
-      },
-      {
         "title": "China unveils five-year plan to reshape its energy system - CnEVPost",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wYUpqUkNJdnMzX21iU1QtNTByRm9YR0lGZHhXYnUyaGstdTdhZDdRRG1KdVpLQzhZNHRXWmczd1BnbUg1WjNfOUc1TGJXU0lHaXNnTGh4N0V2LVBVYTZwT3lSSG5kalNMV3h5U3dkcVBmUzZZSnhPMC13MjQ4Zw?oc=5",
         "summary": "China unveils five-year plan to reshape its energy system&nbsp;&nbsp;CnEVPost",
@@ -189,17 +182,17 @@
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
+        "title": "China green-energy costs seen undercutting traditional energy as capacity soars - South China Morning Post",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTC1weHpfeTBiRFlhaTBIeGxvN25KdUFMZllHSGF3TmlMdUlVbThjX01rS0hSb3cxMlZjUzVmSHJlOE1iUFgzbU9XVTZFLTR1RlRJb191SDZlZThnVkdWQTVCOG84WG1rRjdxWHNlR2o1QXpxRHp6b0FrT1F2QmZFNFFNaVRwSjAwSWZVWmIyRmY0RlFldFBkNUxFY2dHdi1YWXgza3E4SDJsemFYSW1iWmUtRE5fYVVSVlROWkJhMGs5OUZBT3o2aVo1NktOUVJhdWF0TGwwZ3VsZ9IB2gFBVV95cUxQMUNzOS1ua1NFLWxBUTdKamtRV3FaX2RYd0N2czNDREdKN0pJT2dacU1mbEl4Z3dBcGlGT0YxVmRTT3ctNTRnaVljR195QVREbHpabkdxQXdFTldkVjM1WHBpZmp1a0F3ZjhDZENwUVhFZnBCQjRkSzk3TXg0NGtLTk1YQ0xidjN4eEx4NXdKZXB1STZ4c0xPZXB5MVJwaGJQbm1nckZGUk9MZ3dPa0dZb2dwZTZmVE5YdFZyUTFYSTJlQmpxREJSWFdfM3pRemNhZXJDbS1XWkVHUQ?oc=5",
+        "summary": "China green-energy costs seen undercutting traditional energy as capacity soars&nbsp;&nbsp;South China Morning Post",
+        "published": "2026-06-25",
+        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
+      },
+      {
         "title": "Renewable Energy Is Undergoing Major Technology Upgrades - International Banker",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcXJ5RndDMjQ0SVRwSHJMSG9jc3Q1b2hpV1BVejVKNjJJSWtwLURMWHYwNGE2SEdSckxuZ0tZZ3dlcFRHTXF4dDJERFZiUkhEY1R4WjBabDdYWnJrUHhaVTRFS1E3V3lGSjdXSjFBY3lTNDVUUVE3dnBVZ1VFQTFtNU02M2UzQnlsS1BoLUxPV2tyZGdTMHdCZTFaZ3lMbkpiV2c?oc=5",
         "summary": "Renewable Energy Is Undergoing Major Technology Upgrades&nbsp;&nbsp;International Banker",
         "published": "2026-06-11",
-        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
-      },
-      {
-        "title": "China Resources New Energy launches Shenzhen IPO targeting record $3.4 billion raise - pv magazine Global",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV295MHFYTDl2Z3pyc0I2Uy1jc2pRcU50T3FhZkpmcHNjY0xSS3ktNGJSTklnNFJ5azRJTlkta2FWUEk5RTBXNWQyeXhFaWV1UzZTeUUzcHFWWTJ0VUJBVDQ2dWRjUk9CUEktZFFJV2xudUR0WUZDSEI1LVdDeGNueUoyekdXRXhjdmlabFFwR2hteFN2Ml8tMGlremFfNlJ2eFgxQmE2XzdCSEw4WEM4RHBiUTFGaVpxRXctZFBjelo?oc=5",
-        "summary": "China Resources New Energy launches Shenzhen IPO targeting record $3.4 billion raise&nbsp;&nbsp;pv magazine Global",
-        "published": "2026-06-17",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
@@ -215,21 +208,28 @@
         "summary": "24 7 renewables could happen sooner than you think&nbsp;&nbsp;Canary Media",
         "published": "2026-05-21",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
+      },
+      {
+        "title": "How China adds more renewable energy than any other economy - The World Economic Forum",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRjB3ZE44UXVCR1gxYVZFMmJpZ2lyRzhfWFBVTXVmQk45Z2h1djE3TjNJODBaSGNNeFVTV0hyaW5wRzB6LWJLaTNSOUVIbHV1REMxZ2tKQ3FwLU13Q19QSXh5OW53azBzbEx5ek1MZ3ZNc0xSMXR3TkdxY3JUTzhlTy1rYw?oc=5",
+        "summary": "How China adds more renewable energy than any other economy&nbsp;&nbsp;The World Economic Forum",
+        "published": "2025-12-03",
+        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       }
     ],
     "major_events": [
       {
-        "title": "New York hits solar energy milestone - WWNY",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfT0ZNdF9CSGJHdnF4dmJIMDA2V0RObGJPcGRfY3FrVmg5T2I4ZlNhVnkzV29iU2xkcGVaeFdmX2tpUnJYd1ZvQVZoUXRmYUN2T043aFd5NzFxTmtqYUJlRlZRYloxdFdLbUU4R29BQXBiMmJobnByaUZKMA?oc=5",
-        "summary": "New York hits solar energy milestone&nbsp;&nbsp;WWNY",
-        "published": "2026-07-02",
+        "title": "New York installs eight gigawatts of distributed solar energy - Daily Energy Insider",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSUdtWFFrV2xPY3hIVjFaai1QaVNYcEZBRmRoSTlDYWwzUUVoZnZyZ3JRR2Roa1lyeW1BMU1DU2dRNFlhWW95bW9YTVVkNC0zbGNkV21yMVdEZnNuZUt1TF9rdmJKR0VrLVlZcVVYUi0yVF81VE5BY2RuNDJ0ZHdYeW5QWHNIZUo3STFGQmhKSGZNbVhyYmFPeVhJTVl1YnlmMXBKQVdmR1VmSDRn?oc=5",
+        "summary": "New York installs eight gigawatts of distributed solar energy&nbsp;&nbsp;Daily Energy Insider",
+        "published": "2026-07-07",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "New York Hits 8 GW Distributed Solar Capacity, Leading Nation in Community Solar - News and Statistics - IndexBox",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdTFKZkRLdGNLaWpuZmZLbklwNWVjNDdsbUJZWXQtbjFnMEtlTGVTUTJMQmF6S1JjZ1VuWTA4cEt0NkVOb0Nqd09QNWdPTDFqTV9ZYTVMbEVtYXRDYi1MRko5Nm9BNVBNWUtCX0pwZ3g0TFB4UGFHcThpckVQNjBuZldReV9sQk5NYWZrdnFjVlZ1M2lxTFVUcnlZZWJ3eS02cVE?oc=5",
-        "summary": "New York Hits 8 GW Distributed Solar Capacity, Leading Nation in Community Solar - News and Statistics&nbsp;&nbsp;IndexBox",
-        "published": "2026-07-06",
+        "title": "New York hits solar energy milestone - WCAX",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43RXhnRXZkc19ZMnowRWkxYXFXYWkyTnhUTmpCSFMwUFFEVF9ORFZOWkRLSm1wWGFSVFBTcHVEU1RTdXRFN0tYdk9MWnVoX2JjRkZVTG43LW1aTjNQd095VTJwWjNKcG5zYm9uV3lyc0RRemdHc2U5eg?oc=5",
+        "summary": "New York hits solar energy milestone&nbsp;&nbsp;WCAX",
+        "published": "2026-07-02",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
