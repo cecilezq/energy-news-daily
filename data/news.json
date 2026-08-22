@@ -1,79 +1,86 @@
 {
-  "updated": "2026-08-21 02:21 UTC",
+  "updated": "2026-08-22 02:14 UTC",
   "sections": {
     "global": [
+      {
+        "title": "Podcast: Tesla kills Solar Roof, Cybercab launch, Genesis GV90, and more",
+        "link": "https://electrek.co/2026/08/21/podcast-tesla-kills-solar-roof-cybercab-launch-genesis-gv90-and-more/",
+        "summary": "In the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla killing the Solar Roof, Cybercab launch, Genesis GV90, and more. Today’s episode is sponsored by GM. GM EV charging made easy, with Energy Pass and Plu",
+        "published": "2026-08-21",
+        "source": "Electrek"
+      },
+      {
+        "title": "Hyundai starts taking orders for $17,700 Ioniq V, but you can’t have it",
+        "link": "https://electrek.co/2026/08/21/hyundai-starts-taking-orders-for-17700-ioniq-v-but-you-cant-have-it/",
+        "summary": "Hyundai has started taking pre-sale orderss for its upcoming Ioniq V, but if you’re reading this from anywhere that speaks English, you can’t have it… yet?",
+        "published": "2026-08-21",
+        "source": "Electrek"
+      },
+      {
+        "title": "Walmart’s 400 kW EV charging network just hit 100 stores",
+        "link": "https://electrek.co/2026/08/21/walmarts-400-kw-ev-charging-network-just-hit-100-stores/",
+        "summary": "Walmart has opened its 100th company-owned EV fast-charging site, bringing its fast-growing network to 100 stores across 20 states.",
+        "published": "2026-08-21",
+        "source": "Electrek"
+      },
+      {
+        "title": "Lectric Labor Day e-bike sale offers up to $694 savings + price cuts, EcoFlow 4,096Wh power station $2,549 in flash sale, more",
+        "link": "https://electrek.co/2026/08/21/lectric-labor-day-e-bike-sale-ecoflow-4096wh-power-station-2549-flash-sale-more/",
+        "summary": "We’re closing out this week’s Green Deals with the new Lectric Labor Day Sale leading the pack, offering up to $694 on e-bike bundles + XPeak2 and XPedition2 price cuts – all starting from $799. Next, EcoFlow has kicked off a 4-day website-exclusive flash sale with offers like the 4,096Wh DELTA Pro ",
+        "published": "2026-08-21",
+        "source": "Electrek"
+      },
+      {
+        "title": "A first-of-its-kind US factory could make grid batteries safer",
+        "link": "https://electrek.co/2026/08/21/us-factory-grid-batteries-safer-anthro-energy/",
+        "summary": "Anthro Energy has broken ground on a first-of-its-kind US battery materials factory in Louisville, Kentucky, with enough planned annual output to support up to 25 gigawatt-hours (GWh) of lithium-ion batteries.",
+        "published": "2026-08-21",
+        "source": "Electrek"
+      },
+      {
+        "title": "Hyundai and Genesis EV drivers can now score a 20% discount on IONNA charging",
+        "link": "https://electrek.co/2026/08/21/hyundai-ev-drivers-20-discount-ionna-charging/",
+        "summary": "Hyundai is offering EV drivers, including select Genesis models, an extra 10% discount on all IONNA charging sessions through the end of September. With a stackable bonus from IONNA, drivers can save 20% on charging for a limited time.",
+        "published": "2026-08-21",
+        "source": "Electrek"
+      },
+      {
+        "title": "Tesla (TSLA) recalls over 2 million cars in China to add driver monitoring",
+        "link": "https://electrek.co/2026/08/21/tesla-recall-2-million-cars-china-driver-monitoring/",
+        "summary": "Tesla is recalling 2,740,642 vehicles in China to strengthen driver monitoring on its assisted-driving system, after regulators found that checking for a hand on the wheel isn’t enough to keep drivers watching the road. The fix forces Tesla to use the car’s cabin camera to track the driver’s eyes — ",
+        "published": "2026-08-21",
+        "source": "Electrek"
+      },
+      {
+        "title": "Tesla recalls nearly 3 million cars in China over door escape risk",
+        "link": "https://electrek.co/2026/08/21/tesla-recall-3-million-cars-china-door-handles/",
+        "summary": "Tesla is recalling 2,975,910 vehicles in China after the country’s market regulator determined that its emergency door release is too hard to find and operate in a crash. It’s Tesla’s largest-ever recall in China, and it lands as the automaker’s door design faces mounting legal and regulatory pressu",
+        "published": "2026-08-21",
+        "source": "Electrek"
+      },
+      {
+        "title": "Tesla discontinues its Solar Roof tiles, not economically viable",
+        "link": "https://electrek.co/2026/08/20/tesla-discontinues-solar-roof-panels-only/",
+        "summary": "Tesla has discontinued the Solar Roof, its solar-tile roofing product, Electrek has learned. The company has told third-party installers that it will no longer supply solar roof tiles going forward, only solar panels, according to two sources close to the program.",
+        "published": "2026-08-21",
+        "source": "Electrek"
+      },
       {
         "title": "Tesla confirms Semi electric truck is coming to Europe, reveal at IAA",
         "link": "https://electrek.co/2026/08/20/tesla-semi-europe-launch-iaa-transportation/",
         "summary": "Tesla confirmed that its Semi electric truck is coming to Europe, and that it will reveal the specs and launch details next month at IAA Transportation, the continent’s largest commercial vehicle show. The Tesla Semi account posted that “specs & launch details for Semi in Europe” will be “unveiled a",
         "published": "2026-08-20",
         "source": "Electrek"
-      },
-      {
-        "title": "Tesla says FSD v15 is a ‘step-change,’ Optimus sells in 2027",
-        "link": "https://electrek.co/2026/08/20/tesla-jpmorgan-fremont-fsd-v15-hw4-optimus-2027/",
-        "summary": "Tesla laid out an updated timeline for Full Self-Driving, its Cybercab, and the Optimus robot in a recent meeting with JPMorgan at its Fremont factory. The bank walked away with claims that FSD v15 is a “step-change,” that today’s HW4 computer can handle unsupervised driving, and that Optimus could ",
-        "published": "2026-08-20",
-        "source": "Electrek"
-      },
-      {
-        "title": "Colorado’s largest electric school bus fleet gets a 26-plug charging hub",
-        "link": "https://electrek.co/2026/08/20/colorados-largest-electric-school-bus-fleet-gets-a-26-plug-charging-hub/",
-        "summary": "Colorado’s largest electric school bus fleet has a new charging hub to keep its 28 buses ready to run their daily routes.",
-        "published": "2026-08-20",
-        "source": "Electrek"
-      },
-      {
-        "title": "Anker SOLIX 2kWh power station $600, Segway Navimow i105N Robot $140 off, WORX 2-in-1 reciprocating saw $73, more",
-        "link": "https://electrek.co/2026/08/20/green-deals-aug-20/",
-        "summary": "Today’s 9to5Toys Green Deals is headlined by Anker’s 2026 SOLIX S2000 portable power station at $550 off, but you can also cash in and take a chore off your list with Segway’s Navimow i105N Robot Lawn Mower down at $669. Another notable markdown today is the WORX 2-in-1 reciprocating saw for $73, wh",
-        "published": "2026-08-20",
-        "source": "Electrek"
-      },
-      {
-        "title": "This $0-down Illinois home solar deal includes a huge 60 kWh battery",
-        "link": "https://electrek.co/2026/08/20/this-0-down-illinois-home-solar-deal-includes-a-huge-60-kwh-battery/",
-        "summary": "Illinois homeowners can now get rooftop solar paired with a whopping 60-kWh home battery for no money down – but this isn’t free equipment.",
-        "published": "2026-08-20",
-        "source": "Electrek"
-      },
-      {
-        "title": "The Genesis GV90 takes luxury up a notch with coach doors and all [Images]",
-        "link": "https://electrek.co/2026/08/20/genesis-gv90-luxury-coach-doors-images/",
-        "summary": "Genesis unveiled its first full-size flagship SUV, the GV90, and it’s about as over-the-top as they come. The ultra-luxe electric SUV packs coach doors, a built-in refrigerator, massive digital screens, air suspension, and plenty of other high-end touches.",
-        "published": "2026-08-20",
-        "source": "Electrek"
-      },
-      {
-        "title": "You can now ride a Chinese EV in the US as Waymo opens Zeekr Ojai to all",
-        "link": "https://electrek.co/2026/08/20/waymo-zeekr-ojai-chinese-ev-robotaxi-all-riders/",
-        "summary": "Waymo is now letting all riders in San Francisco, Los Angeles, and Phoenix hail its next-generation Ojai robotaxi — a vehicle built in China by Zeekr. That makes the Ojai one of the only ways for an American to ride in a Chinese-made EV, a car they still can’t legally buy for themselves.",
-        "published": "2026-08-20",
-        "source": "Electrek"
-      },
-      {
-        "title": "Geely prepares revolutionary 500 Wh/kg solid-state EV battery that could beat diesel",
-        "link": "https://electrek.co/2026/08/20/geely-500-wh-kg-solid-state-battery-2027-pilot/",
-        "summary": "Geely says its next-generation solid-state EV battery will reach an energy density of up to 500 Wh/kg, and it’s already running the cells through real-world validation ahead of a pilot rollout in 2027. That number is the whole story. At 500 Wh/kg, Geely’s cells would hold roughly twice the energy pe",
-        "published": "2026-08-20",
-        "source": "Electrek"
-      },
-      {
-        "title": "This fascinating folding e-bike is lighter than Brompton’s lightest electric bike",
-        "link": "https://electrek.co/2026/08/20/this-fascinating-folding-e-bike-is-lighter-than-bromptons-lightest-electric-bike/",
-        "summary": "British folding e-bike maker FLIT has just unveiled its latest lightweight folding e-bike, the FLIT M2i. And at just 13.3 kg (29.3 lb), this thing is getting impressively light for a fully equipped electric bike.",
-        "published": "2026-08-20",
-        "source": "Electrek"
-      },
-      {
-        "title": "Wawa-branded EV chargers are expanding beyond Tesla",
-        "link": "https://electrek.co/2026/08/19/wawa-branded-ev-chargers-are-expanding-beyond-tesla/",
-        "summary": "Wawa launched self-branded Tesla Superchargers earlier this year, and now it’s doing the same with Electrify America EV fast chargers.",
-        "published": "2026-08-19",
-        "source": "Electrek"
       }
     ],
     "southeast_asia": [
+      {
+        "title": "APAC Energy Pulse – June 2026 - orrick.com",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpZ3BjTzVjMGtqakJ5RFlrcFRldnZlamo2dHVzdzdMRHNHNG9fRG9IWVhCTk5QS253R2Y0UV9ZWHEwR0ZOWUpsREpoZG1hMnRSRzZjMzl1dlNGTDdjbV8zMlVOZVpsTVZMSE9ORENIZHM2azVpNjNSSm13?oc=5",
+        "summary": "APAC Energy Pulse – June 2026&nbsp;&nbsp;orrick.com",
+        "published": "2026-06-30",
+        "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
+      },
       {
         "title": "The Iran War Turned Asia’s Fragile Energy Dependence Into an Emergency - Council on Foreign Relations",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOUVCX3Izbld2OTdfNTlVVlBhU3k2cXY1Qk50bEFScTlTY1RrYVh0WV8wdHRlaFgwU0drYW41MG0yUnBwM09TM3VFMGhtNGNkSmhfZzZpYldJa2hjTVlBQzl3TG1HalpzRzdIVHF6QkV6eTh1UG9jZ200RklEeTU4clM3QkRDM243cVN6LVBsaTJ1SmlaSGtGS25QSi0ybTA?oc=5",
@@ -124,13 +131,6 @@
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       },
       {
-        "title": "APAC Energy Pulse – June 2026 - orrick.com",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpZ3BjTzVjMGtqakJ5RFlrcFRldnZlamo2dHVzdzdMRHNHNG9fRG9IWVhCTk5QS253R2Y0UV9ZWHEwR0ZOWUpsREpoZG1hMnRSRzZjMzl1dlNGTDdjbV8zMlVOZVpsTVZMSE9ORENIZHM2azVpNjNSSm13?oc=5",
-        "summary": "APAC Energy Pulse – June 2026&nbsp;&nbsp;orrick.com",
-        "published": "2026-06-30",
-        "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
-      },
-      {
         "title": "U.S. trade uncertainty presents domestic opportunities for Southeast Asian renewables suppliers - Institute for Energy Economics and Financial Analysis (IEEFA)",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ3JSTGE1cGhYSGFHeWZNby1xZlVQZnJuNnlucUtkRWFqSlNmdVkwczhIR29GS0pwZm83ZE5veXFhZ0Zka2h0bThkRVMxYWZhU2kzdWZQVmRWNnYtNkExRHcxQjlJcmcxTkVPdlRzVkhaOW5sSHo1S3MzaGlIWklWWllyOXNUZUoxelRpTGNpR2UxeEVmNTRnVDhTejdlZm9RWXd3a3lFNlY4elZndWFJZlp3TTVGR013?oc=5",
         "summary": "U.S. trade uncertainty presents domestic opportunities for Southeast Asian renewables suppliers&nbsp;&nbsp;Institute for Energy Economics and Financial Analysis (IEEFA)",
@@ -151,6 +151,13 @@
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV3BKQW5peGZxZ3FHYnQ1RWRCWVBrWEdya0piUEt2U2J3ZlZsZERvQXRfYUVnaV9IRjlpc3hYMVpPWnlGeWVWMlUxdjY1NlBEMnBqbzZYSUxKMy1RYXVRWGtLRWdwRS1xQ2M0R09McHNsMkItdmhRMTRkd28yZnhhRDVR?oc=5",
         "summary": "China Solar PV News Snippets: Hangzhou First To Present At TaiyangNews Virtual Conference & More&nbsp;&nbsp;TaiyangNews",
         "published": "2026-08-19",
+        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
+      },
+      {
+        "title": "Q&A: What does China’s 15th ‘five-year plan’ for renewables mean for climate change? - Carbon Brief",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVjh3b1B2c1MycDJQSnBJMFlsYXBrelY2Q2R4XzV2YjdfYlNENkkwN2U5eFJnbVl2amhNVllGWlYtN0hxX3BlSkpGVXJaMEFaTUp3MHBRckNLSm5XcHlEVm9Ea3ZsbEMtbnIycnhuQTg2MWR6STA5MDJVc1p6bThTbVdTUmZJQWFjd29iVm0xVEZORUNxbWFyLUxLZHNWWWdSVDBMNjZGLURnZw?oc=5",
+        "summary": "Q&A: What does China’s 15th ‘five-year plan’ for renewables mean for climate change?&nbsp;&nbsp;Carbon Brief",
+        "published": "2026-07-29",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
@@ -208,13 +215,6 @@
         "summary": "China puts battery storage at center of renewable energy strategy&nbsp;&nbsp;pv magazine Global",
         "published": "2026-08-05",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
-      },
-      {
-        "title": "The China–Gulf axis is reshaping renewable energy in the Global South - East Asia Forum",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ1BhX3kxMEU1OERvbmlZRGNWYXRSQ3NkNFN4MGd1T1ZDMURpUElVRjBDZlFvQlk0c3NYZjRiVXZ2aTBObDZzNFpqVVJybmdSVnI1R0NyZ3JfZkRPd3FmYWRJenV1YndjOFloZ1IzaUpmSVRkWG1zV0o5bHMyWHpjQTRJLVphaGN5MGVFQ3diajk1dzhPTVU0Ui1UZDVpY2tockZVZ25HUkxpVDg?oc=5",
-        "summary": "The China–Gulf axis is reshaping renewable energy in the Global South&nbsp;&nbsp;East Asia Forum",
-        "published": "2026-06-23",
-        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       }
     ],
     "major_events": [
@@ -237,13 +237,6 @@
         "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYnVldjIxN2hqZ2hxWnA5eXQxdnB6YjdXV05aNndrNzNQa2dOQVYwQ2VqdXpJeE4zcjFocU1xSVpvbngzUFJManExMjI5UWtXeWNhaEh6QmhXQk1ibURsWGxrdTg5SmlQdG5WMU9YbWNOX1gwbS1aY3l2NXBJMTVNUGdLc2lIaHlFY0thd0NjeEQ0MmFqMG95Vi1YZEw5VFByMEwxR1VFcUJZTnUtb1F2RzZQSzM4MTZyWS10NTZ6ay05djJrbFRrNm53MGNaSXBsZEZ0WE5vMzJxVlJTRzBBTUdEdk9OeE4xSVJVaXJEejZaMWtDTnZkUWxtREoxZw?oc=5",
         "summary": "As Trump embraces dirty fossil fuels, California hits major clean energy milestone, invests over $100 million more in proven technologies&nbsp;&nbsp;California State Portal | CA.gov",
         "published": "2025-10-09",
-        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
-      },
-      {
-        "title": "TotalEnergies to Invest in $1.2 Billion Power Project in Kazakhstan - ASHARQ AL-AWSAT English",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMjlDbHZIVk5rUkhfVklJVXVaOURVRVV1OWtJcVlvWHBqMHV5alRmZWFuMkhkSmZHRmxBZ3NRRnFYU1FmWm5FWkZpQ013cV9MbjBuTHQ1Q2FzMnphVGktV1FtQ2FNSjF0YWxYNFRfUk84QURHcTdCN2pOMHhGMWJ0SFAxZWwxcV9XN1FZWjhJUldHQjFFazE3WUpDdURDdVk4Nmc?oc=5",
-        "summary": "TotalEnergies to Invest in $1.2 Billion Power Project in Kazakhstan&nbsp;&nbsp;ASHARQ AL-AWSAT English",
-        "published": "2026-04-24",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
@@ -275,6 +268,13 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
+        "title": "China Adds Power 8x More Than the US in 2025, with $500B Energy Build-Out in a Single Year - CarbonCredits.com",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZlVHN3l5S3JULXMtU2REbUxtNTZ3bTdybUlyejVsVVNNRzlfV3U5MWNwMFdtM2ZEQWRJZmluUzNpV0pjNk5MMWpGUkd4OXZRdUNVcW00a05yTmJBNlF5NUlxeWpjblV2bkxrd1R2aGR2a0dEWFl4b2Zad1g3Sjd0aEk0TzFFbWYtcnRMZkxTQ0xQaVBkNUE2eVlXUHRZa1R4M1R0UDExQ3dmUTZHcHVEQi1aYmU2UQ?oc=5",
+        "summary": "China Adds Power 8x More Than the US in 2025, with $500B Energy Build-Out in a Single Year&nbsp;&nbsp;CarbonCredits.com",
+        "published": "2026-02-04",
+        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
+      },
+      {
         "title": "Fortescue Breaks Records With 201.3 Mt Iron Ore Shipments in FY26 - Discovery Alert",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTEZWWldMLVc4cFAtLUU3LXdHalZFWnJWRTEyTHNsVEJjZFlZQl94QnpwUTFnQTlzemJKTzRYN2d3UDBWVFFwcHhvYVRSaFpVQ2xST0plZUpMc0MxdzM0Mmg3a3daSUZZNl80WXRHVHo2QXBMSXJjNU5VWmJLYnNRN0JNVE5YR1ZI?oc=5",
         "summary": "Fortescue Breaks Records With 201.3 Mt Iron Ore Shipments in FY26&nbsp;&nbsp;Discovery Alert",
@@ -282,10 +282,10 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "China Adds Power 8x More Than the US in 2025, with $500B Energy Build-Out in a Single Year - CarbonCredits.com",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZlVHN3l5S3JULXMtU2REbUxtNTZ3bTdybUlyejVsVVNNRzlfV3U5MWNwMFdtM2ZEQWRJZmluUzNpV0pjNk5MMWpGUkd4OXZRdUNVcW00a05yTmJBNlF5NUlxeWpjblV2bkxrd1R2aGR2a0dEWFl4b2Zad1g3Sjd0aEk0TzFFbWYtcnRMZkxTQ0xQaVBkNUE2eVlXUHRZa1R4M1R0UDExQ3dmUTZHcHVEQi1aYmU2UQ?oc=5",
-        "summary": "China Adds Power 8x More Than the US in 2025, with $500B Energy Build-Out in a Single Year&nbsp;&nbsp;CarbonCredits.com",
-        "published": "2026-02-04",
+        "title": "Battery 2035: Building new advantages - McKinsey & Company",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMjlfUWs0LXRjTFA3N0dnVm1HWlF4dEtlUVZEODNtM2ZNX3dIZ0NjcGlvM2pMa0RPQnljRXZoc1JNQU0yZHJuYkZuWllhUlQwdDUyQ0JZUFBEN2pVNG9mVVF1Q1JXc1JSb0paTGhDTjh6aktERE9qUThPd1NYQUtmQ0J4emZfVVBhbjdIX2lud3hPUHN3QjZNazYyZExHdmhHUHVyZXJiMHJSUVBnQnRIVFZnc1BnZ0Jlb0Nr?oc=5",
+        "summary": "Battery 2035: Building new advantages&nbsp;&nbsp;McKinsey & Company",
+        "published": "2026-01-01",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       }
     ]
