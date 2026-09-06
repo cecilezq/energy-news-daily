@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-05 05:16 UTC",
+  "updated": "2026-09-06 05:30 UTC",
   "sections": {
     "global": [
+      {
+        "title": "Answering random Redditor’s questions with professional backup: home solar edition",
+        "link": "https://electrek.co/2026/09/05/answering-random-redditors-questions-with-professional-backup-home-solar-edition/",
+        "summary": "Earlier this week, a home solar shopper took to Reddit looking for a home solar panel + home backu battery system that could intelligently manage solar and grid power, auto switch in a power outage, and accept ICE generator input in a prolonged grid power failure. I reached out to some home energy e",
+        "published": "2026-09-05",
+        "source": "Electrek"
+      },
+      {
+        "title": "One Detroit-area Hyundai dealer wants $400 to charge your car",
+        "link": "https://electrek.co/2026/09/05/when-public-charging-stations-arent-so-public-and-why-it-matters/",
+        "summary": "Drivers opening an EV charging app for the first time today will be presented with thousands of so-called “public” chargers at local car dealers. Once they arrive, however, the store’s customers, store hours, security gates, and Wild West pricing can turn what should be a routine charging stop into ",
+        "published": "2026-09-05",
+        "source": "Electrek"
+      },
+      {
+        "title": "E-quipment highlight: BLUETTI Pioneer 5000 E-Generator",
+        "link": "https://electrek.co/2026/09/05/e-quipment-highlight-bluetti-pioneer-5000-e-generator/",
+        "summary": "BLUETTI says its new Pioneer 5000 E-Generator is built for the “Next Generation of Real Work,” as the brand expands into professional job site power delivery with a battery-backed and noise-free alternative to conventional ICE-powered generators. more…",
+        "published": "2026-09-05",
+        "source": "Electrek"
+      },
       {
         "title": "Glencore reaches new milestone at all-electric Sudbury copper mine",
         "link": "https://electrek.co/2026/09/04/glencore-reaches-new-depth-milestone-at-its-all-electric-nickel-mine/",
@@ -50,27 +71,6 @@
         "summary": "For the first time, an autonomous EV might show up if you order an Uber in London. more…",
         "published": "2026-09-04",
         "source": "Electrek"
-      },
-      {
-        "title": "Tesla’s new rare-earth-free EV motor is a big deal, but not THAT big a deal",
-        "link": "https://electrek.co/2026/09/04/teslas-new-rare-earth-free-ev-motor-is-a-big-deal-but-not-that-big-a-deal/",
-        "summary": "Alongside Tesla’s low-key Cybercab event this week, the company showed off its new rare earth-free Cybercab motor, which reportedly increases power density and efficiency significantly. It’s some kind of an achievement, but to understand how much of an achievement it is, we must first understand wha",
-        "published": "2026-09-04",
-        "source": "Electrek"
-      },
-      {
-        "title": "ENGWE E26 3.0 full suspension all-terrain e-bike launch deal, Navee Labor Day e-scooter sale, Tenways Wayfarer e-bike $877 off, more",
-        "link": "https://electrek.co/2026/09/04/engwe-e26-3-0-all-terrain-e-bike-navee-labor-day-tenways-wayfarer-e-bike-more/",
-        "summary": "Whereas yesterday’s Green Deals mostly focused on power stations, today’s edition is all about EV Labor Day deals, starting with the $699 off launch deal for ENGWE’s E26 3.0 Dual-Motor Full Suspension All-Terrain e-bike at $1,799. Right behind it we have both a spotlight on Navee’s premium UT5 Ultra",
-        "published": "2026-09-04",
-        "source": "Electrek"
-      },
-      {
-        "title": "Hyundai opens orders for its new electric van, starting at about $66,500",
-        "link": "https://electrek.co/2026/09/04/hyundai-opens-orders-new-ev-van-starting-about-66500/",
-        "summary": "Hyundai’s electric van is bigger than the Kia PV5 and Volkswagen ID. Buzz, with enough room for nine passengers. more…",
-        "published": "2026-09-04",
-        "source": "Electrek"
       }
     ],
     "southeast_asia": [
@@ -89,17 +89,17 @@
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       },
       {
-        "title": "Nuclear Energy Challenges in Southeast Asia’s Clean Energy Transition - Stimson Center",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcVhoNnhFSmwyMlBRcG95MmN6cUJVbE1QMlVmSFl5UWtfSWU3UXVWbVRJMWRzZHhCSHM5NHNVODFsMUhYWFNGeXY5MG43d3VuVkJ0THJTVWFCLTA4eUVENDhWeV94UU1mRURnNW1XaVk0ckh6eW5rNUI3Zk9ib1ZqUi1ucno1Q3cyaTZBRFp0NkZ0cUhSdHBHb0t0WjQtX3M?oc=5",
-        "summary": "Nuclear Energy Challenges in Southeast Asia’s Clean Energy Transition&nbsp;&nbsp;Stimson Center",
-        "published": "2025-11-06",
+        "title": "Southeast Asia's energy transition enters a new phase - Vietnam Investment Review - VIR",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSDk0azdWekIxS3NxUjlsNUdzVVVxbldzNmZoTm93eER2V2xDMDgwV2dSeDV5WlNLbGUzX1FEZnd5S3pGUm5kNkc3cTlFT2M3eGE3T3R0cDFzNnQ1RTgwbXdJNm5zd2JOZER5VkNGY1J5ci1oNzYyNFRXTjdUNXVlb0JObVBrcVYzYWlv?oc=5",
+        "summary": "Southeast Asia's energy transition enters a new phase&nbsp;&nbsp;Vietnam Investment Review - VIR",
+        "published": "2026-07-06",
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       },
       {
-        "title": "ASEAN Weekly: Philippines launches record solar-storage project; Singapore-Indonesia green power trade advances - Reccessary",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXODVRSGdjSTZyblNmNlVHTk50bF8tV0xfVUlYN19ubUthWThwTkhXYUp6cWt5bVhwX1JWTHNXWFd5TXdTQVBOdlRNQXBWcnB6MXowQlVLU09Jc0sxRnFtMGtsNnU3RUU?oc=5",
-        "summary": "ASEAN Weekly: Philippines launches record solar-storage project; Singapore-Indonesia green power trade advances&nbsp;&nbsp;Reccessary",
-        "published": "2026-07-27",
+        "title": "Nuclear Energy Challenges in Southeast Asia’s Clean Energy Transition - stimson.org",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcVhoNnhFSmwyMlBRcG95MmN6cUJVbE1QMlVmSFl5UWtfSWU3UXVWbVRJMWRzZHhCSHM5NHNVODFsMUhYWFNGeXY5MG43d3VuVkJ0THJTVWFCLTA4eUVENDhWeV94UU1mRURnNW1XaVk0ckh6eW5rNUI3Zk9ib1ZqUi1ucno1Q3cyaTZBRFp0NkZ0cUhSdHBHb0t0WjQtX3M?oc=5",
+        "summary": "Nuclear Energy Challenges in Southeast Asia’s Clean Energy Transition&nbsp;&nbsp;stimson.org",
+        "published": "2025-11-06",
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       },
       {
@@ -124,13 +124,6 @@
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       },
       {
-        "title": "ASEAN’s Energy Vulnerability and the Impact of the Hormuz Crisis - orfonline.org",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTlZLNENBOWJRYUVpbll0TEJvY2YyellIZWJLRGVLTGptSnU4VGNQel90ZlZaTUtwVmkxbU13V2VrMWcwMG1QQk0yM1d2ZFNjNW1oSjlGdE5LdlpCVUwzc0F6aGM3UXVHX2JlRlBxR3lBTFpCcEFsSVhhQUxScmQ0R0VDa0hQYTRVaU5jSTBmM2lsYlRsdVlKYmFpZDZHXzVM?oc=5",
-        "summary": "ASEAN’s Energy Vulnerability and the Impact of the Hormuz Crisis&nbsp;&nbsp;orfonline.org",
-        "published": "2026-07-17",
-        "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
-      },
-      {
         "title": "Southeast Asia energy shift hinges on grids & links - DataCenterNews Asia Pacific",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPckNRMlJRYTN1U3hQN3FzdWJOeThpUHFLaHcycE00N1Jnbk56Y25aUDRMdkdyZFRRZ3ZjREo1LTMySEk4Rm9menh5alREZUdJR2FjOHJhOXpkb0lCODY4VTFNY3ZoUHFydWJyRHpreldMLTdsYVYxV2dWWDJ4bkQxeVdZcGR5X0RkbTA4?oc=5",
         "summary": "Southeast Asia energy shift hinges on grids & links&nbsp;&nbsp;DataCenterNews Asia Pacific",
@@ -138,10 +131,17 @@
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       },
       {
-        "title": "Southeast Asia Power Markets Remain Stable Amid Middle East Crisis, but Energy Security Takes Centre Stage - solarquarter.com",
+        "title": "Southeast Asia Power Markets Remain Stable Amid Middle East Crisis, but Energy Security Takes Centre Stage - SolarQuarter",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOY2tqQzFBZEFobFgza3BPdlpscWgwTHhySjNLUVZfTGhGN09TdWZWTjdUQTdac0hBbmg2WXh2VERaQjhLOUtHV2Q2bTNJNlc1QjIwVEE5ZjFUUXVwdnNYb1gwY2FkNTNlSjBaRmNRbHFVZy1lTkpKRmt0eHhITXlqOU9SOUtOMG5FNl82RTRYcTllell6YktIWkZiTzZfUE5GcWg3RTBUX0YwVWpGWEF6X2V2VVM3cHkxYVNmZVlfRmRhMzI3WUhxcEdMam9obC03LVFCbWN5ZWg2Zw?oc=5",
-        "summary": "Southeast Asia Power Markets Remain Stable Amid Middle East Crisis, but Energy Security Takes Centre Stage&nbsp;&nbsp;solarquarter.com",
+        "summary": "Southeast Asia Power Markets Remain Stable Amid Middle East Crisis, but Energy Security Takes Centre Stage&nbsp;&nbsp;SolarQuarter",
         "published": "2026-03-26",
+        "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
+      },
+      {
+        "title": "New Energy World magazine - Energy Institute",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9adzlUYVk2SDMzdHdNNEVmYVBxTUVaZlZFWi1oTjlRcy1ReUxhWnJkLXJBOUhYN2ctYWlUU2VLS3FqLTRwTkE1OUROeGFUcE1GaXlKV1JnYUc5UXBKRU9sTkVIaUhHcHNZSVJzV0dNcUFYaUNkNVE?oc=5",
+        "summary": "New Energy World magazine&nbsp;&nbsp;Energy Institute",
+        "published": "2025-12-03",
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       }
     ],
@@ -154,6 +154,13 @@
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
+        "title": "From scale to system꞉ navigating the next phase of China's battery storage - ember-energy.org",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMUpLTG9VTmdZV3llTXhOX0czbXlOYkNaX0NTVllfQzhUa2VJaER2Y0Y0RmQtYW1qT05oMl9Ta01NalhVdFZNWEQ0WjhURlhmOVZLY2JTWEsxSE5PbGtmc1RUci1HS0pDXzZOX2pKMzBCcDFSNWxJT0g2Z2xDOHk5cjFYa3RSUlNNdVdsc2xXQWc3elVaV183LXAtZDRzYXRMX3EteGFjby0zRWxGQTRvNHJEd1Y?oc=5",
+        "summary": "From scale to system꞉ navigating the next phase of China's battery storage&nbsp;&nbsp;ember-energy.org",
+        "published": "2026-07-16",
+        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
+      },
+      {
         "title": "The Key to Solar and Wind Power Is Battery Storage, and China Is Dominating - WSJ",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTDBCT18yT2Jnc2hiTkJTZFdrYWtZT0t4ckxPNlprRjRzeXNLdHhlVGQ0SEJMMXZvaHRieVB6UUt1RzhGNFhwM3FZZ1BXNHk4SzhSWWg4MWF1MlRjVXlCUElzMG5mS1JlNkcydk0ybGNhTER5MzVfT3FtX2JsWGdXMUxMSDQyVXY0a2VfR3YwcVhvZmVRQWthalZoVktUY2xyOGl2WHF0cjRJU0cyLUhYY1d0WlBkRHo4ZlNkOWxKNnk?oc=5",
         "summary": "The Key to Solar and Wind Power Is Battery Storage, and China Is Dominating&nbsp;&nbsp;WSJ",
@@ -161,10 +168,10 @@
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
-        "title": "From scale to system꞉ navigating the next phase of China's battery storage - ember-energy.org",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMUpLTG9VTmdZV3llTXhOX0czbXlOYkNaX0NTVllfQzhUa2VJaER2Y0Y0RmQtYW1qT05oMl9Ta01NalhVdFZNWEQ0WjhURlhmOVZLY2JTWEsxSE5PbGtmc1RUci1HS0pDXzZOX2pKMzBCcDFSNWxJT0g2Z2xDOHk5cjFYa3RSUlNNdVdsc2xXQWc3elVaV183LXAtZDRzYXRMX3EteGFjby0zRWxGQTRvNHJEd1Y?oc=5",
-        "summary": "From scale to system꞉ navigating the next phase of China's battery storage&nbsp;&nbsp;ember-energy.org",
-        "published": "2026-07-16",
+        "title": "China’s 15th five-year renewable energy plan targets 370GW new solar PV, wind capacity in Three-North Regions - pv-tech.org",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUVE5OGhmRDdIa1RiUDZtMEdQbXI4SzFQYWxSZVluZkwxM3RpMTNRNFZsUEJJczk0bmZsdk9Kek1uZVRieUlpMkRmQWNFY2dBUkVicEZvMC1CMl9kZW1UbXJqcVdLcDRrLVBoWTgzM3Frb0J1SE9wTUc2MVpXTURnaDRXbC10Wk9SZThoVmdGUUV2WmVENk14bVVzU29WdmRaaW9PWTBoUzNid04xOXZpMlcyQjRrMTZZUDBsb0l5MnI4Nk5Wc1ZxY3BhdzY?oc=5",
+        "summary": "China’s 15th five-year renewable energy plan targets 370GW new solar PV, wind capacity in Three-North Regions&nbsp;&nbsp;pv-tech.org",
+        "published": "2026-07-28",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
@@ -182,17 +189,17 @@
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
-        "title": "China issues renewables consumption rules set to fuel new growth cycle for solar PV and energy storage - PV Tech",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTXhMZGx0eVh5am42ZjlzU2FYVFM4aUhidHRULXlLT1pMT1I3dnNuQ19wcFBjZ3lkV3RROVdYbUtlUzczc2RnQVBuZG9uRkRtMzlINVRqLTVQT1J2WlRjYzU1WjltNmhIc2UxeW9ER1MyUVRsT3RTRGFISGZyZk9kUHNyTDgyUGdBMzJkdTFDcmEwVDUzWF9vVl9PbHVVVjZlUVFsOUgyQ0FpYlZuR21CRDNxYjJhSFdXaGRmNGp1NlZ4Q3o0Y0E?oc=5",
-        "summary": "China issues renewables consumption rules set to fuel new growth cycle for solar PV and energy storage&nbsp;&nbsp;PV Tech",
-        "published": "2026-06-24",
-        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
-      },
-      {
         "title": "China puts battery storage at center of renewable energy strategy - pv magazine Global",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWWg2bWpWN2VicVpEa2cwLUZVNG1abHJqXzFMNEJ4YkVaRVRibmRMSnVrUjlpZjJYZW9UQi1fR1ZYa0w0ejVHbjZEVHZLeWFfZ1paMVQyMVVaeTFTQkdvZHpGUkxnU3NOVzJYRlNreUc2WTF6eHd6VlM3QmxsNDMzUnctU2FuQ09iSEkxLU05YlFzazQxOVlaWVR2UkFURl96ZGtRMmNnQWI?oc=5",
         "summary": "China puts battery storage at center of renewable energy strategy&nbsp;&nbsp;pv magazine Global",
         "published": "2026-08-05",
+        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
+      },
+      {
+        "title": "Renewable Energy Is Undergoing Major Technology Upgrades - International Banker",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcXJ5RndDMjQ0SVRwSHJMSG9jc3Q1b2hpV1BVejVKNjJJSWtwLURMWHYwNGE2SEdSckxuZ0tZZ3dlcFRHTXF4dDJERFZiUkhEY1R4WjBabDdYWnJrUHhaVTRFS1E3V3lGSjdXSjFBY3lTNDVUUVE3dnBVZ1VFQTFtNU02M2UzQnlsS1BoLUxPV2tyZGdTMHdCZTFaZ3lMbkpiV2c?oc=5",
+        "summary": "Renewable Energy Is Undergoing Major Technology Upgrades&nbsp;&nbsp;International Banker",
+        "published": "2026-06-11",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
@@ -208,20 +215,13 @@
         "summary": "China's 15th Five-Year Plan Targets Over 50% Wind & Solar Share&nbsp;&nbsp;TaiyangNews",
         "published": "2026-07-01",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
-      },
-      {
-        "title": "The China–Gulf axis is reshaping renewable energy in the Global South - East Asia Forum",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ1BhX3kxMEU1OERvbmlZRGNWYXRSQ3NkNFN4MGd1T1ZDMURpUElVRjBDZlFvQlk0c3NYZjRiVXZ2aTBObDZzNFpqVVJybmdSVnI1R0NyZ3JfZkRPd3FmYWRJenV1YndjOFloZ1IzaUpmSVRkWG1zV0o5bHMyWHpjQTRJLVphaGN5MGVFQ3diajk1dzhPTVU0Ui1UZDVpY2tockZVZ25HUkxpVDg?oc=5",
-        "summary": "The China–Gulf axis is reshaping renewable energy in the Global South&nbsp;&nbsp;East Asia Forum",
-        "published": "2026-06-23",
-        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       }
     ],
     "major_events": [
       {
-        "title": "New York hits solar energy milestone - WWNY",
+        "title": "New York hits solar energy milestone - wwnytv.com",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfT0ZNdF9CSGJHdnF4dmJIMDA2V0RObGJPcGRfY3FrVmg5T2I4ZlNhVnkzV29iU2xkcGVaeFdmX2tpUnJYd1ZvQVZoUXRmYUN2T043aFd5NzFxTmtqYUJlRlZRYloxdFdLbUU4R29BQXBiMmJobnByaUZKMA?oc=5",
-        "summary": "New York hits solar energy milestone&nbsp;&nbsp;WWNY",
+        "summary": "New York hits solar energy milestone&nbsp;&nbsp;wwnytv.com",
         "published": "2026-07-02",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
@@ -233,10 +233,17 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "Solar surpasses coal as China’s top source of power capacity - The Straits Times",
+        "title": "Solar surpasses coal as China’s top source of power capacity - straitstimes.com",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ2FpNmFaUmQyRmt6SjVuSzRjMjZYTVItUjlUakZ5ZFpYYW00R1drLWVJNEw2c0E5ZVhhYU14ZHF5UEwwc2RfanVvZGhaUlh3ZEJDTjFpdWZBdlFPdEJBZVBGMkVqZXdJblhCMk1DWEFBZHhsc0FkbnBjZjlpWGpZeDl0M2NaVlYyVjJSV2JZdWVEa3E0TVphSjZ3bG50QQ?oc=5",
-        "summary": "Solar surpasses coal as China’s top source of power capacity&nbsp;&nbsp;The Straits Times",
+        "summary": "Solar surpasses coal as China’s top source of power capacity&nbsp;&nbsp;straitstimes.com",
         "published": "2026-09-01",
+        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
+      },
+      {
+        "title": "As Trump embraces dirty fossil fuels, California hits major clean energy milestone, invests over $100 million more in proven technologies - California State Portal | CA.gov",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYnVldjIxN2hqZ2hxWnA5eXQxdnB6YjdXV05aNndrNzNQa2dOQVYwQ2VqdXpJeE4zcjFocU1xSVpvbngzUFJManExMjI5UWtXeWNhaEh6QmhXQk1ibURsWGxrdTg5SmlQdG5WMU9YbWNOX1gwbS1aY3l2NXBJMTVNUGdLc2lIaHlFY0thd0NjeEQ0MmFqMG95Vi1YZEw5VFByMEwxR1VFcUJZTnUtb1F2RzZQSzM4MTZyWS10NTZ6ay05djJrbFRrNm53MGNaSXBsZEZ0WE5vMzJxVlJTRzBBTUdEdk9OeE4xSVJVaXJEejZaMWtDTnZkUWxtREoxZw?oc=5",
+        "summary": "As Trump embraces dirty fossil fuels, California hits major clean energy milestone, invests over $100 million more in proven technologies&nbsp;&nbsp;California State Portal | CA.gov",
+        "published": "2025-10-09",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
@@ -261,13 +268,6 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "Race to renewables drives record year for green bank – and sends it past $100 billion milestone - Renew Economy",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ2kza1FwaWVUSmgyOF9xclU5TEZxajAtaUVTbFh2REo0amIyeGljTHlzT0ZDY0dZTkNWY2hXQTR6dVQxOE5QQWNNZ1d6RXdtc1I1MG5KZVFrdG4tS3o1aDdsYThER2llaXZzV1hGdEtoSU1QbnlTVE9hcXV0ak5COHVwRklvTUpyc0ZpeDhJUXJlV05JS0t1MTJ6ZnZEemFabTd3a1ltaXJMeHYzS0I1a2I2YU9hTlNVMWU1Mm5R0gHDAUFVX3lxTFA2dW1qTTlTQWh3T3BGNEs2djJzZjJON1FLNFd0cmZQRWVLSllya0lBcUtZaDd5U3RfNUxYMEcxck5EcFotSkl0czhyaWkzdUdidW95d2tzQldLSW91NXNBRUt3NElMYUhXWUpPWDdtZ2FoWElQWHBqRGNhZFRPUTNEY1N6bi0xeDlWNnFZNGJzYTJ6UW50Umd2aG1jRHpGSjQ4SWVoNnVwM2hTUUV4RUlMcEdpb1V1YlBDTWFSN3ZRbVgtVQ?oc=5",
-        "summary": "Race to renewables drives record year for green bank – and sends it past $100 billion milestone&nbsp;&nbsp;Renew Economy",
-        "published": "2026-08-11",
-        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
-      },
-      {
         "title": "Nigeria’s Climate Transition in 2025: Moving from Ambition to Delivery - APRI – Africa Policy Research Institute",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObndxN0p6T1dmZHA5YWF1aU1qNFFlaDdZR0dGaW5tU1lRYWJ5WElVWm5ZWHcyZTJyMXJBaUZ5X3UxWFlaTHF4MVFaclgwNVRQajNzODFOTUpld0NmaUYyalJ6aWh0YUFLVHZjT2ZVQWJyUnlCdUhXaVE1T0l1UlRHc2FCLVBXaHF5WUpmM24zYzhIMjA?oc=5",
         "summary": "Nigeria’s Climate Transition in 2025: Moving from Ambition to Delivery&nbsp;&nbsp;APRI – Africa Policy Research Institute",
@@ -275,10 +275,17 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "Microsoft Hits 100% Renewable Electricity Milestone With 40GW Clean Energy Portfolio - carboncredits.com",
+        "title": "Microsoft Hits 100% Renewable Electricity Milestone With 40GW Clean Energy Portfolio - CarbonCredits.com",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU3hjdXRfNjhPVWdZU1ZZZlRDVE10TmNNd2RiYkZBaWM2LU5jOU1wMlBGTDdmeklKdGRDeV9ZMjV1TXoyZ2c4OHZWMDcyTGlfX3Y5V1YwaVRJbXJfMEVMblJEWWR5ZjdmZC1lenZQNnZrWE93ZFlSbjdXUjlVMF8zUXl2N1FEYnNBOFdBRkMwV1BpVGVDZGVWNTZpd2FTUVB1NUR5UmxjVmZsczdwNFpB?oc=5",
-        "summary": "Microsoft Hits 100% Renewable Electricity Milestone With 40GW Clean Energy Portfolio&nbsp;&nbsp;carboncredits.com",
+        "summary": "Microsoft Hits 100% Renewable Electricity Milestone With 40GW Clean Energy Portfolio&nbsp;&nbsp;CarbonCredits.com",
         "published": "2026-02-24",
+        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
+      },
+      {
+        "title": "Race to renewables drives record year for green bank – and sends it past $100 billion milestone - Renew Economy",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ2kza1FwaWVUSmgyOF9xclU5TEZxajAtaUVTbFh2REo0amIyeGljTHlzT0ZDY0dZTkNWY2hXQTR6dVQxOE5QQWNNZ1d6RXdtc1I1MG5KZVFrdG4tS3o1aDdsYThER2llaXZzV1hGdEtoSU1QbnlTVE9hcXV0ak5COHVwRklvTUpyc0ZpeDhJUXJlV05JS0t1MTJ6ZnZEemFabTd3a1ltaXJMeHYzS0I1a2I2YU9hTlNVMWU1Mm5R0gHDAUFVX3lxTFA2dW1qTTlTQWh3T3BGNEs2djJzZjJON1FLNFd0cmZQRWVLSllya0lBcUtZaDd5U3RfNUxYMEcxck5EcFotSkl0czhyaWkzdUdidW95d2tzQldLSW91NXNBRUt3NElMYUhXWUpPWDdtZ2FoWElQWHBqRGNhZFRPUTNEY1N6bi0xeDlWNnFZNGJzYTJ6UW50Umd2aG1jRHpGSjQ4SWVoNnVwM2hTUUV4RUlMcEdpb1V1YlBDTWFSN3ZRbVgtVQ?oc=5",
+        "summary": "Race to renewables drives record year for green bank – and sends it past $100 billion milestone&nbsp;&nbsp;Renew Economy",
+        "published": "2026-08-11",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       }
     ]
