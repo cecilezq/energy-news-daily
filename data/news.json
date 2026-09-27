@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-26 05:51 UTC",
+  "updated": "2026-09-27 06:14 UTC",
   "sections": {
     "global": [
+      {
+        "title": "Think gas prices are too low? Don’t fret, Trump plans to raise them Monday",
+        "link": "https://electrek.co/2026/09/26/republicans-are-about-to-announce-an-effort-to-raise-your-fuel-costs-by-45/",
+        "summary": "The Department of Transportation says it’s ready to announce fuel economy standards that will raise gas prices by 76 cents a gallon and fuel use by 45%, right as the world struggles with the effects of a war of choice that has spiked energy prices globally. Update: This article was originally publis",
+        "published": "2026-09-26",
+        "source": "Electrek"
+      },
+      {
+        "title": "Survey rewind: how much pain at the pump will it take to switch to EV? [update]",
+        "link": "https://electrek.co/2026/09/26/survey-sunday-how-much-pain-at-the-pump-will-it-take-to-switch-to-ev/",
+        "summary": "Back in April, we ran a sidebar survey about how much Electrek readers think gas would need to cost to convince the most dedicated anti-EV hysterics to switch to a plug-in car. After receiving over 2,800 responses, here’s what you told us. UPDATE 26SEP2026: a gallon of BP ultimate 93 octane is $7.19",
+        "published": "2026-09-26",
+        "source": "Electrek"
+      },
+      {
+        "title": "E-quipment highlight: EGO POWER+ Leaf Vacuum and Mulcher",
+        "link": "https://electrek.co/2026/09/26/e-quipment-highlight-ego-power-leaf-vacuum-and-mulcher/",
+        "summary": "The latest leaf vacuum, mulcher, and blower three-in-one from electric tool brand EGO promises fully 210 mph of blowing power and enough mulching mayhem to turn 16 bags of autumn leaves into just one for easy fall cleanup. more…",
+        "published": "2026-09-26",
+        "source": "Electrek"
+      },
+      {
+        "title": "New Kempower charging deal powers up Canadian port operations",
+        "link": "https://electrek.co/2026/09/26/new-kempower-charging-deal-powers-up-canadian-port-operations/",
+        "summary": "The Finnish EV charging experts at Kempower are bringing high-speed electric vehicle charging infrastructure to all of Canada’s DP World Canadian terminal operations – and the first two sites are online NOW. more…",
+        "published": "2026-09-26",
+        "source": "Electrek"
+      },
+      {
+        "title": "Renault 8 Gordini reborn as 270 hp electric rally retromobile",
+        "link": "https://electrek.co/2026/09/26/renault-8-gordini-reborn-as-270-hp-electric-rally-retromobile/",
+        "summary": "Renault has been dropping jaws with its all-electric retro redos in recent years, and someone over there has seem committed to keeping the party going with the launch of this all-new Renault Gordini 8 concept EV. more…",
+        "published": "2026-09-26",
+        "source": "Electrek"
+      },
+      {
+        "title": "JUNA puts more than 100 Scania electric semi trucks to work",
+        "link": "https://electrek.co/2026/09/26/juna-puts-more-than-100-scania-electric-semi-trucks-to-work/",
+        "summary": "You-know-who might be grabbing headlines by rolling a few trucks off the assembly line, but fleets overseas have been putting electric semi trucks to work for years – and shipping fleet JUNA just announced the deployment of its 110th (!) big BEV. more…",
+        "published": "2026-09-26",
+        "source": "Electrek"
+      },
       {
         "title": "BYD sets launch date for the new flagship Han EV with over 1,000 km of range",
         "link": "https://electrek.co/2026/09/25/byd-sets-launch-date-flagship-han-ev-1000-km-range/",
@@ -29,48 +71,6 @@
         "summary": "The Genesis GV90 has a pretty cool trick up its sleeve. Its pop-up 24.6″ OLED display can transform the cabin into a private luxury movie theater, complete with a 25-speaker Bang & Olufsen 3D Sound System. more…",
         "published": "2026-09-25",
         "source": "Electrek"
-      },
-      {
-        "title": "EU delays Tesla ‘Full Self-Driving’ vote to December at the earliest",
-        "link": "https://electrek.co/2026/09/25/eu-delays-tesla-fsd-vote-december-tcmv-agenda/",
-        "summary": "The EU won’t vote on Tesla’s “Full Self-Driving (Supervised)” on October 6. The draft agenda for the Technical Committee on Motor Vehicles (TCMV) meeting lists only a 25-minute “continuation of discussions” on the Dutch request to extend its FSD approval EU-wide. The committee doesn’t meet again unt",
-        "published": "2026-09-25",
-        "source": "Electrek"
-      },
-      {
-        "title": "Podcast: Tesla Semi launch, Geely’s battery healing fast-charging, Rivian R3, and more",
-        "link": "https://electrek.co/2026/09/25/early-podcast-tesla-semi-launch-geelys-battery-healing-fast-charging-rivian-r3-and-more/",
-        "summary": "In the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss the Tesla Semi launch, Geely’s battery healing fast-charging, Rivian R3, and more. more…",
-        "published": "2026-09-25",
-        "source": "Electrek"
-      },
-      {
-        "title": "Volkswagen is clearing out ID.4 EVs with a $12,500 discount",
-        "link": "https://electrek.co/2026/09/25/volkswagen-clearing-out-id-4-evs-12500-discount/",
-        "summary": "Volkswagen is marking down 2025 ID.4 models with a $12,500 customer cash discount to move inventory. more…",
-        "published": "2026-09-25",
-        "source": "Electrek"
-      },
-      {
-        "title": "Tesla patent shows new Roadster with a hidden 700 kg-downforce rear wing",
-        "link": "https://electrek.co/2026/09/25/tesla-patent-new-roadster-hidden-active-rear-wing-700-kg-downforce/",
-        "summary": "A new Tesla patent application describes a two-piece active rear wing that hides flush in the bodywork and can produce up to 700 kg of downforce once deployed. The car in the drawings looks a lot like the next-generation Tesla Roadster. The USPTO published the filing on September 24, a week before t",
-        "published": "2026-09-25",
-        "source": "Electrek"
-      },
-      {
-        "title": "Tesla ramps Optimus to hundreds a week, but the robots can’t generalize",
-        "link": "https://electrek.co/2026/09/25/tesla-optimus-production-ramp-hands-ai-generalization-problems/",
-        "summary": "Tesla is now building several hundred Optimus humanoid robots per week at Fremont, roughly 10 times its Q2 output, according to a new report. But the robots coming off the line still can’t handle generalized tasks – limiting their usefulness. The report also describes fragile hands, misaligned parts",
-        "published": "2026-09-25",
-        "source": "Electrek"
-      },
-      {
-        "title": "Lexus’ electric 3-row SUV makes its first public appearance",
-        "link": "https://electrek.co/2026/09/25/lexus-electric-3-row-suv-first-public-appearance/",
-        "summary": "The 2027 Lexus TZ is the first purely electric three-row SUV from Toyota’s luxury brand. Ahead of its upcoming launch, the electric TZ was spotted driving in public for the first time. more…",
-        "published": "2026-09-25",
-        "source": "Electrek"
       }
     ],
     "southeast_asia": [
@@ -89,9 +89,9 @@
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       },
       {
-        "title": "The Iran War Turned Asia’s Fragile Energy Dependence Into an Emergency - Council on Foreign Relations",
+        "title": "The Iran War Turned Asia’s Fragile Energy Dependence Into an Emergency - cfr.org",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOUVCX3Izbld2OTdfNTlVVlBhU3k2cXY1Qk50bEFScTlTY1RrYVh0WV8wdHRlaFgwU0drYW41MG0yUnBwM09TM3VFMGhtNGNkSmhfZzZpYldJa2hjTVlBQzl3TG1HalpzRzdIVHF6QkV6eTh1UG9jZ200RklEeTU4clM3QkRDM243cVN6LVBsaTJ1SmlaSGtGS25QSi0ybTA?oc=5",
-        "summary": "The Iran War Turned Asia’s Fragile Energy Dependence Into an Emergency&nbsp;&nbsp;Council on Foreign Relations",
+        "summary": "The Iran War Turned Asia’s Fragile Energy Dependence Into an Emergency&nbsp;&nbsp;cfr.org",
         "published": "2026-06-23",
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       },
@@ -124,13 +124,6 @@
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       },
       {
-        "title": "Southeast Asia energy shift hinges on grids & links - datacenternews.asia",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPckNRMlJRYTN1U3hQN3FzdWJOeThpUHFLaHcycE00N1Jnbk56Y25aUDRMdkdyZFRRZ3ZjREo1LTMySEk4Rm9menh5alREZUdJR2FjOHJhOXpkb0lCODY4VTFNY3ZoUHFydWJyRHpreldMLTdsYVYxV2dWWDJ4bkQxeVdZcGR5X0RkbTA4?oc=5",
-        "summary": "Southeast Asia energy shift hinges on grids & links&nbsp;&nbsp;datacenternews.asia",
-        "published": "2026-07-08",
-        "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
-      },
-      {
         "title": "Southeast Asia Power Markets Remain Stable Amid Middle East Crisis, but Energy Security Takes Centre Stage - SolarQuarter",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOY2tqQzFBZEFobFgza3BPdlpscWgwTHhySjNLUVZfTGhGN09TdWZWTjdUQTdac0hBbmg2WXh2VERaQjhLOUtHV2Q2bTNJNlc1QjIwVEE5ZjFUUXVwdnNYb1gwY2FkNTNlSjBaRmNRbHFVZy1lTkpKRmt0eHhITXlqOU9SOUtOMG5FNl82RTRYcTllell6YktIWkZiTzZfUE5GcWg3RTBUX0YwVWpGWEF6X2V2VVM3cHkxYVNmZVlfRmRhMzI3WUhxcEdMam9obC03LVFCbWN5ZWg2Zw?oc=5",
         "summary": "Southeast Asia Power Markets Remain Stable Amid Middle East Crisis, but Energy Security Takes Centre Stage&nbsp;&nbsp;SolarQuarter",
@@ -143,13 +136,20 @@
         "summary": "New Energy World magazine&nbsp;&nbsp;Energy Institute",
         "published": "2025-12-03",
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
+      },
+      {
+        "title": "U.S. trade uncertainty presents domestic opportunities for Southeast Asian renewables suppliers - Institute for Energy Economics and Financial Analysis (IEEFA)",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ3JSTGE1cGhYSGFHeWZNby1xZlVQZnJuNnlucUtkRWFqSlNmdVkwczhIR29GS0pwZm83ZE5veXFhZ0Zka2h0bThkRVMxYWZhU2kzdWZQVmRWNnYtNkExRHcxQjlJcmcxTkVPdlRzVkhaOW5sSHo1S3MzaGlIWklWWllyOXNUZUoxelRpTGNpR2UxeEVmNTRnVDhTejdlZm9RWXd3a3lFNlY4elZndWFJZlp3TTVGR013?oc=5",
+        "summary": "U.S. trade uncertainty presents domestic opportunities for Southeast Asian renewables suppliers&nbsp;&nbsp;Institute for Energy Economics and Financial Analysis (IEEFA)",
+        "published": "2025-04-24",
+        "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       }
     ],
     "china": [
       {
-        "title": "The Key to Solar and Wind Power Is Battery Storage, and China Is Dominating - wsj.com",
+        "title": "The Key to Solar and Wind Power Is Battery Storage, and China Is Dominating - WSJ",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTDBCT18yT2Jnc2hiTkJTZFdrYWtZT0t4ckxPNlprRjRzeXNLdHhlVGQ0SEJMMXZvaHRieVB6UUt1RzhGNFhwM3FZZ1BXNHk4SzhSWWg4MWF1MlRjVXlCUElzMG5mS1JlNkcydk0ybGNhTER5MzVfT3FtX2JsWGdXMUxMSDQyVXY0a2VfR3YwcVhvZmVRQWthalZoVktUY2xyOGl2WHF0cjRJU0cyLUhYY1d0WlBkRHo4ZlNkOWxKNnk?oc=5",
-        "summary": "The Key to Solar and Wind Power Is Battery Storage, and China Is Dominating&nbsp;&nbsp;wsj.com",
+        "summary": "The Key to Solar and Wind Power Is Battery Storage, and China Is Dominating&nbsp;&nbsp;WSJ",
         "published": "2026-07-19",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
@@ -182,17 +182,17 @@
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
-        "title": "China issues renewables consumption rules set to fuel new growth cycle for solar PV and energy storage - PV Tech",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTXhMZGx0eVh5am42ZjlzU2FYVFM4aUhidHRULXlLT1pMT1I3dnNuQ19wcFBjZ3lkV3RROVdYbUtlUzczc2RnQVBuZG9uRkRtMzlINVRqLTVQT1J2WlRjYzU1WjltNmhIc2UxeW9ER1MyUVRsT3RTRGFISGZyZk9kUHNyTDgyUGdBMzJkdTFDcmEwVDUzWF9vVl9PbHVVVjZlUVFsOUgyQ0FpYlZuR21CRDNxYjJhSFdXaGRmNGp1NlZ4Q3o0Y0E?oc=5",
-        "summary": "China issues renewables consumption rules set to fuel new growth cycle for solar PV and energy storage&nbsp;&nbsp;PV Tech",
-        "published": "2026-06-24",
-        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
-      },
-      {
         "title": "24/7 Renewables Outcompete Fossil Fuels on Costs - International Renewable Energy Agency (IRENA)",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY1BnVUI5cVRaVHdibi1BX3BGVExndmtUbHpfUy1FVldkOTQ1UnlCeUctWV8zbnQwbGlFVVVKSVhoOW10RDdDSWpBT01NaWZ0SVMtY0RJaWJuQm5tLUN2NXg5NGZhRDM2dEFseE04bVpoX0VjckVHWXAwZU1CZzQ2WVViZHUtMVM2bWdScjlfZm5nOXh6ZDA5LUZtR0VkVlUzS3J0NEh3?oc=5",
         "summary": "24/7 Renewables Outcompete Fossil Fuels on Costs&nbsp;&nbsp;International Renewable Energy Agency (IRENA)",
         "published": "2026-05-06",
+        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
+      },
+      {
+        "title": "China issues renewables consumption rules set to fuel new growth cycle for solar PV and energy storage - PV Tech",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTXhMZGx0eVh5am42ZjlzU2FYVFM4aUhidHRULXlLT1pMT1I3dnNuQ19wcFBjZ3lkV3RROVdYbUtlUzczc2RnQVBuZG9uRkRtMzlINVRqLTVQT1J2WlRjYzU1WjltNmhIc2UxeW9ER1MyUVRsT3RTRGFISGZyZk9kUHNyTDgyUGdBMzJkdTFDcmEwVDUzWF9vVl9PbHVVVjZlUVFsOUgyQ0FpYlZuR21CRDNxYjJhSFdXaGRmNGp1NlZ4Q3o0Y0E?oc=5",
+        "summary": "China issues renewables consumption rules set to fuel new growth cycle for solar PV and energy storage&nbsp;&nbsp;PV Tech",
+        "published": "2026-06-24",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
@@ -219,10 +219,17 @@
     ],
     "major_events": [
       {
-        "title": "New York hits solar energy milestone - wwnytv.com",
+        "title": "New York hits solar energy milestone - WWNY",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfT0ZNdF9CSGJHdnF4dmJIMDA2V0RObGJPcGRfY3FrVmg5T2I4ZlNhVnkzV29iU2xkcGVaeFdmX2tpUnJYd1ZvQVZoUXRmYUN2T043aFd5NzFxTmtqYUJlRlZRYloxdFdLbUU4R29BQXBiMmJobnByaUZKMA?oc=5",
-        "summary": "New York hits solar energy milestone&nbsp;&nbsp;wwnytv.com",
+        "summary": "New York hits solar energy milestone&nbsp;&nbsp;WWNY",
         "published": "2026-07-02",
+        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
+      },
+      {
+        "title": "SolaREIT Surpasses $5 Billion Project Value Milestone in Solar and Battery Energy Storage Land Financing - PR Newswire",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObm1pdVRDcWlWdkFUNXg5ZXhNZUdSQjJqMjNVZ1lob1ZXV3VncHdzdDU1YzdlMHNnSjRLRUlqWE9tWGc3QjZkWHdVakZSdjZZQm92QkNnYXI5MnFPZWRQQkNHZ3V0c0otZUFoWEotcXZvZkd4bWJFRUhCMFczdk5BQnJBeENkQ0ZzbS1KcWpCSl9Hc1RCSzVucGZ4cFZyamJSOUl5TjJsV3VGeHhCbXVLX0pnNDRJNEZKSXJ2dmVxbUppSnlabDdSYmR5YjZoUlo3QTVtTmVpaVZOYV9ta19ULUswN0h4Y2VPR0dZdml1S2w?oc=5",
+        "summary": "SolaREIT Surpasses $5 Billion Project Value Milestone in Solar and Battery Energy Storage Land Financing&nbsp;&nbsp;PR Newswire",
+        "published": "2025-11-19",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
@@ -233,9 +240,16 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "China Hits Renewable Milestone, But Coal Isn't Going Anywhere - Crude Oil Prices Today | OilPrice.com",
+        "title": "Renewable Energy - Invest India",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPQXAyVEtKOEFXa1hxX3J4akFQazE2a21BekVLOTFQT25GYllvWHhMWERoM2pxR3ZKQ0VXU0ZLU254NE8xeHNaUVJUcmFfdTRud0Z4M2Y2Y3FXdGtKUHlRMm1ITVY?oc=5",
+        "summary": "Renewable Energy&nbsp;&nbsp;Invest India",
+        "published": "2026-07-20",
+        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
+      },
+      {
+        "title": "China Hits Renewable Milestone, But Coal Isn't Going Anywhere - oilprice.com",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU245OTBtUWlBREU1eUJlVEhQeHEtbzdFSk1BUFFrTXV5ZWYzbWlNczZjQ2hyckFCYXFBSnM1dW9pSlkzU1J3X3UwY2VMemV4VzM2ZEtFYXdEVTMzcUJRQkgzTFhWaGZWckRiRmh2TTVsMXZFbnVpTXlFWnNGTHhkVlhiSGI3R3BXeS15dmtLcXI2dGJZSjhBVEpVTDJQUdIBowFBVV95cUxNYVlGWkN3RWxCWUtFTW5BLWFUaXZTcGlrUkkzb2xGMDNyT1EzSDdoQU00ODBiNGRfTW5veEd4WDZLVG5Ia1BJNU5NcFdrclo5NG91bmJVX2tXNHJ1cmxxMFJJSGhtVkNkbl9HNVVjRkJHcGZKUi1hRkwyaExtNU9WZTlQQWFGc0had1hSWklSMzhlSHdneTA0djRSRzZFZVh3bXVj?oc=5",
-        "summary": "China Hits Renewable Milestone, But Coal Isn't Going Anywhere&nbsp;&nbsp;Crude Oil Prices Today | OilPrice.com",
+        "summary": "China Hits Renewable Milestone, But Coal Isn't Going Anywhere&nbsp;&nbsp;oilprice.com",
         "published": "2026-02-16",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
@@ -247,10 +261,10 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "Microsoft Hits 100% Renewable Electricity Milestone With 40GW Clean Energy Portfolio - CarbonCredits.com",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU3hjdXRfNjhPVWdZU1ZZZlRDVE10TmNNd2RiYkZBaWM2LU5jOU1wMlBGTDdmeklKdGRDeV9ZMjV1TXoyZ2c4OHZWMDcyTGlfX3Y5V1YwaVRJbXJfMEVMblJEWWR5ZjdmZC1lenZQNnZrWE93ZFlSbjdXUjlVMF8zUXl2N1FEYnNBOFdBRkMwV1BpVGVDZGVWNTZpd2FTUVB1NUR5UmxjVmZsczdwNFpB?oc=5",
-        "summary": "Microsoft Hits 100% Renewable Electricity Milestone With 40GW Clean Energy Portfolio&nbsp;&nbsp;CarbonCredits.com",
-        "published": "2026-02-24",
+        "title": "Race to renewables drives record year for green bank – and sends it past $100 billion milestone - Renew Economy",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ2kza1FwaWVUSmgyOF9xclU5TEZxajAtaUVTbFh2REo0amIyeGljTHlzT0ZDY0dZTkNWY2hXQTR6dVQxOE5QQWNNZ1d6RXdtc1I1MG5KZVFrdG4tS3o1aDdsYThER2llaXZzV1hGdEtoSU1QbnlTVE9hcXV0ak5COHVwRklvTUpyc0ZpeDhJUXJlV05JS0t1MTJ6ZnZEemFabTd3a1ltaXJMeHYzS0I1a2I2YU9hTlNVMWU1Mm5R0gHDAUFVX3lxTFA2dW1qTTlTQWh3T3BGNEs2djJzZjJON1FLNFd0cmZQRWVLSllya0lBcUtZaDd5U3RfNUxYMEcxck5EcFotSkl0czhyaWkzdUdidW95d2tzQldLSW91NXNBRUt3NElMYUhXWUpPWDdtZ2FoWElQWHBqRGNhZFRPUTNEY1N6bi0xeDlWNnFZNGJzYTJ6UW50Umd2aG1jRHpGSjQ4SWVoNnVwM2hTUUV4RUlMcEdpb1V1YlBDTWFSN3ZRbVgtVQ?oc=5",
+        "summary": "Race to renewables drives record year for green bank – and sends it past $100 billion milestone&nbsp;&nbsp;Renew Economy",
+        "published": "2026-08-11",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
@@ -261,31 +275,17 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
+        "title": "China Adds Power 8x More Than the US in 2025, with $500B Energy Build-Out in a Single Year - CarbonCredits.com",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZlVHN3l5S3JULXMtU2REbUxtNTZ3bTdybUlyejVsVVNNRzlfV3U5MWNwMFdtM2ZEQWRJZmluUzNpV0pjNk5MMWpGUkd4OXZRdUNVcW00a05yTmJBNlF5NUlxeWpjblV2bkxrd1R2aGR2a0dEWFl4b2Zad1g3Sjd0aEk0TzFFbWYtcnRMZkxTQ0xQaVBkNUE2eVlXUHRZa1R4M1R0UDExQ3dmUTZHcHVEQi1aYmU2UQ?oc=5",
+        "summary": "China Adds Power 8x More Than the US in 2025, with $500B Energy Build-Out in a Single Year&nbsp;&nbsp;CarbonCredits.com",
+        "published": "2026-02-04",
+        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
+      },
+      {
         "title": "Solar surpasses coal as China’s top source of power capacity - The Straits Times",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ2FpNmFaUmQyRmt6SjVuSzRjMjZYTVItUjlUakZ5ZFpYYW00R1drLWVJNEw2c0E5ZVhhYU14ZHF5UEwwc2RfanVvZGhaUlh3ZEJDTjFpdWZBdlFPdEJBZVBGMkVqZXdJblhCMk1DWEFBZHhsc0FkbnBjZjlpWGpZeDl0M2NaVlYyVjJSV2JZdWVEa3E0TVphSjZ3bG50QQ?oc=5",
         "summary": "Solar surpasses coal as China’s top source of power capacity&nbsp;&nbsp;The Straits Times",
         "published": "2026-09-01",
-        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
-      },
-      {
-        "title": "Acwa Power advances 2-GW Türkiye renewable projects with milestones due by June - Anadolu Ajansı",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZDk3WG11dXpwdVVYejRNYTJOdGVBYWU3QkdTX0JjZTNNVXpYWWNtaVp6Qy1qU0d3V3FnWWtjVlkyOVFfQjVVWnNJa1dQc3ROT1VlazAzQkltS1dxNkZ1SWRvU3gzcWRYODVoeTFTMVlmV1V1Sm1yVDhuRW5rRmNVbkRjWFY5MEFZc2VaZDZoS3hnOXFvUl91ekxQc1hpelhaQURhVTdlSHRZOVRpSjJOalZ2Q1ZTWDZLV1JZOEVZaUVpZEg5SV85TNIB0AFBVV95cUxPenNObmI3LUpFOHdCRFdRNTFxR2JDcmtkWXZvdEU5NkJ0NGFpaml6Z1pDajJZZmhRTVExU29zaV8zQ0FUZjgyZEcyVkhrNUstREowdXc3RWNuWWdncVhjZEhuRG15cVJRRDdrNHJZNjRETzZHaWNSTzZYdUZqdUd5TDVvSDZYSzl3NXBpVEhYVXhzQnVsZ0FyNVhFUmxpcWtyek5nNDFMV3FMa25wTThiNFZlUjFZUThDdFFuLTRyc0RWV0xtVmQxcWx1Rk9SOWJO?oc=5",
-        "summary": "Acwa Power advances 2-GW Türkiye renewable projects with milestones due by June&nbsp;&nbsp;Anadolu Ajansı",
-        "published": "2026-04-28",
-        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
-      },
-      {
-        "title": "Renewables hit global record, but investments must double to meet climate goals - Shale24",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaXhucVF5c19CUmNmVnphRUVjZG5SaHJHenhjeWtlSERrNjBRdmRoQmp2NldwRnlkbnZaWUQ2UzUwYzBUVlpBai0zUWVmYzBXTFE3VEFkYUhxeEtpZzRiT0hrSG5lQXpYbDRtdTVuaUM2U283ZE11V1BEWWJIZXppblBhWXFIV3UybkZ3MnItMWhjTjhlN25OMVJNTVBJemI0QVNEdllGT2ducWhHVzFWbExoYlRGczhMOFI0eNIBwgFBVV95cUxNUHBTS3lxR0RNSmgwcE5jSk95cVlUTEVZQ2JmUFpnamN5ei1zT1pWTU9xTldLWlJxU0lLYWJPdVhVNWluNnRhNl9ZSjJlSmhhSm9valI3bWhfd1F4R1FobExfbEJZb3Y5VTNYZG1xQkNXcDVJUkVHQzl6NXAyTTF1eUNGSEdZdGVaSE8yUDZSVVRzekVzdmRLeGRaSU00ZlhRUnM0bk9ENWVTSzgtQW1kdWNhOFBGT2xVLVhwSXRiUlhPUQ?oc=5",
-        "summary": "Renewables hit global record, but investments must double to meet climate goals&nbsp;&nbsp;Shale24",
-        "published": "2025-10-30",
-        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
-      },
-      {
-        "title": "Wind players reaching global heights - China Daily",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGLVVoVGlIUVFGSUpfMllPcVF5X3E5blJVbG9wcW1aRzJzRm84bUhKcFpEUTladE9BT3RLN0RHWmo3UFFsVFpvMXFZNjFRTmVwZEhyVko4U3R0Y1VTQ0JROUUtRUhfR3FXVVBCVmk2aXNQSTJRRklCbEwxb0stUQ?oc=5",
-        "summary": "Wind players reaching global heights&nbsp;&nbsp;China Daily",
-        "published": "2026-03-17",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       }
     ]
