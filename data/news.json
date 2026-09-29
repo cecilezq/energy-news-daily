@@ -1,83 +1,83 @@
 {
-  "updated": "2026-09-28 06:19 UTC",
+  "updated": "2026-09-29 06:34 UTC",
   "sections": {
     "global": [
       {
-        "title": "NIO sells 30% of battery swap unit to Geely at more than $2 billion",
-        "link": "https://electrek.co/2026/09/27/nio-power-geely-30-stake-battery-swap-rmb16-billion/",
-        "summary": "Geely is buying into NIO’s battery swap network. NIO announced definitive agreements on Sunday that hand a Geely Holding subsidiary 30% of NIO Power, the unit running its swap stations and chargers, at a post-money valuation of about RMB16 billion ($2.4 billion). Most of what Geely is paying isn’t c",
+        "title": "Tesla’s two week notice, Volvo’s autonomous milestone, and fun with LEGO",
+        "link": "https://electrek.co/2026/09/28/teslas-two-week-notice-volvos-autonomous-milestone-and-fun-with-lego/",
+        "summary": "On today’s completely predictable episode of Quick Charge, Tesla CEO Elon Musk says the weather looks like it’ll be too rough to show off his new “flying” Roadster 2.0 on October 1st, so he’s pushing the reveal back another two weeks – but after 9 years of moving goal posts and broken promises, what",
+        "published": "2026-09-29",
+        "source": "Electrek"
+      },
+      {
+        "title": "US clean energy jobs fell for the first time since the pandemic",
+        "link": "https://electrek.co/2026/09/28/us-clean-energy-jobs-fell-for-the-first-time-since-the-pandemic/",
+        "summary": "The US lost 36,949 clean energy jobs in 2025, ending four straight years of growth. That’s the direct impact of the Trump administration and the Republican-controlled Congress rolling back federal support for clean energy and EVs, which led companies to cancel or scale back projects. more…",
         "published": "2026-09-28",
         "source": "Electrek"
       },
       {
-        "title": "Survey Sunday: When self driving cars crash, who gets the blame?",
-        "link": "https://electrek.co/2026/09/27/survey-sunday-when-self-driving-cars-crash-who-gets-the-blame/",
-        "summary": "For the last few weeks, we’ve been running a sidebar survey about whether our Electrek readers who should be held responsible when AI fails, and people get hurt. After nearly 3,000 responses, here’s what you told us. more…",
-        "published": "2026-09-27",
+        "title": "Lexus reveals 2027 TZ prices start under $65,000, with up to 315 miles of range",
+        "link": "https://electrek.co/2026/09/28/lexus-reveals-2027-tz-prices-start-65000-up-to-315-miles-range/",
+        "summary": "Lexus confirmed the 2027 TZ will go on sale later this year with prices starting under $65,000. The electric SUV will offer up to 315 miles of range on a single charge. more…",
+        "published": "2026-09-28",
         "source": "Electrek"
       },
       {
-        "title": "Mazda adds LiDAR to CX-6e, rolls out “self driving” tech in China",
-        "link": "https://electrek.co/2026/09/27/mazda-adds-lidar-to-cx-6e-rolls-out-self-driving-tech-in-china/",
-        "summary": "Mazda’s CX-6e just got a major tech update in the form of a new LiDAR suite that makes the sporty electric SUV capable of delivering “advanced L2” autonomy, navigation on autopilot (NOA), and automated parking. more…",
-        "published": "2026-09-27",
+        "title": "New York considering 20+ new e-bike laws including outlawing Class 3 electric bikes",
+        "link": "https://electrek.co/2026/09/28/new-york-considering-20-new-e-bike-laws-including-outlawing-class-3-electric-bikes/",
+        "summary": "New York City lawmakers are preparing this week to consider a sweeping new package of micromobility legislation, with more than 20 bills aimed at e-bikes, electric scooters, mopeds, delivery apps, and enforcement. more…",
+        "published": "2026-09-28",
         "source": "Electrek"
       },
       {
-        "title": "Charge up your Christmas tree with this Hallmark Keepsake Daytona Scat Pack",
-        "link": "https://electrek.co/2026/09/27/charge-up-your-christmas-tree-with-this-hallmark-keepsake-daytona-scat-pack/",
-        "summary": "The all-electric Dodge Charger Daytona may not have been a stunning sales success with either EV fans or the Mopar faithful, but that didn’t change the fact that it’s one of the most competent straight-line performance cars ever built – and now, Hallmark is making it easier than ever to park one und",
-        "published": "2026-09-27",
+        "title": "EIA: 83 GW of renewables and storage coming in 12 months as fossil fuel capacity to fall",
+        "link": "https://electrek.co/2026/09/28/eia-83-gw-of-renewables-and-storage-coming-in-12-months-as-fossil-fuel-capacity-to-fall/",
+        "summary": "Renewables and battery storage are projected to add about 82.7 gigawatts (GW) of new generating capacity in the US in the next 12 months, while total fossil fuel and nuclear power capacity will fall by more than 1.4 GW, according to new data released by the US Energy Information Administration (EIA)",
+        "published": "2026-09-28",
         "source": "Electrek"
       },
       {
-        "title": "Think gas prices are too low? Don’t fret, Trump plans to raise them Monday",
-        "link": "https://electrek.co/2026/09/26/republicans-are-about-to-announce-an-effort-to-raise-your-fuel-costs-by-45/",
-        "summary": "The Department of Transportation says it’s ready to announce fuel economy standards that will raise gas prices by 76 cents a gallon and fuel use by 45%, right as the world struggles with the effects of a war of choice that has spiked energy prices globally. Update: This article was originally publis",
-        "published": "2026-09-26",
+        "title": "Tesla delays Roadster demo two weeks to October 15, blames weather",
+        "link": "https://electrek.co/2026/09/28/tesla-roadster-demo-delayed-october-15-weather/",
+        "summary": "Tesla has officially pushed its Roadster demo from October 1 to October 15, blaming “severe conditions” in the forecast for central Texas. It’s the latest in a long line of delays for the next-gen Roadster, and this one moves the event back two full weeks for what Tesla describes as a weather proble",
+        "published": "2026-09-28",
         "source": "Electrek"
       },
       {
-        "title": "Survey rewind: how much pain at the pump will it take to switch to EV? [update]",
-        "link": "https://electrek.co/2026/09/26/survey-sunday-how-much-pain-at-the-pump-will-it-take-to-switch-to-ev/",
-        "summary": "Back in April, we ran a sidebar survey about how much Electrek readers think gas would need to cost to convince the most dedicated anti-EV hysterics to switch to a plug-in car. After receiving over 2,800 responses, here’s what you told us. UPDATE 26SEP2026: a gallon of BP ultimate 93 octane is $7.19",
-        "published": "2026-09-26",
+        "title": "Kia’s new interior spotted with a larger infotainment screen and Hyundai’s high-tech software",
+        "link": "https://electrek.co/2026/09/28/kias-new-interior-spotted-larger-screen-high-tech-software/",
+        "summary": "Kia is preparing to introduce a new interior setup for its upcoming vehicles. The setup includes a larger center display and Hyundai’s advanced new infotainment system. more…",
+        "published": "2026-09-28",
         "source": "Electrek"
       },
       {
-        "title": "E-quipment highlight: EGO POWER+ Leaf Vacuum and Mulcher",
-        "link": "https://electrek.co/2026/09/26/e-quipment-highlight-ego-power-leaf-vacuum-and-mulcher/",
-        "summary": "The latest leaf vacuum, mulcher, and blower three-in-one from electric tool brand EGO promises fully 210 mph of blowing power and enough mulching mayhem to turn 16 bags of autumn leaves into just one for easy fall cleanup. more…",
-        "published": "2026-09-26",
+        "title": "Anker SOLIX Early Prime Day Sale drops S2000 400W solar bundle to exclusive $1,102, Lectric 3-day e-bike flash sale, more",
+        "link": "https://electrek.co/2026/09/28/anker-solix-early-prime-day-sale-s2000-400w-solar-bundle-lectric-e-bike-flash-sale-more/",
+        "summary": "Kickstarting this week’s Green Deals is the newly launched Anker SOLIX Early-Access Fall Prime Deals Sale with up to 40% discounts, FREE gifts, refurbished deals, and exclusive bonus savings, like the 2,010Wh S2000 Power Station with a 400W solar panel down at an exclusive $1,102 ($2 above low), amo",
+        "published": "2026-09-28",
         "source": "Electrek"
       },
       {
-        "title": "New Kempower charging deal powers up Canadian port operations",
-        "link": "https://electrek.co/2026/09/26/new-kempower-charging-deal-powers-up-canadian-port-operations/",
-        "summary": "The Finnish EV charging experts at Kempower are bringing high-speed electric vehicle charging infrastructure to all of Canada’s DP World Canadian terminal operations – and the first two sites are online NOW. more…",
-        "published": "2026-09-26",
+        "title": "Tesla (TSLA) Q3 2026 delivery estimates range from 422,000 to 482,000",
+        "link": "https://electrek.co/2026/09/28/tesla-q3-2026-delivery-estimates-wall-street-split/",
+        "summary": "Wall Street can’t agree on how many cars Tesla (TSLA) sold in Q3 2026. Estimates from major banks range from 421,758 to 482,000 deliveries ahead of Friday’s report. That’s a 60,000-unit spread. And after the Street missed Tesla’s Q2 deliveries by 74,000 units, nobody has much credibility on this one",
+        "published": "2026-09-28",
         "source": "Electrek"
       },
       {
-        "title": "Renault 8 Gordini reborn as 270 hp electric rally retromobile",
-        "link": "https://electrek.co/2026/09/26/renault-8-gordini-reborn-as-270-hp-electric-rally-retromobile/",
-        "summary": "Renault has been dropping jaws with its all-electric retro redos in recent years, and someone over there has seem committed to keeping the party going with the launch of this all-new Renault Gordini 8 concept EV. more…",
-        "published": "2026-09-26",
-        "source": "Electrek"
-      },
-      {
-        "title": "JUNA puts more than 100 Scania electric semi trucks to work",
-        "link": "https://electrek.co/2026/09/26/juna-puts-more-than-100-scania-electric-semi-trucks-to-work/",
-        "summary": "You-know-who might be grabbing headlines by rolling a few trucks off the assembly line, but fleets overseas have been putting electric semi trucks to work for years – and shipping fleet JUNA just announced the deployment of its 110th (!) big BEV. more…",
-        "published": "2026-09-26",
+        "title": "BYD is overhauling its cheapest EV, and it’s bigger than expected",
+        "link": "https://electrek.co/2026/09/28/byd-overhauling-cheapest-ev-bigger/",
+        "summary": "The Seagull, which starts at about $10,000 in China, is getting an overhaul. And the upgrades are even bigger than expected. more…",
+        "published": "2026-09-28",
         "source": "Electrek"
       }
     ],
     "southeast_asia": [
       {
-        "title": "Southeast Asian countries have released four times more long-term renewable energy policies than fossil fuel policies since the Iran war - Zero Carbon Analytics",
+        "title": "Southeast Asian countries have released four times more long-term renewable energy policies than fossil fuel policies since the Iran war - zerocarbon-analytics.org",
         "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOUEMtUDRIak9qeV9OOVVfeDVSWnl0dl9CTDU0M0FQa2J0TkhUZDJKTWpBblVVcHpleVFVRV9QUG9LS3FfQ2dYZmpySzZBUWN4WDE0SlN5UWc0TndBa0o1WEcwQ0VFSmdrbUZ5S29LQk43Tng1djVjWl9RWkJEUkNDaWxCbHlBVmQtSWtBY0ltblExMEtxM3BtNi1xRmhUbkN0WFo5bjJraUV1ZzZLekNGMzFxeWdQM3hGRVhtZEMycE8tejYzWVh4b1k2QmozSHEzRktlb21jZFJHUTRkRUNucWsySmE2RU9vMTdZR2lFSXptblpLZlNNcmxjd0d0RkNIU0JkOEdvWjA?oc=5",
-        "summary": "Southeast Asian countries have released four times more long-term renewable energy policies than fossil fuel policies since the Iran war&nbsp;&nbsp;Zero Carbon Analytics",
+        "summary": "Southeast Asian countries have released four times more long-term renewable energy policies than fossil fuel policies since the Iran war&nbsp;&nbsp;zerocarbon-analytics.org",
         "published": "2026-09-25",
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       },
@@ -89,9 +89,9 @@
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       },
       {
-        "title": "The Iran War Turned Asia’s Fragile Energy Dependence Into an Emergency - Council on Foreign Relations",
+        "title": "The Iran War Turned Asia’s Fragile Energy Dependence Into an Emergency - cfr.org",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOUVCX3Izbld2OTdfNTlVVlBhU3k2cXY1Qk50bEFScTlTY1RrYVh0WV8wdHRlaFgwU0drYW41MG0yUnBwM09TM3VFMGhtNGNkSmhfZzZpYldJa2hjTVlBQzl3TG1HalpzRzdIVHF6QkV6eTh1UG9jZ200RklEeTU4clM3QkRDM243cVN6LVBsaTJ1SmlaSGtGS25QSi0ybTA?oc=5",
-        "summary": "The Iran War Turned Asia’s Fragile Energy Dependence Into an Emergency&nbsp;&nbsp;Council on Foreign Relations",
+        "summary": "The Iran War Turned Asia’s Fragile Energy Dependence Into an Emergency&nbsp;&nbsp;cfr.org",
         "published": "2026-06-23",
         "source": "\"renewable energy solar wind storage southeast asia vietnam thailand indonesia malaysia philippines\" - Google News"
       },
@@ -147,6 +147,20 @@
     ],
     "china": [
       {
+        "title": "Cooperation powers green energy drive - China Daily Global Edition",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTm82NlE3VTRjbFBXX2RDWkdyRzF2a1VONHNXcXRvcGkwamNwQk5OazlaTDNOVXpjU3ZKdGJ6dFBmQ3lQdk0wYkhJTUIzd3ctRVgzbUtFX0ZYdlVIT2V5LTlLR3VmYTJ0NlpHNE55RXQ2MC1PRENmbl9keW5LMjhlbERB?oc=5",
+        "summary": "Cooperation powers green energy drive&nbsp;&nbsp;China Daily Global Edition",
+        "published": "2026-09-29",
+        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
+      },
+      {
+        "title": "China Solar PV News Snippets: Energy China’s 100 MW Floating PV Project Connected to Grid & More - TaiyangNews",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY25BdGs0dE53ZjgzczNNRTBBZGFFal9VYXNRSzhMLXVKT3Y5QVBSOXpxUXRoUDNnd1FubVNpazNCZVVmTVNSeGdUNWo4Q0dBNTVJYWtVd19URlpPWFNfeEk2eUcwZzVObnhKUE4wUEF3eHZJcEtfNFhLd2ZHeGJmUS0tbk9WUQ?oc=5",
+        "summary": "China Solar PV News Snippets: Energy China’s 100 MW Floating PV Project Connected to Grid & More&nbsp;&nbsp;TaiyangNews",
+        "published": "2026-09-28",
+        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
+      },
+      {
         "title": "The Key to Solar and Wind Power Is Battery Storage, and China Is Dominating - WSJ",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTDBCT18yT2Jnc2hiTkJTZFdrYWtZT0t4ckxPNlprRjRzeXNLdHhlVGQ0SEJMMXZvaHRieVB6UUt1RzhGNFhwM3FZZ1BXNHk4SzhSWWg4MWF1MlRjVXlCUElzMG5mS1JlNkcydk0ybGNhTER5MzVfT3FtX2JsWGdXMUxMSDQyVXY0a2VfR3YwcVhvZmVRQWthalZoVktUY2xyOGl2WHF0cjRJU0cyLUhYY1d0WlBkRHo4ZlNkOWxKNnk?oc=5",
         "summary": "The Key to Solar and Wind Power Is Battery Storage, and China Is Dominating&nbsp;&nbsp;WSJ",
@@ -161,9 +175,9 @@
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
-        "title": "Renewable Energy Is Undergoing Major Technology Upgrades - International Banker",
+        "title": "Renewable Energy Is Undergoing Major Technology Upgrades - internationalbanker.com",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcXJ5RndDMjQ0SVRwSHJMSG9jc3Q1b2hpV1BVejVKNjJJSWtwLURMWHYwNGE2SEdSckxuZ0tZZ3dlcFRHTXF4dDJERFZiUkhEY1R4WjBabDdYWnJrUHhaVTRFS1E3V3lGSjdXSjFBY3lTNDVUUVE3dnBVZ1VFQTFtNU02M2UzQnlsS1BoLUxPV2tyZGdTMHdCZTFaZ3lMbkpiV2c?oc=5",
-        "summary": "Renewable Energy Is Undergoing Major Technology Upgrades&nbsp;&nbsp;International Banker",
+        "summary": "Renewable Energy Is Undergoing Major Technology Upgrades&nbsp;&nbsp;internationalbanker.com",
         "published": "2026-06-11",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
@@ -182,24 +196,17 @@
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
-        "title": "China issues renewables consumption rules set to fuel new growth cycle for solar PV and energy storage - pv-tech.org",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTXhMZGx0eVh5am42ZjlzU2FYVFM4aUhidHRULXlLT1pMT1I3dnNuQ19wcFBjZ3lkV3RROVdYbUtlUzczc2RnQVBuZG9uRkRtMzlINVRqLTVQT1J2WlRjYzU1WjltNmhIc2UxeW9ER1MyUVRsT3RTRGFISGZyZk9kUHNyTDgyUGdBMzJkdTFDcmEwVDUzWF9vVl9PbHVVVjZlUVFsOUgyQ0FpYlZuR21CRDNxYjJhSFdXaGRmNGp1NlZ4Q3o0Y0E?oc=5",
-        "summary": "China issues renewables consumption rules set to fuel new growth cycle for solar PV and energy storage&nbsp;&nbsp;pv-tech.org",
-        "published": "2026-06-24",
-        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
-      },
-      {
-        "title": "Are Data Centers the Solution to China’s Renewables Excess Capacity? - Carnegie Endowment for International Peace",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa3BQZG80TWktTVM2R1BsUVRWQ0VHYkdkdGpVRlM5MGFxVTBEbTJzclRTdjFpTGozenhXT2M1WnZVSk5zYXUzRTlnd0NRU21rekVweTluSkxEa0NYS2JRNTk3RWlqeWVWbktnSDdtSDlPV2tXVFRETHItLUwwZG8tQjMybjZNWU9oTGE5cVhWeDZVSGtIVDc1WVhlRnZvcjY5bTZvMUQwanBRc2dxOHlTdWl2aUczUlE?oc=5",
-        "summary": "Are Data Centers the Solution to China’s Renewables Excess Capacity?&nbsp;&nbsp;Carnegie Endowment for International Peace",
-        "published": "2026-07-31",
-        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
-      },
-      {
-        "title": "24/7 Renewables Outcompete Fossil Fuels on Costs - International Renewable Energy Agency (IRENA)",
+        "title": "24/7 Renewables Outcompete Fossil Fuels on Costs - irena.org",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY1BnVUI5cVRaVHdibi1BX3BGVExndmtUbHpfUy1FVldkOTQ1UnlCeUctWV8zbnQwbGlFVVVKSVhoOW10RDdDSWpBT01NaWZ0SVMtY0RJaWJuQm5tLUN2NXg5NGZhRDM2dEFseE04bVpoX0VjckVHWXAwZU1CZzQ2WVViZHUtMVM2bWdScjlfZm5nOXh6ZDA5LUZtR0VkVlUzS3J0NEh3?oc=5",
-        "summary": "24/7 Renewables Outcompete Fossil Fuels on Costs&nbsp;&nbsp;International Renewable Energy Agency (IRENA)",
+        "summary": "24/7 Renewables Outcompete Fossil Fuels on Costs&nbsp;&nbsp;irena.org",
         "published": "2026-05-06",
+        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
+      },
+      {
+        "title": "China issues renewables consumption rules set to fuel new growth cycle for solar PV and energy storage - PV Tech",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTXhMZGx0eVh5am42ZjlzU2FYVFM4aUhidHRULXlLT1pMT1I3dnNuQ19wcFBjZ3lkV3RROVdYbUtlUzczc2RnQVBuZG9uRkRtMzlINVRqLTVQT1J2WlRjYzU1WjltNmhIc2UxeW9ER1MyUVRsT3RTRGFISGZyZk9kUHNyTDgyUGdBMzJkdTFDcmEwVDUzWF9vVl9PbHVVVjZlUVFsOUgyQ0FpYlZuR21CRDNxYjJhSFdXaGRmNGp1NlZ4Q3o0Y0E?oc=5",
+        "summary": "China issues renewables consumption rules set to fuel new growth cycle for solar PV and energy storage&nbsp;&nbsp;PV Tech",
+        "published": "2026-06-24",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       },
       {
@@ -208,20 +215,13 @@
         "summary": "China’s 15th Five-Year Plan For Solar & Wind Is Huge&nbsp;&nbsp;CleanTechnica",
         "published": "2026-07-30",
         "source": "\"china solar wind storage renewable energy new energy\" - Google News"
-      },
-      {
-        "title": "China's 15th Five-Year Plan Targets Over 50% Wind & Solar Share - TaiyangNews",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeElqT2hKaGhaUjBRVF92ejRtNkFiNDVzYWtIMUNoZ19ibXgxNnVsd21RZmhCNkptRGFGVXNQcF82dEtoZEFvN3dpbTVmXzBtUHBQQlpUZ2VKTmo0XzE0OG9MOVhGYWVsUl9qTXRsNTlSX282eFNpVlQ0RmQyWHpZVFBaZ0diS3pyOFN0QjF6VHRvUzZsRjJsY0dQS0FOZk5D?oc=5",
-        "summary": "China's 15th Five-Year Plan Targets Over 50% Wind & Solar Share&nbsp;&nbsp;TaiyangNews",
-        "published": "2026-07-01",
-        "source": "\"china solar wind storage renewable energy new energy\" - Google News"
       }
     ],
     "major_events": [
       {
-        "title": "New York hits solar energy milestone - WWNY",
+        "title": "New York hits solar energy milestone - wwnytv.com",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfT0ZNdF9CSGJHdnF4dmJIMDA2V0RObGJPcGRfY3FrVmg5T2I4ZlNhVnkzV29iU2xkcGVaeFdmX2tpUnJYd1ZvQVZoUXRmYUN2T043aFd5NzFxTmtqYUJlRlZRYloxdFdLbUU4R29BQXBiMmJobnByaUZKMA?oc=5",
-        "summary": "New York hits solar energy milestone&nbsp;&nbsp;WWNY",
+        "summary": "New York hits solar energy milestone&nbsp;&nbsp;wwnytv.com",
         "published": "2026-07-02",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
@@ -233,17 +233,17 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "Renewable Energy - Invest India",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPQXAyVEtKOEFXa1hxX3J4akFQazE2a21BekVLOTFQT25GYllvWHhMWERoM2pxR3ZKQ0VXU0ZLU254NE8xeHNaUVJUcmFfdTRud0Z4M2Y2Y3FXdGtKUHlRMm1ITVY?oc=5",
-        "summary": "Renewable Energy&nbsp;&nbsp;Invest India",
-        "published": "2026-07-20",
-        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
-      },
-      {
         "title": "China Hits Renewable Milestone, But Coal Isn't Going Anywhere - Crude Oil Prices Today | OilPrice.com",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU245OTBtUWlBREU1eUJlVEhQeHEtbzdFSk1BUFFrTXV5ZWYzbWlNczZjQ2hyckFCYXFBSnM1dW9pSlkzU1J3X3UwY2VMemV4VzM2ZEtFYXdEVTMzcUJRQkgzTFhWaGZWckRiRmh2TTVsMXZFbnVpTXlFWnNGTHhkVlhiSGI3R3BXeS15dmtLcXI2dGJZSjhBVEpVTDJQUdIBowFBVV95cUxNYVlGWkN3RWxCWUtFTW5BLWFUaXZTcGlrUkkzb2xGMDNyT1EzSDdoQU00ODBiNGRfTW5veEd4WDZLVG5Ia1BJNU5NcFdrclo5NG91bmJVX2tXNHJ1cmxxMFJJSGhtVkNkbl9HNVVjRkJHcGZKUi1hRkwyaExtNU9WZTlQQWFGc0had1hSWklSMzhlSHdneTA0djRSRzZFZVh3bXVj?oc=5",
         "summary": "China Hits Renewable Milestone, But Coal Isn't Going Anywhere&nbsp;&nbsp;Crude Oil Prices Today | OilPrice.com",
         "published": "2026-02-16",
+        "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
+      },
+      {
+        "title": "Renewable Energy - Invest India",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPQXAyVEtKOEFXa1hxX3J4akFQazE2a21BekVLOTFQT25GYllvWHhMWERoM2pxR3ZKQ0VXU0ZLU254NE8xeHNaUVJUcmFfdTRud0Z4M2Y2Y3FXdGtKUHlRMm1ITVY?oc=5",
+        "summary": "Renewable Energy&nbsp;&nbsp;Invest India",
+        "published": "2026-06-25",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
@@ -254,9 +254,9 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "Nigeria’s Climate Transition in 2025: Moving from Ambition to Delivery - afripoli.org",
+        "title": "Nigeria’s Climate Transition in 2025: Moving from Ambition to Delivery - APRI – Africa Policy Research Institute",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObndxN0p6T1dmZHA5YWF1aU1qNFFlaDdZR0dGaW5tU1lRYWJ5WElVWm5ZWHcyZTJyMXJBaUZ5X3UxWFlaTHF4MVFaclgwNVRQajNzODFOTUpld0NmaUYyalJ6aWh0YUFLVHZjT2ZVQWJyUnlCdUhXaVE1T0l1UlRHc2FCLVBXaHF5WUpmM24zYzhIMjA?oc=5",
-        "summary": "Nigeria’s Climate Transition in 2025: Moving from Ambition to Delivery&nbsp;&nbsp;afripoli.org",
+        "summary": "Nigeria’s Climate Transition in 2025: Moving from Ambition to Delivery&nbsp;&nbsp;APRI – Africa Policy Research Institute",
         "published": "2026-03-17",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
@@ -268,16 +268,16 @@
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "China Adds Power 8x More Than the US in 2025, with $500B Energy Build-Out in a Single Year - carboncredits.com",
+        "title": "China Adds Power 8x More Than the US in 2025, with $500B Energy Build-Out in a Single Year - CarbonCredits.com",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZlVHN3l5S3JULXMtU2REbUxtNTZ3bTdybUlyejVsVVNNRzlfV3U5MWNwMFdtM2ZEQWRJZmluUzNpV0pjNk5MMWpGUkd4OXZRdUNVcW00a05yTmJBNlF5NUlxeWpjblV2bkxrd1R2aGR2a0dEWFl4b2Zad1g3Sjd0aEk0TzFFbWYtcnRMZkxTQ0xQaVBkNUE2eVlXUHRZa1R4M1R0UDExQ3dmUTZHcHVEQi1aYmU2UQ?oc=5",
-        "summary": "China Adds Power 8x More Than the US in 2025, with $500B Energy Build-Out in a Single Year&nbsp;&nbsp;carboncredits.com",
+        "summary": "China Adds Power 8x More Than the US in 2025, with $500B Energy Build-Out in a Single Year&nbsp;&nbsp;CarbonCredits.com",
         "published": "2026-02-04",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
       {
-        "title": "World Breaks Renewable Records but Must Move Faster to Hit 2030 Tripling Goal - International Renewable Energy Agency (IRENA)",
+        "title": "World Breaks Renewable Records but Must Move Faster to Hit 2030 Tripling Goal - irena.org",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbFJGVDhZT0ttLVNSdm45ZGpEM0d6OWxpTExIcEFhOGhHb1h5LUN3TkFSVW5sQm91d2dMNWlCUndNZEdUZXNFTV9zTW5Ramc0bW93SV9Pc2RyZ0EtQXRwUGx1MWFlMEdMV2IwY1U3MlZkdm5OZjZwSWFUMUlwcXlxY29hUmNRMUlMajZRT3h2azFmbVUxWFpmQTRTQUtGbUNIb01Xb2hJcDRUb2UtNWNyOWVTd0p6eGR6WWJFd0cwTnRUeHA5dkE?oc=5",
-        "summary": "World Breaks Renewable Records but Must Move Faster to Hit 2030 Tripling Goal&nbsp;&nbsp;International Renewable Energy Agency (IRENA)",
+        "summary": "World Breaks Renewable Records but Must Move Faster to Hit 2030 Tripling Goal&nbsp;&nbsp;irena.org",
         "published": "2025-10-14",
         "source": "\"renewable energy gigawatt billion investment policy record milestone\" - Google News"
       },
